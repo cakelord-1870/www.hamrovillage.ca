@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/purses.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-01-08T12:47:50-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6076417736857</id>
+    <published>2021-01-08T12:47:50-05:00</published>
+    <updated>2021-01-08T12:47:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/poppy-purse-grey"/>
+    <title>Poppy Purse Grey</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AP_2_assorted.jpg?v=1610134954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong><span data-mce-fragment="1">100% felted wool, a renewable material. <br data-mce-fragment="1"></span><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br data-mce-fragment="1">Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6076417736857</id>
+      <title>Grey</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>AP-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6076417736857</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>AP-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6076379758745</id>
+    <published>2021-01-08T12:34:54-05:00</published>
+    <updated>2021-01-08T12:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/thread-purse"/>
+    <title>Thread Purse</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AP_4_assorted.jpg?v=1610127330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>These purses is handmade from 100% wool, using only soap and warm water. The simple and clean heart design on the front has been carefully needle felted and closes with a zipper fastener, to keep any valuables snug and secure.</span></p>
+<ul>
+<li>
+<span>Comes Assortments of 4 </span>colours</li>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 4” X 7”<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6076379758745</id>
+      <title>Grey</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>AP-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6076379758745</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>AP-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6076352135321</id>
+    <published>2021-01-08T12:26:59-05:00</published>
+    <updated>2021-01-08T12:26:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/sheep-purse-1"/>
+    <title>Sheep Purse</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AFP_5_assorted.jpg?v=1610126988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These purses is handmade from 100% wool, using only soap and warm water. The simple and clean heart design on the front has been carefully needle felted and closes with a zipper fastener, to keep any valuables snug and secure.<br></p>
+<ul>
+<li>
+<span>Comes Assortments of 4 </span>colours</li>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 5” X 5”<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6076352135321</id>
+      <title>Grey</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>AFP-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6076352135321</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>AFP-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6076319301785</id>
+    <published>2021-01-08T12:17:40-05:00</published>
+    <updated>2021-01-08T12:17:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/tree-of-life-purse"/>
+    <title>Tree of Life Purse</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AP_6_arrorted.jpg?v=1610126556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>These purses is handmade from 100% wool, using only soap and warm water. The simple and clean heart design on the front has been carefully needle felted and closes with a zipper fastener, to keep any valuables snug and secure.</span></p>
+<ul>
+<li>
+<span>Comes Assortments of 4 </span>colours</li>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 4” X 6”<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6076319301785</id>
+      <title>Grey</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>AP-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6076319301785</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>AP-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6076286075033</id>
+    <published>2021-01-08T12:07:43-05:00</published>
+    <updated>2021-01-08T12:07:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/fhp-28-singing-bird-purse"/>
+    <title>FHP-28 (singing bird purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/FHP_28.jpg?v=1610126078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable singing bird purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 5” X 6”<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6076286075033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>FHP-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1395153535069</id>
+    <published>2020-09-13T20:31:13-04:00</published>
+    <updated>2020-09-13T20:31:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vcp-1-beaver-purse"/>
+    <title>VCP-1 (beaver purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/VCP-1_9c78a432-6209-44c5-91a5-bf23696ee56a.jpg?v=1600043946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1">This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong><span data-mce-fragment="1">100% felted wool, a renewable material. <br data-mce-fragment="1"></span><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br data-mce-fragment="1">Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1395153535069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>VCP-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5606400884889</id>
+    <published>2020-09-05T08:38:07-04:00</published>
+    <updated>2020-09-05T08:38:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbp-10-canoe-purse"/>
+    <title>KBP-10 (buck deer purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBP-10.jpg?v=1599309623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong></strong>This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong><span data-mce-fragment="1">100% felted wool, a renewable material. <br data-mce-fragment="1"></span><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br data-mce-fragment="1">Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5606400884889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KBP-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5606400753817</id>
+    <published>2020-09-05T08:38:06-04:00</published>
+    <updated>2020-09-05T08:38:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbp-9-canoe-purse"/>
+    <title>KBP-9 (moose purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBP-9.jpg?v=1599309990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong></strong>This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong><span data-mce-fragment="1">100% felted wool, a renewable material. <br data-mce-fragment="1"></span><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br data-mce-fragment="1">Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5606400753817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KBP-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5606400655513</id>
+    <published>2020-09-05T08:38:04-04:00</published>
+    <updated>2020-09-05T08:38:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbp-8-canoe-purse"/>
+    <title>KBP-8 (bear purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBP-8.jpg?v=1599309936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong></strong>This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong><span data-mce-fragment="1">100% felted wool, a renewable material. <br data-mce-fragment="1"></span><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br data-mce-fragment="1">Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5606400655513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KBP-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5606400622745</id>
+    <published>2020-09-05T08:38:03-04:00</published>
+    <updated>2020-09-05T08:38:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbp-7-canoe-purse"/>
+    <title>KBP-7 (wolf purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBP-7.jpg?v=1599309890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong></strong>This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong><span data-mce-fragment="1">100% felted wool, a renewable material. <br data-mce-fragment="1"></span><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br data-mce-fragment="1">Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5606400622745</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KBP-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5606400557209</id>
+    <published>2020-09-05T08:38:02-04:00</published>
+    <updated>2020-09-05T08:38:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbp-6-canoe-purse"/>
+    <title>KBP-6 (fox purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBP-6.jpg?v=1599309849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong></strong>This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul></ul>
+<p><strong>size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5606400557209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KBP-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5606400458905</id>
+    <published>2020-09-05T08:38:00-04:00</published>
+    <updated>2020-09-05T08:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbp-5-canoe-purse"/>
+    <title>KBP-5 (beaver purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBP-5.jpg?v=1599309805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong></strong>This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong><span data-mce-fragment="1">100% felted wool, a renewable material. <br data-mce-fragment="1"></span><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br data-mce-fragment="1">Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5606400458905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KBP-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5606400426137</id>
+    <published>2020-09-05T08:37:59-04:00</published>
+    <updated>2020-09-05T08:37:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbp-4-canoe-purse"/>
+    <title>KBP-4 (loone purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBP-4.jpg?v=1599309764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong></strong>This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong><span data-mce-fragment="1">100% felted wool, a renewable material. <br data-mce-fragment="1"></span><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br data-mce-fragment="1">Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5606400426137</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KBP-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5606400295065</id>
+    <published>2020-09-05T08:37:58-04:00</published>
+    <updated>2020-09-05T08:37:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbp-3-canoe-purse"/>
+    <title>KBP-3 (pine tree purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBP-3.jpg?v=1599309728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong></strong>This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong><span data-mce-fragment="1">100% felted wool, a renewable material. <br data-mce-fragment="1"></span><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br data-mce-fragment="1">Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5606400295065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KBP-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5606400131225</id>
+    <published>2020-09-05T08:37:56-04:00</published>
+    <updated>2020-09-05T08:37:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbp-2-canoe-purse"/>
+    <title>KBP-2 (maple leaf purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBP-2.jpg?v=1599309694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong></strong>This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong><span data-mce-fragment="1">100% felted wool, a renewable material. <br data-mce-fragment="1"></span><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br data-mce-fragment="1">Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5606400131225</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KBP-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5606372671641</id>
+    <published>2020-09-05T08:28:19-04:00</published>
+    <updated>2020-09-05T08:28:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbp-1-canoe-purse"/>
+    <title>KBP-1 (canoe purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBP-1.jpg?v=1599308847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong></strong>This felted wool purses is inspired by true north, wild and free. From our mighty Moose to Beaver, northern lights to wind swept Pines. Our northern collection are carefully crafted to create lasting impressions. Interior is cotton lined and closes with high quality lead-free ykk zipper. Perfect to organize jewelry, ear phones, business cards, keys, cosmetic items and change money. </p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">size: </strong>16.5cm L x 13.5cm Ht.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong><span data-mce-fragment="1">100% felted wool, a renewable material. <br data-mce-fragment="1"></span><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br data-mce-fragment="1">Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5606372671641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KBP-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567016833117</id>
+    <published>2020-03-02T12:09:50-05:00</published>
+    <updated>2020-03-02T12:09:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vwp-1-wolf-purse-1"/>
+    <title>VWP-1 (wolf purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/northern_wolf_purse_aaf67d2a-9c8b-4a4f-a8e9-4e2f86085d42.jpg?v=1583168995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>These hand felted purses are inspirations from True North, wild and free. <br>From our mighty Moose to Beaver; Northern Lights to wind swept Pines.<span> </span><br>Our northern collection are carefully crafted to create lasting impressions.</p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Zipper Closer</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 6” X 4”<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567016833117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>VWP-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567014211677</id>
+    <published>2020-03-02T12:04:45-05:00</published>
+    <updated>2020-03-02T12:04:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/clp-8-black-bear-fish-purse"/>
+    <title>VP-2 (black bear w/fish purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/black_bear_purse_1_eb531be1-a050-47bc-95e1-b9378eec7752.jpg?v=1583168688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This adorable purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.<br></span></p>
+<p><span><strong>size:</strong> 5” x 6” <br><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567014211677</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>VP-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3571862732893</id>
+    <published>2019-05-27T12:29:09-04:00</published>
+    <updated>2019-05-27T12:29:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afcp-2-dragonfly-purse"/>
+    <title>AFCP-2 (dragonfly purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/new-dragonfly-purse_c7bb2afb-822b-4269-abeb-4dea62a6cf02.jpg?v=1583168478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable dragon purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>comes in 4 assortments of colour</li>
+</ul>
+<p><span><strong>composition:</strong> 100% felted wool, a renewable material. <br></span><strong>care:</strong><span> hand wash and hang dry. </span><br><strong>size:<span> </span></strong><span>4" x 5"</span><b><br></b></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3571862732893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>AFCP-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3571862503517</id>
+    <published>2019-05-27T12:29:07-04:00</published>
+    <updated>2019-05-27T12:29:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afcp-1-bug-flower-purse"/>
+    <title>AFCP-1 (bug &amp; flower purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/new-ladybug-purse_809864ea-30e8-4769-b8b9-fd28de10c7bd.jpg?v=1583168481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable ladybug purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>comes in 4 assortments of colour</li>
+</ul>
+<p><span><strong>composition:</strong> 100% felted wool, a renewable material. <br></span><strong>care:</strong><span> hand wash and hang dry. </span><br><strong>size:<span> </span></strong><span>4" x 5"</span><b><br></b></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3571862503517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>AFCP-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3571808960605</id>
+    <published>2019-05-27T12:16:00-04:00</published>
+    <updated>2019-05-27T12:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vp-28-meow-x-purse"/>
+    <title>VP-28 (meow x-purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/VP-28a_e4d6ca0c-a656-4034-be98-061af6288211.jpg?v=1620499476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8"> <strong></strong></span><span>This adorable meow x-purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a button fastener to keep any valuables snug and secure.</span></p>
+<p><span><strong>composition:</strong> </span><span>100% felted wool, a renewable material. </span><br><span><strong>care: </strong></span><span>brush. spot-clean with damp sponge and soap, or with a textile stain remover. Hand wash and air dry. Do not machine wash. </span><br><strong>size: </strong>5” width x 7.5” ht.</p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3571808960605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>VP-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3571798605917</id>
+    <published>2019-05-27T12:14:19-04:00</published>
+    <updated>2019-05-27T12:14:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vp-27-chirp-x-purse"/>
+    <title>VP-27 (chirp x-purse)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/VP-27a_ac93cd1d-c8a7-4b02-bce2-54a49b552add.jpg?v=1620499396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8"> <strong></strong></span><span>This adorable chrip x-purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a button fastener to keep any valuables snug and secure.</span></p>
+<p><span><strong>composition:</strong> </span><span>100% felted wool, a renewable material. </span><br><span><strong>care: </strong></span><span>brush. spot-clean with damp sponge and soap, or with a textile stain remover. Hand wash and air dry. Do not machine wash. </span><br><strong>size: </strong>5” width x 7.5” ht.</p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3571798605917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>VP-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3571745063005</id>
+    <published>2019-05-27T12:05:02-04:00</published>
+    <updated>2019-05-27T12:05:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vwc-3-flower-wrist-purses"/>
+    <title>VWC-3 (flower wrist purses)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/grey_pouch_d82ba53a-7b48-4674-b299-25deeb53142a.jpg?v=1583168272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This flowers purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</p>
+<ul>
+<li>Made out of one piece, meaning no seam</li>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><span><strong>size: </strong>8” long x 5” height x 2.5” depth<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3571745063005</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>VWC-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3571739787357</id>
+    <published>2019-05-27T12:04:19-04:00</published>
+    <updated>2019-05-27T12:04:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vwc-2-flower-wrist-purses"/>
+    <title>VWC-2 (flower wrist purses)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/green_pouch_0389484f-8949-41e6-92bd-19380ef28f73.jpg?v=1583168274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This flowers purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</p>
+<ul>
+<li>Made out of one piece, meaning no seam</li>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><span><strong>size: </strong>8” long x 5” height x 2.5” depth<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3571739787357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>VWC-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3571721470045</id>
+    <published>2019-05-27T11:54:57-04:00</published>
+    <updated>2019-05-27T11:54:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vwc-1-flower-wrist-purses"/>
+    <title>VWC-1 (flower wrist purses)</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/black_pouch_678dc2e4-3215-4830-9bad-5d3e58560d99.jpg?v=1583168276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This flowers purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</p>
+<ul>
+<li>Made out of one piece, meaning no seam</li>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><span><strong>size: </strong>8” long x 5” height x 2.5” depth<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3571721470045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>VWC-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/finger-puppets.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-02-03T14:01:12-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6129100259481</id>
+    <published>2021-02-03T14:01:12-05:00</published>
+    <updated>2021-02-03T14:01:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/fp-elephant"/>
+    <title>FP-Elephant</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/FP-Elephant.jpg?v=1612378899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6129100259481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FP-Elephant</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6129099014297</id>
+    <published>2021-02-03T13:59:53-05:00</published>
+    <updated>2021-02-03T13:59:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/fp-dog"/>
+    <title>FP-Dog</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/FP-Dog.jpg?v=1612378814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6129099014297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FP-Dog</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549066699</id>
+    <published>2017-07-20T13:22:52-04:00</published>
+    <updated>2017-07-20T13:22:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/bunny-finger-puppet"/>
+    <title>FP-Bunny</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/bunny_1_5214bedb-c627-40ce-aef4-1b3e26a620df.jpg?v=1583170327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549066699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FP-Bunny</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549066251</id>
+    <published>2017-07-20T13:22:50-04:00</published>
+    <updated>2017-07-20T13:22:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/cat-finger-puppet"/>
+    <title>FP-Cat</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/cat_1_48104455-0494-4608-813a-5894672e9337.jpg?v=1583170322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549066251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FP-Cat</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549065931</id>
+    <published>2017-07-20T13:22:48-04:00</published>
+    <updated>2017-07-20T13:22:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/crocodile-finger-puppet"/>
+    <title>FP-Crocodile</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/crocodile_1_73f60938-2ab0-4e35-9a63-4e3d065984a0.jpg?v=1583170307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549065931</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>FP-Crocodile</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549065483</id>
+    <published>2017-07-20T13:22:43-04:00</published>
+    <updated>2017-07-20T13:22:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/frog-finger-puppet"/>
+    <title>FP-Frog</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/frog_1_e88e54c9-0dd8-43e2-bbe6-7dff15a9e1dc.jpg?v=1583170305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549065483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>FP-Frog</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549064779</id>
+    <published>2017-07-20T13:22:39-04:00</published>
+    <updated>2017-07-20T13:22:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/grasshhopper-finger-puppet"/>
+    <title>FP-Dragonfly</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/grasshopper_1_630e1fbf-a8bd-4982-ae07-15b12e94479d.jpg?v=1583170300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549064779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>FP-Dragonfly</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549064075</id>
+    <published>2017-07-20T13:22:35-04:00</published>
+    <updated>2017-07-20T13:22:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/hen-finger-puppet"/>
+    <title>FP-Rooster</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/rooster_1_b6fc91f6-6169-4d64-8cff-88516d9c0715.jpg?v=1583170296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549064075</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>FP-Rooster</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549063435</id>
+    <published>2017-07-20T13:22:29-04:00</published>
+    <updated>2017-07-20T13:22:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/koala-finger-puppet"/>
+    <title>FP-Koala</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/koala_1_8a0c1fd9-d7e2-4772-8fd9-1c3a5683136b.jpg?v=1583170290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549063435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>FP-Koala</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549062667</id>
+    <published>2017-07-20T13:22:28-04:00</published>
+    <updated>2017-07-20T13:22:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lion-finger-puppet"/>
+    <title>FP-Lion</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/lion_1_72ae24a9-b971-413f-81d8-1bcf766219e2.jpg?v=1583170285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549062667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FP-Lion</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549062347</id>
+    <published>2017-07-20T13:22:22-04:00</published>
+    <updated>2017-07-20T13:22:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/monkey-finger-puppet"/>
+    <title>FP-Monkey</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/monkey_1_696b57ee-77ac-4622-87fa-92130d6388c6.jpg?v=1583170283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549062347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FP-Monkey</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549061515</id>
+    <published>2017-07-20T13:22:17-04:00</published>
+    <updated>2017-07-20T13:22:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/panda-finger-puppet"/>
+    <title>FP-Panda</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/panda_1_16e0a467-9073-4b62-8d50-dfa68d058e91.jpg?v=1583170279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549061515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FP-Panda</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549061003</id>
+    <published>2017-07-20T13:22:13-04:00</published>
+    <updated>2017-07-20T13:22:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/parrot-finger-puppet"/>
+    <title>FP-Parrot</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/parrot_1_fab551e1-a735-44e7-b299-5f3e0437e7f7.jpg?v=1583170275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549061003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>FP-Parrot</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549060299</id>
+    <published>2017-07-20T13:22:08-04:00</published>
+    <updated>2017-07-20T13:22:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/peacock-finger-puppet"/>
+    <title>FP-Peacock</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/peacock_1_0b334cf4-4038-410b-8d0c-86e3dadece75.jpg?v=1583170269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549060299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FP-Peacock</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549059531</id>
+    <published>2017-07-20T13:22:03-04:00</published>
+    <updated>2017-07-20T13:22:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pig-finger-puppet"/>
+    <title>FP-Pig</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/pig_1_938eb58a-2759-4aa5-b462-093a99bb518d.jpg?v=1583170265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549059531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FP-Pig</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549058763</id>
+    <published>2017-07-20T13:21:58-04:00</published>
+    <updated>2017-07-20T13:21:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/sheep-finger-puppet"/>
+    <title>FP-Sheep</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/sheep_1_efa70e2e-8aa7-4124-8026-c399ae90740d.jpg?v=1583170259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549058763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>FP-Sheep</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549058123</id>
+    <published>2017-07-20T13:21:52-04:00</published>
+    <updated>2017-07-20T13:21:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/swan-finger-puppet"/>
+    <title>FP-Swan</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/swan_1_4a922620-b894-40fc-871a-0fe744cae8dc.jpg?v=1583170254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549058123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FP-Swan</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549057291</id>
+    <published>2017-07-20T13:21:47-04:00</published>
+    <updated>2017-07-20T13:21:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/turtle-finger-puppet"/>
+    <title>FP-Turtle</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/turtle_1_5891bd9e-9e7f-4abe-b979-835396f8828b.jpg?v=1583170249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Handmade colorful finger puppets are a great way for kids to use their imagination. Kids will love these and they are perfectly portable so you can take the fun along anywhere you go. Perfect for preschool, daycare, home school, and kindergarten to help boost children's creativity, as they will be able to create fun stories out of these puppets. Hand felted from 100% wool, using only soap and warm water.<br></span></p>
+<p><span><strong>4 pcs finger puppets in a pack. </strong><br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span><span></span><span><br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549057291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FP-Turtle</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549055499</id>
+    <published>2017-07-20T13:21:24-04:00</published>
+    <updated>2017-07-20T13:21:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/tree-display-with-40-finger-puppets"/>
+    <title>TD-2 (finger puppet set)</title>
+    <s:type>Finger Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/finger_puppets_display_1_d26610cf-9a9c-44c3-93bc-22032fa6e4d4.jpg?v=1583170238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Finger Puppets<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span>Our handcrafted Tree Display stand allows our beautiful Finger Puppets to stand free. The stunning Tree display design will add beauty and magic to your store. It can be used on counter tops to showcase and compliment items for sale. <br><br><b>Tree Display Stand with 40 Assorted Finger Puppets<br>Puppet / $4 - Tree Stand $25<br><br>Display Tree: </b>Handcrafted with 6 layer of bendable wire and wrapped with 100% wool yarn. <br>Available in color  White. Easily folds up to ship.<b><br></b></span></span></p>
+<meta charset="utf-8">
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br></span><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549055499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">185.00</s:price>
+      <s:sku>TD-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

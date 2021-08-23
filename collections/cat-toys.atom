@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/cat-toys.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-05-06T13:54:36-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6748777152665</id>
+    <published>2021-05-06T13:54:36-04:00</published>
+    <updated>2021-05-06T13:54:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-22-red-mouse"/>
+    <title>KPT-22 (red mouse)</title>
+    <s:type>Cat Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-22.png?v=1620323666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Toys<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Set of 2.</strong></p>
+<meta charset="utf-8">
+<p><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any cats. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6748777152665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KPT-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6748773023897</id>
+    <published>2021-05-06T13:52:22-04:00</published>
+    <updated>2021-05-06T13:52:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-23-yellow-mouse"/>
+    <title>KPT-23 (yellow mouse)</title>
+    <s:type>Cat Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-23.png?v=1620323535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Toys<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Set of 2.</strong></p>
+<meta charset="utf-8">
+<p><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any cats. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6748773023897</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KPT-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6748771319961</id>
+    <published>2021-05-06T13:51:32-04:00</published>
+    <updated>2021-05-06T13:51:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-21-grey-mouse"/>
+    <title>KPT-21 (grey mouse)</title>
+    <s:type>Cat Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-21.png?v=1620323475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Toys<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Set of 2.</strong></p>
+<meta charset="utf-8">
+<p><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any cats. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6748771319961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KPT-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6748768370841</id>
+    <published>2021-05-06T13:50:22-04:00</published>
+    <updated>2021-05-06T13:50:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-20-white-mouse"/>
+    <title>KPT-20 (white mouse)</title>
+    <s:type>Cat Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-20.png?v=1620323382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Toys<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Set of 2.</strong></p>
+<meta charset="utf-8">
+<p><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any cats. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6748768370841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KPT-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003267165</id>
+    <published>2020-03-02T11:41:17-05:00</published>
+    <updated>2020-03-02T11:41:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-1-4cm-blue-balls"/>
+    <title>KPT-1 (4cm blue balls)</title>
+    <s:type>Cat Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-1.png?v=1583167281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Toys<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Pack of 4 Balls</strong></span></p>
+<p><span></span><span>All our handmade felt pet toys are safe and strong and attractive toy option for any cats. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003267165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>KPT-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003201629</id>
+    <published>2020-03-02T11:41:15-05:00</published>
+    <updated>2020-03-02T11:41:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-2-4cm-yellow-balls"/>
+    <title>KPT-2 (4cm yellow balls)</title>
+    <s:type>Cat Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-2.png?v=1583167277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Toys<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Pack of 4 Balls</strong></span></p>
+<meta charset="utf-8">
+<p><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any cats. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003201629</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>KPT-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003168861</id>
+    <published>2020-03-02T11:41:12-05:00</published>
+    <updated>2020-03-02T11:41:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-3-4cm-green-balls"/>
+    <title>KPT-3 (4cm green balls)</title>
+    <s:type>Cat Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-3.png?v=1583167274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Toys<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Pack of 4 Balls</strong></span></p>
+<meta charset="utf-8">
+<p><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any cats. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003168861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>KPT-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567002742877</id>
+    <published>2020-03-02T11:40:54-05:00</published>
+    <updated>2020-03-02T11:40:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-14-pig-ball-toy"/>
+    <title>KPT-14 (pig ball toy)</title>
+    <s:type>Cat Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-14A.png?v=1583171569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Set of 2.</strong></p>
+<meta charset="utf-8">
+<p><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any cats. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567002742877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>KPT-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567002677341</id>
+    <published>2020-03-02T11:40:49-05:00</published>
+    <updated>2020-03-02T11:40:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-16-walrus-toy"/>
+    <title>KPT-16 (walrus toy)</title>
+    <s:type>Cat Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-16.png?v=1583167252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Set of 2.</strong></p>
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any cats. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567002677341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>KPT-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

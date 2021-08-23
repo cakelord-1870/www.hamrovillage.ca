@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/jewelry.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-09-17T11:04:26-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005290319965</id>
+    <published>2020-09-17T11:04:26-04:00</published>
+    <updated>2020-09-17T11:04:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nf-3-coral-earrings"/>
+    <title>EI-2 (lapis/turq brass earrings)</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/earring_3_55e2be5b-11a3-4236-bb32-0e58ca8eef13.jpg?v=1583168300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style earrings is made of reconstituted turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. </span></p>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005290319965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>EI-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548969611</id>
+    <published>2020-09-14T16:53:38-04:00</published>
+    <updated>2020-09-14T16:53:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nlace-2"/>
+    <title>NLACE-2</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NLACE-2.jpg?v=1600116791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            32.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted lapis, turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548969611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.50</s:price>
+      <s:sku>NLACE-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5642084876441</id>
+    <published>2020-09-14T16:29:14-04:00</published>
+    <updated>2020-09-14T16:29:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/er-23-lapis-coral-earrings"/>
+    <title>ER-23 (lapis/coral brass earrings)</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ER-23.jpg?v=1600112934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style earrings is made of reconstituted turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. </span></p>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5642084876441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>ER-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5642053779609</id>
+    <published>2020-09-14T16:29:13-04:00</published>
+    <updated>2020-09-14T16:29:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/er-21-pearl-earrings"/>
+    <title>ER-22 (pearl earrings)</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ER-22.jpg?v=1600111295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style earrings is made of reconstituted turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. </span></p>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5642053779609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>ER-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5641372762265</id>
+    <published>2020-09-14T16:29:13-04:00</published>
+    <updated>2020-09-14T16:29:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/er-17-turq-lapis-earrings"/>
+    <title>ER-17 (turq/lapis earrings)</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ER-17.jpg?v=1600095840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style earrings is made of reconstituted turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. </span></p>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5641372762265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ER-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5641529819289</id>
+    <published>2020-09-14T12:10:27-04:00</published>
+    <updated>2020-09-14T12:10:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/er-18-turq-lapis-earrings"/>
+    <title>ER-18 (turq/lapis earrings)</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ER-18.jpg?v=1600104563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style earrings is made of reconstituted turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. </span></p>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5641529819289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>ER-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548973707</id>
+    <published>2020-09-13T17:39:44-04:00</published>
+    <updated>2020-09-13T17:39:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/copy-of-nlace-10"/>
+    <title>NLACE-12</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NLACE-12.jpg?v=1600035614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted coral, turquoise beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548973707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>NLACE-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548972875</id>
+    <published>2020-09-13T16:12:33-04:00</published>
+    <updated>2020-09-13T16:12:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/copy-of-nlace-14"/>
+    <title>NLACE-15</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NLACE-15.jpg?v=1600028142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted lapis, turquoise beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548972875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>NLACE-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548977931</id>
+    <published>2020-03-02T12:24:50-05:00</published>
+    <updated>2020-03-02T12:24:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/necklaces"/>
+    <title>Single Strand Necklace</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NLACE-13.jpg?v=1600031787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted lapis, turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+<li>Set of 3 (turquoise,coral,lapis)</li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548977931</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>NLACE-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548976139</id>
+    <published>2020-03-02T12:24:43-05:00</published>
+    <updated>2020-03-02T12:24:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/copy-of-nlace-7"/>
+    <title>NLACE-6</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NLACE-6.jpg?v=1600032828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted coral, turquoise beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548976139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>NLACE-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005296611421</id>
+    <published>2019-02-24T15:48:56-05:00</published>
+    <updated>2019-02-24T15:48:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ef-1-tassel-coral-lapis-necklace"/>
+    <title>EF-1 (tassel coral/lapis necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/necklace_coral_wrap_2_d92337e4-474b-4c3a-a786-d9295a6f9f06.jpg?v=1583168329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, lapis beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 38 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005296611421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>EF-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005296447581</id>
+    <published>2019-02-24T15:48:51-05:00</published>
+    <updated>2019-02-24T15:48:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-1-tassel-lapis-turq-necklace"/>
+    <title>EE-1 (tassel lapis/turq necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/necklace_lapis_wrap_1_bd85745c-aedc-428d-ba94-cc534a412d5d.jpg?v=1583168332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, lapis beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 38 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005296447581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>EE-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005296250973</id>
+    <published>2019-02-24T15:48:49-05:00</published>
+    <updated>2019-02-24T15:48:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ed-1-tassel-turq-coral-necklace"/>
+    <title>ED-1 (tassel turq/coral necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/necklace_turq_wrap_2_32968322-7cb0-4c32-b14a-9a3d58f6d7a5.jpg?v=1583168346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, lapis beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 38 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005296250973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>ED-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005296218205</id>
+    <published>2019-02-24T15:48:47-05:00</published>
+    <updated>2019-02-24T15:48:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ec-1-lapis-coral-long-necklace"/>
+    <title>EC-1 (lapis/coral long necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/necklace_lapis_round_1_a3544a8f-07a0-4f1d-80ad-8e5f0eaea22f.jpg?v=1583168349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, lapis beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 38 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005296218205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>EC-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005296087133</id>
+    <published>2019-02-24T15:48:45-05:00</published>
+    <updated>2019-02-24T15:48:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eb-1-turq-lapis-long-necklace"/>
+    <title>EB-1 (turq/lapis long necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/necklace_turq_round_1_fd85c7f4-d82e-4dae-bf00-9c42b8be364c.jpg?v=1583168353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, lapis beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 38 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005296087133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>EB-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005296021597</id>
+    <published>2019-02-24T15:48:43-05:00</published>
+    <updated>2019-02-24T15:48:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ea-1-coral-glass-long-necklace"/>
+    <title>EA-1 (coral/brass necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/necklace_red_glass_2_93a6dc1b-99a8-48e2-b5c0-eb79a2b64200.jpg?v=1583168356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, lapis beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 38 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005296021597</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>EA-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005295956061</id>
+    <published>2019-02-24T15:48:42-05:00</published>
+    <updated>2019-02-24T15:48:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nj-11-lotus-lapis-necklace"/>
+    <title>NJ-11 (lotus coral necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NJ-11_53be6e73-b97d-43d0-bf87-0468af57f4cb.jpg?v=1583168358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures.<span><br> </span></span>
+<ul>
+<li><span>Necklace measures 20 inches around. </span></li>
+<li><span>Hook and loop closure.</span></li>
+<li>Crafted in Nepal</li>
+</ul>
+<meta charset="utf-8">
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005295956061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>NJ-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005295923293</id>
+    <published>2019-02-24T15:48:41-05:00</published>
+    <updated>2019-02-24T15:48:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nj-10-lotus-turq-necklace"/>
+    <title>NJ-10 (lotus lapis necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NJ-10_59f71938-ec4c-410f-9fdd-7ac297a75f8b.jpg?v=1583168360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, lapis beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005295923293</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>NJ-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005295890525</id>
+    <published>2019-02-24T15:48:39-05:00</published>
+    <updated>2019-02-24T15:48:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nj-9-lotus-necklace"/>
+    <title>NJ-9 (lotus turq necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NJ-9_70d05321-a0dc-4983-b19b-c3c364b8d1e9.jpg?v=1583168361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005295890525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>NJ-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005295857757</id>
+    <published>2019-02-24T15:48:38-05:00</published>
+    <updated>2019-02-24T15:48:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nj-8-veda-necklace"/>
+    <title>NJ-8 (veda necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NJ-8_9f839d2f-e462-42a4-9acc-77fc01dffb9b.jpg?v=1583168363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005295857757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>NJ-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005295824989</id>
+    <published>2019-02-24T15:48:37-05:00</published>
+    <updated>2019-02-24T15:48:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nj-7-kama-necklace"/>
+    <title>NJ-7 (kama necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NJ-7_b69d1a77-15aa-4182-b6e8-ae27d322b1b9.jpg?v=1583168365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted lapis, turquoise beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005295824989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>NJ-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005295759453</id>
+    <published>2019-02-24T15:48:36-05:00</published>
+    <updated>2019-02-24T15:48:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nj-6-metho-necklace"/>
+    <title>NJ-6 (metho necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NJ-6_93d50365-f00f-4517-9457-9dcdf4f6456d.jpg?v=1583168367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005295759453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>NJ-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005295628381</id>
+    <published>2019-02-24T15:48:35-05:00</published>
+    <updated>2019-02-24T15:48:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nj-5-eden-necklace"/>
+    <title>NJ-5 (eden necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NJ-5_7c6af223-8557-4bb3-ab8b-1fbbfae5c6d4.jpg?v=1583168369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted turquoise, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005295628381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>NJ-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005295595613</id>
+    <published>2019-02-24T15:48:33-05:00</published>
+    <updated>2019-02-24T15:48:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nj-4-boho-necklace"/>
+    <title>NJ-4 (boho necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NJ-4_96109ae0-4fa8-4429-b697-30e8ce9cd2a1.jpg?v=1583168371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted lapis, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005295595613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>NJ-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005295562845</id>
+    <published>2019-02-24T15:48:31-05:00</published>
+    <updated>2019-02-24T15:48:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nj-3-june-necklace"/>
+    <title>NJ-3 (june necklace)</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/NJ-3_5ba8dd2a-7859-4f09-a886-642b30d2a66f.jpg?v=1583168373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our jewelry reflects the rich art of the Himalayas. This Tibetan style necklace is made of reconstituted lapis, coral beads and mixed metal. These local materials are endowed with certain meanings. For instance, Turquoise is one of the oldest protection amulets, and was also known as a symbol of wealth in many ancient cultures. <br></span></p>
+<ul>
+<li><span>Necklace measures 20 inches around.</span></li>
+<li><span>Hook and loop closure. </span></li>
+<li>Crafted in Nepal </li>
+</ul>
+<p><span>All our jewellery are created by hand, please accept and appreciate minor imperfect and variation of handmade items. </span>No two items are identical, so every single item you purchase from us is one-of-kind.</p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005295562845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>NJ-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

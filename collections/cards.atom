@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/cards.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-03-02T12:22:11-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548937611</id>
+    <published>2020-03-02T12:22:11-05:00</published>
+    <updated>2020-03-02T12:22:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/bodhi-leaf-card"/>
+    <title>Bodhi Leaf Card</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/leaf_red_2_8a9940f9-125d-4d05-b6e7-adaea7a36354.jpg?v=1583169740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p><p><strong>comes in set of 4 color</strong><br><strong>composition:</strong><span> 100% Handmade paper.</span></p><p><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548937611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>LPC-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548962635</id>
+    <published>2017-07-20T13:10:40-04:00</published>
+    <updated>2017-07-20T13:10:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/black-buddha-card"/>
+    <title>Black Buddha Card</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/black_buddha_1_ddd179d2-8770-42e4-a3a8-061a3782f78d.jpg?v=1583169828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p><p><strong>composition:</strong><span> 100% Handmade paper.</span></p><p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548962635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>LPC-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548961739</id>
+    <published>2017-07-20T13:10:35-04:00</published>
+    <updated>2017-07-20T13:10:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/orange-dream-card"/>
+    <title>Orange Dream Card</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/dream_2_b6d75d57-0001-4b07-9501-79334fba2aeb.jpg?v=1583169824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p><p><strong>composition:</strong><span> 100% Handmade paper.</span></p><p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548961739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>LPC-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548960779</id>
+    <published>2017-07-20T13:10:29-04:00</published>
+    <updated>2017-07-20T13:10:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/red-footprint-card"/>
+    <title>Red Footprint Card</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/footprint_2_cbea1194-5acb-41f3-97e5-049a14dd533f.jpg?v=1583169819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p><p><strong>composition:</strong><span> 100% Handmade paper.</span></p><p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548960779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>LPC-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548960011</id>
+    <published>2017-07-20T13:10:22-04:00</published>
+    <updated>2017-07-20T13:10:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/singing-bird-card"/>
+    <title>Singing Bird Card</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/singing_birds_1_435212f0-eb06-4ce1-bfba-1900526f6ddc.jpg?v=1583169814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p><p><strong>composition:</strong><span> 100% Handmade paper.</span></p><p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548960011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>LPC-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548959179</id>
+    <published>2017-07-20T13:10:16-04:00</published>
+    <updated>2017-07-20T13:10:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/dandelion-card"/>
+    <title>Dandelion Card</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/dandellion_2_37ed867f-89de-4d06-8a4b-bd757a4c21ac.jpg?v=1583169794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p><p><strong>composition:</strong><span> 100% Handmade paper.</span></p><p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548959179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>LPC-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548958411</id>
+    <published>2017-07-20T13:10:09-04:00</published>
+    <updated>2017-07-20T13:10:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/tree-of-life-card"/>
+    <title>Tree of Life Card</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/green_tree_1_a332eaf5-f99c-43bc-8327-18f7fa1f597f.jpg?v=1583169789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p><p><strong>composition:</strong><span> 100% Handmade paper.</span></p><p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548958411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>LPC-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

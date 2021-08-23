@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/bird-hangings.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2019-05-27T11:12:49-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3571685883997</id>
+    <published>2019-05-27T11:12:49-04:00</published>
+    <updated>2019-05-27T11:12:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/mb2-double-bird-hanging"/>
+    <title>MB2 (double bird hanging)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/2_bird_branch_b4c68be5-fe44-493f-beb5-ad83a9ae51aa.jpg?v=1583168280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>If you enjoy nature and Birds, you will love this whimsical felted Bird. The Birds are so sweet, and can be used to bring joy anywhere you like or simply décor in your children's room. This will make a lovely gift for your customers or a felt craft lover.</span></p>
+<p><span>Please note that this Bird is for decoration only and not intended to be used as a toy.</span></p>
+<p><span><strong>comes in assortment of colours.</strong></span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.at to dry.<br><strong>size:</strong> 7" w x 3" ht.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3571685883997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>MB2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005139062877</id>
+    <published>2019-02-24T13:09:27-05:00</published>
+    <updated>2019-02-24T13:09:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebh-9-red-crested-cardinal"/>
+    <title>EBH-11 (red crested cardinal)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/red_cresent_cardinal_two_5c1afbfe-5de0-4735-880d-de1f149a6fff.jpg?v=1583168378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This Red Crested Cardinal </span><span>is sculpted by needle felting and could grace any home through the holiday season or any season. </span>The red-crested cardinal is common in the lowlands of Hawaiian islands. Native to South America, it was introduced to Oahu around 1930. It is also known as Brazilian Cardinal. </p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span><strong>size:<span> </span></strong>5.5 inches long</p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005139062877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>EBH-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005139030109</id>
+    <published>2019-02-24T13:09:24-05:00</published>
+    <updated>2019-02-24T13:09:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebh-10-lovebird"/>
+    <title>EBH-10 (lovebird)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/love_bird_one_5e98e395-d0c5-4440-8ff4-d10d6393198a.jpg?v=1583168381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This Lovebird</span> <span>is sculpted by needle felting and could grace any home through the holiday season or any season. </span>Lovebirds are one of the most popular pet parrot species. Lovebirds are native to the forests and savannas of Sub-Saharan Africa and Madagascar. </p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span><strong>size: </strong>3.5 inches long</p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005139030109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>EBH-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005138997341</id>
+    <published>2019-02-24T13:09:23-05:00</published>
+    <updated>2019-02-24T13:09:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebh-9-himalyan-bluetail"/>
+    <title>EBH-9 (himalyan bluetail)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/himalyan_blue_tail_7784f943-a055-42dc-9999-c4173f8b8873.jpg?v=1583168383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This </span>Himalayan Blue tail <span>is sculpted by needle felting and could grace any home through the holiday season or any season.The Himalayan Blue tail are found in the Himalayas from northeast Afghanistan through northwest Nepal.</span><br></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span><strong>size: </strong>3.5 inches long</p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005138997341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>EBH-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005138964573</id>
+    <published>2019-02-24T13:09:21-05:00</published>
+    <updated>2019-02-24T13:09:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebh-8-kingfisher"/>
+    <title>EBH-8 (kingfisher)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/kingfisher_ff718f83-e9f7-4f69-8eb9-92f28c709c57.jpg?v=1583168385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This Kingfisher is sculpted by needle felting and could grace any home through the holiday season or any season. </span>Kingfishers are a group of small to medium-sized, brightly coloured birds in the order Coraciiformes. The<span> </span>are found in Asia, Africa, Australia, and South America;<span> </span>some species<span> </span>in Europe and North America. They<strong> </strong>live<span> </span>along banks of rivers and lakes, forest and open woodland, a few species along seashores or in deserts.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span><strong>size: </strong>3.5 inches long</p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005138964573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>EBH-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005138931805</id>
+    <published>2019-02-24T13:09:17-05:00</published>
+    <updated>2019-02-24T13:09:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebh-7-pink-robin"/>
+    <title>EBH-7 (pink robin)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/pink_robin_one_1ea80e6e-dd74-4da0-932d-0633a50e7939.jpg?v=1583168389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This Pink Robin is sculpted by needle felting and could grace any home through the holiday season or any season. The Pink Robin is unusual amongst birds in that both the male and female have pink colouring – so often, only the males of a species display bright colouring to attract their mate. The contrast of the males’ black head and wings with bright pink chest make it one of the most striking Australian small birds.<br><strong><br>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span><strong>size: </strong>3" long</p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005138931805</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>EBH-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1497067683933</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/fbh-assorted-birds"/>
+    <title>FBH (assorted birds)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/FBH_73cbca8b-288b-403b-9bc3-7fbceeac50bf.jpg?v=1583168747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>All our six assorted colour birds are sculpted by needle felting. It is made of 100% wool and could grace any home through the holiday season or any season. These birds</span> are great gift for all ages.<span> </span></p>
+<p>Comes in a pack of 6 assorted colours.</p>
+<p><strong>size:</strong><span> 5" long<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover. </span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1497067683933</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>FBH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318942212189</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebh-6-white-owl"/>
+    <title>EBH-6 (snowy owl)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/white_owl_22924ef2-3bc4-47db-9a72-c008bd493385.jpg?v=1583169079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8"> <strong></strong></span><span>This Snowy Owl is sculpted by needle felting. It is made of 100% sheep's wool and could grace any home through the holiday season or any season. </span>Snowy Owl is typically found in the northern polar regions and spends the winter south through Canada and northernmost Europe and Asia. If u would like see snowy owl in Canada, just visit Fort Simpson Northwest Territories Canada. There tons of them. They are beautiful and makes a great gift for all bird lover.</p>
+<p><strong>size:</strong><span> 5.5" long<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover. </span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318942212189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EBH-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318941327453</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebh-4-american-goldfinch"/>
+    <title>EBH-4 (american goldfinch)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/american_goldfinch_dc1a9fbc-e9bc-4a84-8142-a6d7a7e93e2e.jpg?v=1583169081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This American Goldfinch is sculpted by needle felting. It is made of 100% wool and could grace any home through the holiday season or any season. </span>American Goldfinch are found across southern Canada from British Columbia to Newfoundland and through most of the United States north of the Gulf and core Southwestern States. Its winter range includes southern British Columbia, Manitoba, Ontario, New Brunswick, Nova Scotia, and most of the United States.</p>
+<p><strong>size:</strong><span> 5" long<br></span><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span>.</p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318941327453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>EBH-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318940377181</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebh-5-scarlet-tanger"/>
+    <title>EBH-5 (scarlet tanager)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/birds_5_c3913183-0298-4a83-92a9-877f1d9e3911.jpg?v=1583169083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This Scarlet Tanger is sculpted by needle felting. It is made of 100% wool and could grace any home through the holiday season or any season. </span>The Scarlet Tanager are found across large forested areas across eastern North America. They love to build a cup nest on horizontal tree branches and do their best in the forest interior. Unfortunately, their numbers are declining due to forest fragmentation. </p>
+<p><em>Our felted pal </em><em>would make a great gift for all the bird lovers. </em></p>
+<p><strong>size:</strong><span> 5" long<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover. </span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318940377181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>EBH-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318940213341</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebh-3-cardinal"/>
+    <title>EBH-3 (cardinal)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/cardinal_df5bbb14-aa2f-4ba0-9047-1377bdd2bbaa.jpg?v=1583169085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This Cardinal is sculpted by needle felting. It is made of 100% wool and could grace any home through the holiday season or any season. </span>Cardinals̴ have loud voices and one song in their repertoire is said to sound like <em>What cheer! Cheer, cheer, cheer! Cardinals are found across the eastern United States from Maine to Texas and in Canada in the provinces of Ontario, Quebec, and Nova Scotia. They </em><em>would make a great gift for all the bird lovers.</em><br></p>
+<meta charset="utf-8">
+<p><strong>size: </strong><span>5" long<br></span><strong>composition: </strong><span>100% felted wool, a renewable material.<br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.<br><br></em></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318940213341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>EBH-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318940049501</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebh-2-painted-bunting"/>
+    <title>EBH-2 (painted bunting)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/painted_bunting_9bf4625e-c76c-492c-85c0-e8c1b9221c1d.jpg?v=1583169087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This Painted Bunting is sculpted by needle felting. It is made of 100% wool and could grace any home through the holiday season or any season. </span><span>The male Painted Bunting is the most beautiful bird in North America because of its bright colours, dark blue head, green back, red rump and underparts and they are easy to identify. Our felted Bunting is shy, secretive and would make a great gift for all the bird lovers. </span></p>
+<p><strong>size:</strong><span> 5" long<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover. </span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318940049501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>EBH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318938771549</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebh-1-bluejay"/>
+    <title>EBH-1 (blue jay)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/birds_2_8d23a78b-aa76-4eb8-84b7-4d2dcc92cfaa.jpg?v=1583169088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This Blue Jay is sculpted by needle felting. It is made of 100% wool and could grace any home through the holiday season or any season. </span><span>Blue Jays are bold songbirds that live across much of North America and they are official bird of the Canadian province of Prince Edward Island. Our intelligence and curious </span>Blue Jay is a great gift for all bird lovers. <br></p>
+<p><strong>size:</strong><span> 5" long<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover. </span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318938771549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>EBH-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318784893021</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebyb-7-rainbow-lorikeet"/>
+    <title>EBYB-7 (rainbow lorikeet)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/lorikeet_7e0e5f7e-a1f3-4787-b9da-232c19f2a6e2.jpg?v=1583169090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This bright Rainbow Lorikeet is sculpted by needle felting. It is made of 100% sheep's wool and could grace any home through the holiday season or any season. Rainbow Lorikeet is a species of parrot and found in Australia. Its habitat is rainforest, coastal bush and woodland areas. This hand felted pal would make a great gift for all the bird lover.</span></p>
+<p><strong>size:</strong><span> 6.5" long<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover. </span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318784893021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EBYB-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318783615069</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebyb-5-tree-swallow"/>
+    <title>EBYB-5 (tree swallows)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/tree_shallows_9190b605-cf6b-4d54-81db-0226b67ed5ac.jpg?v=1583169092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This handsome aerialists with deep-blue backs and clean white fronts is sculpted by needle felting. It is made of 100% sheep's wool and could grace any home through the holiday season or any season. Tree Shallows, are a familiar sight in summer place and wetlands across North America. They make great addition to many homeowner's yard and would make a great gift for a backyard bird lover.</span></p>
+<p><strong>size:</strong><span> 6" long<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover. </span><br><span>Do not machine wash. Do not iron. Do not bleach</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318783615069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EBYB-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318782173277</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebyb-2-humming-bird"/>
+    <title>EBYB-2 (humming bird)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/humming_bird_e42812a4-efce-4e55-8f5d-617627703253.jpg?v=1583169094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This Hummingbird is sculpted by needle felting. It is made of 100% sheep's wool and could grace any home through the holiday season or any season. This simple, yet adorable songbird is widespread in North America, desserts, mountains forest. They are a adored by all generation and would make a great gift for a backyard bird lover or simply anyone.</span></p>
+<p><strong>size:</strong><span> 3.5" long<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover. </span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318782173277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>EBYB-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318781714525</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebyb-4-red-winged-black"/>
+    <title>EBYB-4 (red winged black)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/red_wing_44928726-f743-4b74-a90a-b32dbf87ab7f.jpg?v=1583169096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This Red Winged Blackbird is sculpted by needle felting. It is made of 100% sheep's wool and could grace any home through the holiday season or any season. This beautiful and eye catching pal is quite common during summer time This bird would make a great gift for a backyard bird lover.</span> </p>
+<p><strong>size:</strong><span> 5" long<br></span><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleachy.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318781714525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>EBYB-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318781550685</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebyb-3-woodpecker"/>
+    <title>EBYB-3 (woodpecker)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/woodpecker_df39d05f-a623-4024-84b7-34473d157850.jpg?v=1583169098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This Woodpecker is sculpted by needle felting. It is made of 100% sheep's wool and could grace any home through the holiday season or any season. This simple, yet adorable woodpecker can be heard drumming on trees and would make a great gift for a backyard bird lover.</span></p>
+<p><strong>size:</strong><span> 5.5" long<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover. </span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318781550685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EBYB-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318778962013</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebyb-1-european-robin"/>
+    <title>EBYB-1 (european robin)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/baltimore_oriole_e04d2967-5889-45fd-9e70-d760888e34ee.jpg?v=1583169100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This European Robin is sculpted by needle felting. It is made of 100% sheep's wool and could grace any home through the holiday season or any season. This simple, yet adorable songbird is seen and heard all over Europe and would make a great gift for a backyard bird lover.</span></p>
+<p><strong>size:</strong><span> 5" long<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover. </span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318778962013</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>EBYB-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318778503261</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebyb-6-baltimore-oriole"/>
+    <title>EBYB-6 (baltimore oriole)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/european_robin_c517645b-498a-4bc4-8de1-83aea5829da6.jpg?v=1583169102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This Baltimore Oriole is sculpted by needle felting. It is made of 100% sheep's wool and could grace any home through the holiday season or any season. This simple, yet adorable pal arrives in Maine during summertime. This felted pal would make a great gift for a backyard bird lover.</span></p>
+<p><strong>size:</strong><span> 5" long<br></span><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach dry.</span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318778503261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>EBYB-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548915659</id>
+    <published>2017-07-20T13:05:09-04:00</published>
+    <updated>2017-07-20T13:05:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/single-bird-on-a-branch"/>
+    <title>MB1 (single bird hanging)</title>
+    <s:type>Bird Hangings</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/single_bird_hanging_888ce2c0-681e-4ad3-af4f-ed3fa88c2116.jpg?v=1583169670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Hangings<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>If you enjoy nature and Birds, you will love this whimsical felted Bird. The Birds are so sweet, and can be used to bring joy anywhere you like or simply décor in your children's room. This will make a lovely gift for your customers or a felt craft lover.</span></p>
+<p><span>Please note that this Bird is for decoration only and not intended to be used as a toy.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.at to dry.<br><strong>size:</strong> 7" w x 3" ht.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548915659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>MB1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

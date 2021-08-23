@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/ethnic-inspiration-j-e-w-e-l-r-y.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2019-05-28T14:00:50-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3573993898077</id>
+    <published>2019-05-28T14:00:50-04:00</published>
+    <updated>2019-05-28T14:00:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ad10-earth-baby-fox"/>
+    <title>AD10 (earth baby fox)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/fox_baby_one_9064d976-d457-4e56-9dda-61277917131c.png?v=1583168266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>E A R T H collection: our designer has created these beautiful Mama Baby animal sets representing Mother and Earth as creators. All our earth inspired animals are hand felted with careful detailed embroidery that represents Sun, Moon and Harvest. All our earth inspired animals would make a lovely gift for all.<br><meta charset="utf-8"></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<span> </span><br>Do not machine wash. Do not iron. Do not bleach.<br><span><strong>size: </strong>5.</span>5” tall x 7” long</p>
+<p><span>Please note that this Dog is for decoration only and not intended to be used as a toy.<br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3573993898077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>AD10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005110128733</id>
+    <published>2019-02-24T12:13:41-05:00</published>
+    <updated>2019-02-24T12:13:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ad09-earth-baby-elephant"/>
+    <title>AD09 (earth baby elephant)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/elephant_baby_two_e25c132d-031d-48ff-9a8e-4ddf7976c3e2.jpg?v=1583168427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>E A R T H collection: our designer has created these beautiful Mama Baby animal sets representing Mother and Earth as creators. All our earth inspired animals are hand felted with careful detailed embroidery that represents Sun, Moon and Harvest. All our earth inspired animals would make a lovely gift for all.<br><meta charset="utf-8"></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<span> </span><br>Do not machine wash. Do not iron. Do not bleach.<br><span><strong>size: </strong>5.</span>5” tall x 7” long</p>
+<p><span>Please note that this Dog is for decoration only and not intended to be used as a toy.<br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005110128733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>AD09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005110063197</id>
+    <published>2019-02-24T12:13:38-05:00</published>
+    <updated>2019-02-24T12:13:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ad08-earth-mama-elephant"/>
+    <title>AD08 (earth mama elephant)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/elephant_mama_one_0861b6bd-d69f-46d2-be5a-72c3a6f07fd2.jpg?v=1583168430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>E A R T H collection: our designer has created these beautiful Mama Baby animal sets representing Mother and Earth as creators. All our earth inspired animals are hand felted with careful detailed embroidery that represents Sun, Moon and Harvest. All our earth inspired animals would make a lovely gift for all.<br><meta charset="utf-8"></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<span> </span><br>Do not machine wash. Do not iron. Do not bleach.<br><span><strong>size: </strong></span>8” tall x 12” long</p>
+<p><span>Please note that this Dog is for decoration only and not intended to be used as a toy.<br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005110063197</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>AD08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005110030429</id>
+    <published>2019-02-24T12:13:36-05:00</published>
+    <updated>2019-02-24T12:13:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ad07-earth-fox"/>
+    <title>AD07 (earth fox)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/fox_mama_f2de6a77-f92f-49ab-9c3f-e9cc543322dc.jpg?v=1583168434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>E A R T H collection: our designer has created these beautiful Mama Baby animal sets representing Mother and Earth as creators. All our earth inspired animals are hand felted with careful detailed embroidery that represents Sun, Moon and Harvest. All our earth inspired animals would make a lovely gift for all.<br></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<span> </span><br>Do not machine wash. Do not iron. Do not bleach.<br><span><strong>size: </strong></span>9” tall x 13” long (large)</p>
+<p><span>Please note that this Dog is for decoration only and not intended to be used as a toy.<br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005110030429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>AD07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005109997661</id>
+    <published>2019-02-24T12:13:34-05:00</published>
+    <updated>2019-02-24T12:13:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ad06-earth-baby-bear"/>
+    <title>AD06 (earth baby bear)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/elephant_baby_two_a08caeec-9cf7-43f8-898d-4e4bc8dddcbf.jpg?v=1583168449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>PRE-ORDER FOR MID SEPT/2021</span></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">E A R T H collection: our designer has created these beautiful Mama Baby animal sets representing Mother and Earth as creators. All our earth inspired animals are hand felted with careful detailed embroidery that represents Sun, Moon and Harvest. All our earth inspired animals would make a lovely gift for all.</span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<span> </span><br>Do not machine wash. Do not iron. Do not bleach.<br><span><strong>size: </strong></span>5.5” tall x 8” long</p>
+<p><span>Please note that this Dog is for decoration only and not intended to be used as a toy.<br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005109997661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>AD06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005109932125</id>
+    <published>2019-02-24T12:13:32-05:00</published>
+    <updated>2019-02-24T12:13:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ad05-earth-mama-bear"/>
+    <title>AD05 (earth mama bear)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/elephant_mama_one_2dbd0821-5738-4ab3-9449-554762af97aa.jpg?v=1583168452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>E A R T H collection: our designer has created these beautiful Mama Baby animal sets representing Mother and Earth as creators. All our earth inspired animals are hand felted with careful detailed embroidery that represents Sun, Moon and Harvest. All our earth inspired animals would make a lovely gift for all.</span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<span> </span><br>Do not machine wash. Do not iron. Do not bleach.<br><span><strong>size: </strong></span>10” tall x 14” long (large)</p>
+<p><span>Please note that this Dog is for decoration only and not intended to be used as a toy.<br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005109932125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>AD05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005109833821</id>
+    <published>2019-02-24T12:13:27-05:00</published>
+    <updated>2019-02-24T12:13:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/esd-3-baby-sheep"/>
+    <title>ESD-3 (baby sheep)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/baby_sheep_one_8fadf25e-6059-4529-995f-ba620614e965.jpg?v=1583168458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>If you enjoy nature and animals then this baby Sheep will liven up the kids' room or any room. This baby sheep is an absolute pleasure to add farmhouse touch, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul>
+<li>Handmade with 100% wool</li>
+<li>Design in Canada. Handmade in Nepal</li>
+<li>
+<meta charset="utf-8"> <span>Perfect gift for all ages and </span>all year round</li>
+<li>
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p>SIZE:<span> </span><meta charset="utf-8">6” tall x 7 long<br>CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em><br>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005109833821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>ESD-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005109801053</id>
+    <published>2019-02-24T12:13:25-05:00</published>
+    <updated>2019-02-24T12:13:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/esd-2-earth-mama-sheep"/>
+    <title>ESD-2 (mama sheep)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/mama_sheep_one_99f607b6-ca44-4986-8979-2e01b190e2b8.jpg?v=1583168462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>If you enjoy nature and animals then this mama Sheep will liven up the kids' room or any room. This mama sheep is an absolute pleasure to add farmhouse touch, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul>
+<li>Handmade with 100% wool</li>
+<li>Design in Canada. Handmade in Nepal</li>
+<li>
+<meta charset="utf-8"> <span>Perfect gift for all ages and </span>all year round</li>
+<li>
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p>SIZE:<span> <meta charset="utf-8">10” tall x 11” long</span><br>CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em><br>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005109801053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ESD-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005109768285</id>
+    <published>2019-02-24T12:13:24-05:00</published>
+    <updated>2019-02-24T12:13:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ed-9-bull-dog"/>
+    <title>ED-9 (bull dog)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/bull_dog_becf4db4-63b8-4e48-9438-93e99dbf487e.jpg?v=1583168464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>If you enjoy nature and animals then this Bull Dog will liven up the kids' room or any room. This dog is an absolute pleasure to add <meta charset="utf-8">s<meta charset="utf-8">weetness and loveliness, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul>
+<li>Handmade with 100% wool</li>
+<li>Design in Canada. Handmade in Nepal</li>
+<li>
+<meta charset="utf-8"> <span>Perfect gift for all ages and </span>all year round</li>
+<li>
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p>SIZE:<span> <meta charset="utf-8">9.5” tall x 11” long</span><br>CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em><br>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005109768285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>ED-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005109735517</id>
+    <published>2019-02-24T12:13:22-05:00</published>
+    <updated>2019-02-24T12:13:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ed-8-labrador"/>
+    <title>ED-8 (labrador)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/labrador_three_0830810d-7c67-4ded-95f6-a546b081e8ba.jpg?v=1583168469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div id="features" class="rollup">
+<div>
+<p><span>If you enjoy nature and animals then this Lab will liven up the kids' room or any room. This Lab is an absolute pleasure to add s<meta charset="utf-8">weetness and loveliness, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul>
+<li>Handmade with 100% wool</li>
+<li>Design in Canada. Handmade in Nepal</li>
+<li>
+<meta charset="utf-8"> <span>Perfect gift for all ages and </span>all year round</li>
+<li>
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p>SIZE:<span> <meta charset="utf-8">11" w x 13.5" ht. </span><br>CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em><br>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005109735517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>ED-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005109702749</id>
+    <published>2019-02-24T12:13:19-05:00</published>
+    <updated>2019-02-24T12:13:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ed-7-border-collies"/>
+    <title>ED-7 (border collies)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/border_collies_two_3340c917-7b82-403d-ab25-82fbbd8ebff6.jpg?v=1583168472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>If you enjoy nature and animals then this Border Collies will liven up the kids' room or any room. This Collies is an absolute pleasure to add <meta charset="utf-8">s<meta charset="utf-8">weetness and loveliness, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul>
+<li>Handmade with 100% wool</li>
+<li>Design in Canada. Handmade in Nepal</li>
+<li>
+<meta charset="utf-8"> <span>Perfect gift for all ages and </span>all year round</li>
+<li>
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p>SIZE:<span> <meta charset="utf-8">11.5” tall x 13.5” long</span><br>CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em><br>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005109702749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>ED-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005109669981</id>
+    <published>2019-02-24T12:13:17-05:00</published>
+    <updated>2019-02-24T12:13:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/copy-of-cdd1-fox-terrier"/>
+    <title>ED-6 (corgi)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/corgi_3_74c0e6fa-a3c5-4cc7-a55d-1cadf22fb1e2.jpg?v=1583168475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>If you enjoy nature and animals then this Corgi will liven up the kids' room or any room. This dog is an absolute pleasure to add <meta charset="utf-8">s<meta charset="utf-8">weetness and loveliness, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul>
+<li>Handmade with 100% wool</li>
+<li>Design in Canada. Handmade in Nepal</li>
+<li>
+<meta charset="utf-8"> <span>Perfect gift for all ages and </span>all year round</li>
+<li>
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p>SIZE:<span> <meta charset="utf-8"> <strong data-mce-fragment="1"> </strong>9” tall x 13.5” long</span><br>CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em><br>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005109669981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>ED-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9760193547</id>
+    <published>2017-08-09T14:37:15-04:00</published>
+    <updated>2017-08-09T14:37:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/squirrel-w-colourful-paws"/>
+    <title>AD04 (playful squirrel decor)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/squirrel_c707bd41-9cc5-4780-a62c-b96700b46bdc.jpg?v=1583169451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted decor Squirrel could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><strong>size:</strong> 4” L x 6.5" Ht.<br></span><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9760193547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>AD04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759836491</id>
+    <published>2017-08-09T14:14:03-04:00</published>
+    <updated>2017-08-09T14:14:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/dino"/>
+    <title>AD03 (dino decor)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/dino_1_994035f0-ea9f-492b-a37d-3a0c2129429f.jpg?v=1583169456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>If you enjoy nature and animals then this Dino will liven up the kids' room or any room. This dino is an absolute pleasure to add sweetness and loveliness, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul>
+<li>Handmade with 100% wool</li>
+<li>Design in Canada. Handmade in Nepal</li>
+<li>
+<meta charset="utf-8">
+<span>Perfect gift for all ages and </span>all year round</li>
+<li>
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p>SIZE:<span> <meta charset="utf-8">
+<strong data-mce-fragment="1"> </strong>10" L x 8.5" Ht.</span><br>CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em><br>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759836491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>AD03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759768971</id>
+    <published>2017-08-09T14:09:36-04:00</published>
+    <updated>2017-08-09T14:09:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/sausage-dog"/>
+    <title>ED-2 (dachshund)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_9817_e4d8811b-82de-4108-85ab-32f9aa754930.jpg?v=1583169630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>If you enjoy nature and animals then this Dachshund will liven up the kids' room or any room. This dog is an absolute pleasure to add <meta charset="utf-8">s<meta charset="utf-8">weetness and loveliness, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul>
+<li>Handmade with 100% wool</li>
+<li>Design in Canada. Handmade in Nepal</li>
+<li>
+<meta charset="utf-8"> <span>Perfect gift for all ages and </span>all year round</li>
+<li>
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p>SIZE:<span> <meta charset="utf-8"> <strong data-mce-fragment="1"> </strong>12" w x 8.5" ht<strong data-mce-fragment="1">.</strong></span><br>CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em><br>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759768971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>ED-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759765451</id>
+    <published>2017-08-09T14:09:27-04:00</published>
+    <updated>2017-08-09T14:09:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/labrador-retriever"/>
+    <title>ED-4 (black lab)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_9823_6cd48955-47bb-439c-bbb8-c7c36cb339dd.jpg?v=1583169635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>If you enjoy nature and animals then this Lab will liven up the kids' room or any room. This Lab is an absolute pleasure to add <meta charset="utf-8">s<meta charset="utf-8">weetness and loveliness, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul>
+<li>Handmade with 100% wool</li>
+<li>Design in Canada. Handmade in Nepal</li>
+<li>
+<meta charset="utf-8"> <span>Perfect gift for all ages and </span>all year round</li>
+<li>
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p>SIZE:<span> <meta charset="utf-8">14" w x 9.5" ht. </span><br>CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em><br>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759765451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>ED-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318767689821</id>
+    <published>2017-07-20T13:36:09-04:00</published>
+    <updated>2017-07-20T13:36:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ct-4-green-dino"/>
+    <title>CT-4  (green dino)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/dino_green_914fc766-2359-4ae4-9de2-dbc62c46daac.jpg?v=1583169206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>If you enjoy nature and dinos, you will love this whimsical felted Dino. The Dinos are colorful, and sweet, and can be used to bring joy anywhere you like or simply décor in your children's room. This will make a lovely gift for your customers or a felt craft lover. Please note that these Dinos are for decoration only and not intended to be used as a toy.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span><span><strong>size:</strong> 9.25" l x 7.5" ht<br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318767689821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>CT-4 - Green Dino</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318767525981</id>
+    <published>2017-07-20T13:36:09-04:00</published>
+    <updated>2017-07-20T13:36:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ct-3-red-dino"/>
+    <title>CT-3 (red dino)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/dino_red_0ad9e32d-e161-45a7-92a4-eaf8a3b352c1.jpg?v=1583169209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>If you enjoy nature and dinos, you will love this whimsical felted Dino. The Dinos are colorful, and sweet, and can be used to bring joy anywhere you like or simply décor in your children's room. This will make a lovely gift for your customers or a felt craft lover. Please note that these Dinos are for decoration only and not intended to be used as a toy.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.flat to dry.<br></span><span><strong>size:</strong> 9.25" l x 7.5" ht<br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318767525981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>CT-3 - Red Dino</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318937559133</id>
+    <published>2017-07-20T13:14:02-04:00</published>
+    <updated>2017-07-20T13:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ecb-1-loon-w-baby"/>
+    <title>ECB-1 (loone w/baby)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/loon_5543ec28-f6f9-4880-b559-278743a87bdd.jpg?v=1583169204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>If you enjoy nature and animals then this mama with baby loone will liven up the kids' room and any room. It will add fun touch in the house. This will make a lovely gift for any age, because it represents the beauty of animal world, and is crafted using high-quality wool. Common loons are the most widespread and well-known species of loon in North America. They are really really good divers and babies like to go for rides on their parent's back. They are just so adorable and well </span>loved by all campers and bird lovers.</p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<span> </span><br>Do not machine wash. Do not iron. Do not bleach.<br><span><strong>size: </strong>7.5</span>” tall x 8.5 long</p>
+<p><em>For decoration only and not intended to be used as a toy.</em></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318937559133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>ECB-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548926155</id>
+    <published>2017-07-20T13:06:11-04:00</published>
+    <updated>2017-07-20T13:06:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/fox-terrier"/>
+    <title>CDD1 (fox terrier)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/CDD1.jpg?v=1620407175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>If you enjoy nature and animals then this Terrier will liven up the kids' room or any room. This dog is an absolute pleasure to add <meta charset="utf-8">s<meta charset="utf-8">weetness and loveliness, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul>
+<li>Handmade with 100% wool</li>
+<li>
+<meta charset="utf-8"> <span>Perfect gift for all ages and </span>all year round</li>
+<li>
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p>SIZE:<span> <meta charset="utf-8"> <strong data-mce-fragment="1"> </strong>14" w x 9.5" ht.</span><br>CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em><br>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548926155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>CDD1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548924875</id>
+    <published>2017-07-20T13:05:57-04:00</published>
+    <updated>2017-07-20T13:05:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/schnauzer"/>
+    <title>CDD2 (schnauzer)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/cdd2_1e35d521-b2ab-4460-8190-f4f16db4fca0.jpg?v=1583169696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>If you enjoy nature and animals then this Schnauzer will liven up the kids' room or any room. This dog is an absolute pleasure to add <meta charset="utf-8">s<meta charset="utf-8">weetness and loveliness, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul>
+<li>Handmade with 100% wool</li>
+<li>
+<meta charset="utf-8"> <span>Perfect gift for all ages and </span>all year round</li>
+<li>
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p>SIZE:<span> <meta charset="utf-8"> <strong data-mce-fragment="1"> </strong>14" w x 9.5" ht.</span><br>CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em><br>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548924875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>CDD2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548920203</id>
+    <published>2017-07-20T13:05:31-04:00</published>
+    <updated>2017-07-20T13:05:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/big-owls"/>
+    <title>EOD3 (green owl decor)</title>
+    <s:type>Animal Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/green_owl_fc2a3197-59a0-4bb4-8bdb-0b0d9969411e.jpg?v=1583169685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Decors<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">If you enjoy nature and animals then this Owl will liven up the kids' room or any room. This owl is an absolute pleasure to add sweetness and loveliness, while also keeping it eco-friendly. Every small details on face, ears and tail are hand-embroidered and needle felted to bring each piece to life. This simple, yet adorable decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions.</span> </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Handmade with 100% wool</li>
+<li data-mce-fragment="1">Design in Canada. Handmade in Nepal</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Perfect gift for all ages and </span>all year round</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">For decoration only and not intended to be used as a toy</li>
+</ul>
+<p data-mce-fragment="1">SIZE:<span data-mce-fragment="1"> <meta charset="utf-8">
+<strong data-mce-fragment="1"> </strong>9.5" w x 13" ht.</span><br data-mce-fragment="1">CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;" data-mce-fragment="1"><span style="color: #8d8787;" data-mce-style="color: #8d8787;" data-mce-fragment="1"><em data-mce-fragment="1"><br data-mce-fragment="1">Please be aware that actual colors may differ slightly from<br data-mce-fragment="1">their appearance on your display, as it depends on your<br data-mce-fragment="1">monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548920203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>EOD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

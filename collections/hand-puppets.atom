@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/hand-puppets.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-02-11T14:18:19-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6146491777177</id>
+    <published>2021-02-11T14:18:19-05:00</published>
+    <updated>2021-02-11T14:18:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/chp-6-zebra-hand-puppet"/>
+    <title>CHP-6 (zebra hand puppet)</title>
+    <s:type>Hand Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/CHP-6_70195a87-898c-43da-b748-989797f7d435.jpg?v=1613071424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hand Puppets<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Adorable animal hand puppet makes a perfect gift for teacher, parents and caregivers to role-play with children. Our simple glove puppets in an animal theme make it easy and fun to play, practice vocabulary, play act scenes and spend quality time playing together. <br></span></p>
+<ul>
+<li><span>Made with bright colours.</span></li>
+<li><span>Washable 100% cotton fabrics and</span></li>
+<li><span>Built to last</span></li>
+</ul>
+<p><span></span><span><strong>size: </strong>14.25" x 9.5" x 1.75"<br></span><strong>care: </strong>gentle machine wash and tumble dry.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6146491777177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CHP-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549172875</id>
+    <published>2017-07-20T13:35:31-04:00</published>
+    <updated>2017-07-20T13:35:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/tiger-hand-puppet"/>
+    <title>CHP-1 (tiger hand puppet)</title>
+    <s:type>Hand Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/tiger_1_262be72e-6d19-44f4-aef9-18429511d367.jpg?v=1583170983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hand Puppets<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Adorable animal hand puppet makes a perfect gift for teacher, parents and caregivers to role-play with children. Our simple glove puppets in an animal theme make it easy and fun to play, practice vocabulary, play act scenes and spend quality time playing together. <br></span></p>
+<ul>
+<li><span>Made with bright colours.</span></li>
+<li><span>Washable 100% cotton fabrics and </span></li>
+<li><span>Built to last</span></li>
+</ul>
+<p><span></span><span><strong>size: </strong>14.25" x 9.5" x 1.75"<br></span><strong>care: </strong>gentle machine wash and tumble dry.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549172875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>CHP-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549172555</id>
+    <published>2017-07-20T13:35:28-04:00</published>
+    <updated>2017-07-20T13:35:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/giraffe-hand-puppet"/>
+    <title>CHP-2 (giraffe hand puppet)</title>
+    <s:type>Hand Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/giraffe_1_be3216c4-efb7-4876-8eb9-3983f3baf904.jpg?v=1583170981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hand Puppets<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Adorable animal hand puppet makes a perfect gift for teacher, parents and caregivers to role-play with children. Our simple glove puppets in an animal theme make it easy and fun to play, practice vocabulary, play act scenes and spend quality time playing together. <br></span></p>
+<ul>
+<li><span>Made with bright colours.</span></li>
+<li><span>Washable 100% cotton fabrics and</span></li>
+<li><span>Built to last</span></li>
+</ul>
+<p><span></span><span><strong>size: </strong>14.25" x 9.5" x 1.75"<br></span><strong>care: </strong>gentle machine wash and tumble dry.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549172555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>CHP-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549172043</id>
+    <published>2017-07-20T13:35:21-04:00</published>
+    <updated>2017-07-20T13:35:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/donkey-hand-puppet"/>
+    <title>CHP-3 (donkey hand puppet)</title>
+    <s:type>Hand Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/donkey_1_0f80afa7-7d8b-4635-bfc8-693d054c517b.jpg?v=1583170978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hand Puppets<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Adorable animal hand puppet makes a perfect gift for teacher, parents and caregivers to role-play with children. Our simple glove puppets in an animal theme make it easy and fun to play, practice vocabulary, play act scenes and spend quality time playing together. <br></span></p>
+<ul>
+<li><span>Made with bright colours.</span></li>
+<li><span>Washable 100% cotton fabrics and</span></li>
+<li><span>Built to last</span></li>
+</ul>
+<p><span></span><span><strong>size: </strong>14.25" x 9.5" x 1.75"<br></span><strong>care: </strong>gentle machine wash and tumble dry.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549172043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>CHP-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549171531</id>
+    <published>2017-07-20T13:35:14-04:00</published>
+    <updated>2017-07-20T13:35:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/dino-hand-puppet"/>
+    <title>CHP-5 (bunny hand puppet)</title>
+    <s:type>Hand Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/bunny_1_e3e45677-60be-4242-8ddb-fd6eea493f9e.jpg?v=1583170974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hand Puppets<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Adorable animal hand puppet makes a perfect gift for teacher, parents and caregivers to role-play with children. Our simple glove puppets in an animal theme make it easy and fun to play, practice vocabulary, play act scenes and spend quality time playing together. <br></span></p>
+<ul>
+<li><span>Made with bright colours.</span></li>
+<li><span>Washable 100% cotton fabrics and</span></li>
+<li><span>Built to last</span></li>
+</ul>
+<p><span></span><span><strong>size: </strong>14.25" x 9.5" x 1.75"<br></span><strong>care: </strong>gentle machine wash and tumble dry.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549171531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>CHP-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549170827</id>
+    <published>2017-07-20T13:35:08-04:00</published>
+    <updated>2017-07-20T13:35:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/dino-hand-puppet-1"/>
+    <title>CHP-4 (dino hand puppet)</title>
+    <s:type>Hand Puppets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/dino_1_88622099-45e3-468c-8f3e-903cfb96abc3.jpg?v=1583170968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hand Puppets<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Adorable animal hand puppet makes a perfect gift for teacher, parents and caregivers to role-play with children. Our simple glove puppets in an animal theme make it easy and fun to play, practice vocabulary, play act scenes and spend quality time playing together. <br></span></p>
+<ul>
+<li><span>Made with bright colours.</span></li>
+<li><span>Washable 100% cotton fabrics and</span></li>
+<li><span>Built to last</span></li>
+</ul>
+<p><span></span><span><strong>size: </strong>14.25" x 9.5" x 1.75"<br></span><strong>care: </strong>gentle machine wash and tumble dry.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549170827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>CHP-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/bird-houses.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-03-02T12:09:36-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567016734813</id>
+    <published>2020-03-02T12:09:36-05:00</published>
+    <updated>2020-03-02T12:09:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afbh-1-green-birdhouse"/>
+    <title>AFBH-1 (green cocoon birdhouse)</title>
+    <s:type>Bird Houses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/birdhouse_cocoon_green_f716ed9d-1f99-482c-b206-351f357c1dc4.jpg?v=1583168978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Houses<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>They can be hung outside as well as inside! It is made of naturally water repellent wool, and gets wet on the exterior but it will naturally dry out. Made with 100% wool and is one of the best Eco-friendly made out of using only soap and warm water. Braided with natural hemp hanging cord and a bamboo perch. <br></span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care:</strong> Brush lightly to remove surface dirt, or gently hand wash with soap and cool water if desired. Do not put in washing machine or dryer. To re-shape, if needed, soak in water, reshape and dry in sun.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567016734813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>AFBH-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567016702045</id>
+    <published>2020-03-02T12:09:34-05:00</published>
+    <updated>2020-03-02T12:09:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afbh-2-orange-birdhouse"/>
+    <title>AFBH-2 (orange cocoon birdhouse)</title>
+    <s:type>Bird Houses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/birdhouse_cocoon_orange_56960511-1dad-4469-b3c7-3e88d4818c45.jpg?v=1583168976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Houses<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>They can be hung outside as well as inside! It is made of naturally water repellent wool, and gets wet on the exterior but it will naturally dry out. Made with 100% wool and is one of the best Eco-friendly made out of using only soap and warm water. Braided with natural hemp hanging cord and a bamboo perch. <br></span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care:</strong> Brush lightly to remove surface dirt, or gently hand wash with soap and cool water if desired. Do not put in washing machine or dryer. To re-shape, if needed, soak in water, reshape and dry in sun.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567016702045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>AFBH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567016669277</id>
+    <published>2020-03-02T12:09:33-05:00</published>
+    <updated>2020-03-02T12:09:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afbh-3-purple-birdhouse"/>
+    <title>AFBH-3 (purple cocoon birdhouse)</title>
+    <s:type>Bird Houses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/birdhouse_cocoon_purple_a40bcfa5-673f-46c6-9b68-8ffcc3dcab30.jpg?v=1583168974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Houses<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>They can be hung outside as well as inside! It is made of naturally water repellent wool, and gets wet on the exterior but it will naturally dry out. Made with 100% wool and is one of the best Eco-friendly made out of using only soap and warm water. Braided with natural hemp hanging cord and a bamboo perch. <br></span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care:</strong> Brush lightly to remove surface dirt, or gently hand wash with soap and cool water if desired. Do not put in washing machine or dryer. To re-shape, if needed, soak in water, reshape and dry in sun.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567016669277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>AFBH-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567016570973</id>
+    <published>2020-03-02T12:09:31-05:00</published>
+    <updated>2020-03-02T12:09:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afbh-4-red-birdhouse"/>
+    <title>AFBH-4 (red cocoon birdhouse)</title>
+    <s:type>Bird Houses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/birdhouse_cocoon_red_3201e3dd-dbb8-4970-8f89-f1c4e4c285f4.jpg?v=1583168972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Houses<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>They can be hung outside as well as inside! It is made of naturally water repellent wool, and gets wet on the exterior but it will naturally dry out. Made with 100% wool and is one of the best Eco-friendly made out of using only soap and warm water. Braided with natural hemp hanging cord and a bamboo perch. <br></span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care:</strong> Brush lightly to remove surface dirt, or gently hand wash with soap and cool water if desired. Do not put in washing machine or dryer. To re-shape, if needed, soak in water, reshape and dry in sun.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567016570973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>AFBH-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567016538205</id>
+    <published>2020-03-02T12:09:29-05:00</published>
+    <updated>2020-03-02T12:09:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afbh-5-flower-top-birdhouse"/>
+    <title>AFBH-5 (green pod birdhouse)</title>
+    <s:type>Bird Houses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/birdhouse_pod_green_e7280f1d-e6b3-46c6-a4df-0d2328926ee4.jpg?v=1583168970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Houses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>They can be hung outside as well as inside! It is made of naturally water repellent wool, and gets wet on the exterior but it will naturally dry out. Made with 100% wool and is one of the best Eco-friendly made out of using only soap and warm water. Braided with natural hemp hanging cord and a bamboo perch. <br></span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care:</strong> Brush lightly to remove surface dirt, or gently hand wash with soap and cool water if desired. Do not put in washing machine or dryer. To re-shape, if needed, soak in water, reshape and dry in sun.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567016538205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>AFBH-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1395196395613</id>
+    <published>2017-07-20T13:34:02-04:00</published>
+    <updated>2017-07-20T13:34:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afbh-8-flower-top-birdhouse"/>
+    <title>AFBH-8 (orange pod birdhouse)</title>
+    <s:type>Bird Houses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/birdhouse_pod_yellow_14d65f43-c728-4adb-916c-21b6efb1779a.jpg?v=1583168964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Houses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>They can be hung outside as well as inside! It is made of naturally water repellent wool, and gets wet on the exterior but it will naturally dry out. Made with 100% wool and is one of the best Eco-friendly made out of using only soap and warm water. Braided with natural hemp hanging cord and a bamboo perch. <br></span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care:</strong> Brush lightly to remove surface dirt, or gently hand wash with soap and cool water if desired. Do not put in washing machine or dryer. To re-shape, if needed, soak in water, reshape and dry in sun.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1395196395613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>AFBH-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1395196035165</id>
+    <published>2017-07-20T13:34:02-04:00</published>
+    <updated>2017-07-20T13:34:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afbh-7-flower-top-birdhouse"/>
+    <title>AFBH-7 (red pod birdhouse)</title>
+    <s:type>Bird Houses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/birdhouse_pod_red_25de4346-0cf4-44d4-a123-0dd8b2d5f888.jpg?v=1583168966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Houses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>They can be hung outside as well as inside! It is made of naturally water repellent wool, and gets wet on the exterior but it will naturally dry out. Made with 100% wool and is one of the best Eco-friendly made out of using only soap and warm water. Braided with natural hemp hanging cord and a bamboo perch. <br></span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care:</strong> Brush lightly to remove surface dirt, or gently hand wash with soap and cool water if desired. Do not put in washing machine or dryer. To re-shape, if needed, soak in water, reshape and dry in sun.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1395196035165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>AFBH-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1395195674717</id>
+    <published>2017-07-20T13:34:02-04:00</published>
+    <updated>2017-07-20T13:34:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afbh-6-flower-top-birdhouse"/>
+    <title>AFBH-6 (grey pod birdhouse)</title>
+    <s:type>Bird Houses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/birdhouse_pod_grey_446399f2-7295-4149-89ca-055ef66aafd6.jpg?v=1583168968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Houses<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>They can be hung outside as well as inside! It is made of naturally water repellent wool, and gets wet on the exterior but it will naturally dry out. Made with 100% wool and is one of the best Eco-friendly made out of using only soap and warm water. Braided with natural hemp hanging cord and a bamboo perch. <br></span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care:</strong> Brush lightly to remove surface dirt, or gently hand wash with soap and cool water if desired. Do not put in washing machine or dryer. To re-shape, if needed, soak in water, reshape and dry in sun.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1395195674717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>AFBH-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549160395</id>
+    <published>2017-07-20T13:33:41-04:00</published>
+    <updated>2017-07-20T13:33:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/bird-house-with-flowers-brown"/>
+    <title>FBH6 (brown cocoon birdhouse)</title>
+    <s:type>Bird Houses</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/birdhouse_005de3f7-a9d4-4cd2-a0e6-d77e4a458893.jpg?v=1583170870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bird Houses<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>They can be hung outside as well as inside! It is made of naturally water repellent wool, and gets wet on the exterior but it will naturally dry out. Made with 100% wool and is one of the best Eco-friendly made out of using only soap and warm water. Braided with natural hemp hanging cord and a bamboo perch. <br></span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care:</strong> Brush lightly to remove surface dirt, or gently hand wash with soap and cool water if desired. Do not put in washing machine or dryer. To re-shape, if needed, soak in water, reshape and dry in sun.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549160395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>FBH6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

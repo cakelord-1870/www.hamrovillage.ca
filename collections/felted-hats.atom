@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/felted-hats.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-01-07T10:20:10-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6072692768921</id>
+    <published>2021-01-07T10:20:10-05:00</published>
+    <updated>2021-01-07T10:20:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/mh-7-pali-hats"/>
+    <title>MH-7 (pali hats)</title>
+    <s:type>Felted Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/MH-7.jpg?v=1610032869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Felted Hats<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p class="p1">A gorgeous piece of art - A 100% handmade hat in a gorgeous colour, elegant, classics and prefect casual hat guaranteed to transform everyday and occasions wardrobe. This hat is created from merino wool by felting so it makes it is warm and cosy for cold and harsh winters as well as good for fall/autumn winds.</p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.<br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6072692768921</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>MH-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6072684740761</id>
+    <published>2021-01-07T10:16:29-05:00</published>
+    <updated>2021-01-07T10:16:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/mh-6-pali-hats"/>
+    <title>MH-6 (pali hats)</title>
+    <s:type>Felted Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/MH-6.jpg?v=1610033069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Felted Hats<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p class="p1">A gorgeous piece of art - A 100% handmade hat in a gorgeous colour, elegant, classics and prefect casual hat guaranteed to transform everyday and occasions wardrobe. This hat is created from merino wool by felting so it makes it is warm and cosy for cold and harsh winters as well as good for fall/autumn winds.</p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.<br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6072684740761</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>MH-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9760209803</id>
+    <published>2018-10-30T13:52:20-04:00</published>
+    <updated>2018-10-30T13:52:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/infelted-cone-hats"/>
+    <title>Star Cone Hats</title>
+    <s:type>Felted Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_0303_ef1a1737-b78d-431a-abaf-aa496fde8d92.jpg?v=1583169335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Felted Hats<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A gorgeous piece of art - it will emphasize your individuality! Fun and adorable perfect accessory for all. These felted hat are made using all natural products - 100% merino wool, water and olive oil soap, using wet felting technique.</p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.<br></span><br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.|</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9760209803</id>
+      <title>Black</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>AH-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9760209803</id>
+      <title>Red</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>AH-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9760209803</id>
+      <title>Blue</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>AH-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549075403</id>
+    <published>2017-07-20T13:23:41-04:00</published>
+    <updated>2017-07-20T13:23:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/infelted-hats"/>
+    <title>MH1 (infelted hats)</title>
+    <s:type>Felted Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/MH1_assorted.jpg?v=1610124331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Felted Hats<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p class="p1">A gorgeous piece of art - A 100% handmade hat in a gorgeous colour, elegant, classics and prefect casual hat guaranteed to transform everyday and occasions wardrobe. This hat is created from merino wool by felting so it makes it is warm and cosy for cold and harsh winters as well as good for fall/autumn winds.</p>
+<p><strong>composition: </strong><span>100% felted merino wool, a renewable material.<br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549075403</id>
+      <title>Black</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>MH1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549075403</id>
+      <title>Grey</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>MH1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549075403</id>
+      <title>Brown</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>MH1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549075403</id>
+      <title>Purple</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>MH1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319205765213</id>
+    <published>2017-07-20T13:23:38-04:00</published>
+    <updated>2017-07-20T13:23:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/mh-5-natural-hat"/>
+    <title>MH-5 (natural hat)</title>
+    <s:type>Felted Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/MH-5A_983d7b8c-d50e-4ab5-a9c9-b9d675e7f225.jpg?v=1624981945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Felted Hats<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p class="p1">A gorgeous piece of art - A 100% handmade hat in a gorgeous colour, elegant, classics and prefect casual hat guaranteed to transform everyday and occasions wardrobe. This hat is created from merino wool by felting so it makes it is warm and cosy for cold and harsh winters as well as good for fall/autumn winds.<br><meta charset="utf-8"></p>
+<p><strong>composition: </strong><span>100% felted merino wool, a renewable material.<br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319205765213</id>
+      <title>Natural</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>MH-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319205765213</id>
+      <title>Grey</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>MH-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549074251</id>
+    <published>2017-07-20T13:23:38-04:00</published>
+    <updated>2017-07-20T13:23:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/felted-hat-w-flower"/>
+    <title>MH-2 (fuchsia flower hat)</title>
+    <s:type>Felted Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/hat_burgundy_1_69a0d434-7e8d-4fcc-8a00-4b677080e27a.jpg?v=1583170365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Felted Hats<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">A gorgeous piece of art - A 100% handmade hat in a gorgeous colour, elegant, classics and prefect casual hat guaranteed to transform everyday and occasions wardrobe. This hat is created from merino wool by felting so it makes it is warm and cosy for cold and harsh winters as well as good for fall/autumn winds.<br><meta charset="utf-8"></p>
+<p><strong>composition: </strong><span>100% felted merino wool, a renewable material.<br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549074251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>MH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549073931</id>
+    <published>2017-07-20T13:23:36-04:00</published>
+    <updated>2017-07-20T13:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/white-flower-embellished-black-wool-hat"/>
+    <title>MH-3 (white flower hat)</title>
+    <s:type>Felted Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/hat_black_flower_1_9db39630-6455-4350-ad65-13e756b003fc.jpg?v=1583170363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Felted Hats<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p class="p1">A gorgeous piece of art - A 100% handmade hat in a gorgeous colour, elegant, classics and prefect casual hat guaranteed to transform everyday and occasions wardrobe. This hat is created from merino wool by felting so it makes it is warm and cosy for cold and harsh winters as well as good for fall/autumn winds.</p>
+<p><strong>composition: </strong><span>100% felted merino wool, a renewable material.<br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549073931</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>MH-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549073483</id>
+    <published>2017-07-20T13:23:34-04:00</published>
+    <updated>2017-07-20T13:23:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/flower-leaf-embellished-wool-hat"/>
+    <title>MH-4 (big flower hat)</title>
+    <s:type>Felted Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/hat_brown_flower_1_e84ce4ae-341a-4c35-ab07-294a57e2503a.jpg?v=1583170360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Felted Hats<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p class="p1">A gorgeous piece of art - A 100% handmade hat in a gorgeous colour, elegant, classics and prefect casual hat guaranteed to transform everyday and occasions wardrobe. This hat is created from merino wool by felting so it makes it is warm and cosy for cold and harsh winters as well as good for fall/autumn winds.</p>
+<p><strong>composition: </strong><span>100% felted merino wool, a renewable material.<br></span><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549073483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>MH-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

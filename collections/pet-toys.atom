@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/pet-toys.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-05-26T16:15:44-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6801182818457</id>
+    <published>2021-05-26T16:15:44-04:00</published>
+    <updated>2021-05-26T16:15:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpd-polka-dot-ball"/>
+    <title>Polka Dot Ball Toy</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPD.jpg?v=1622060317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6801182818457</id>
+      <title>White</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>KPD-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6801182818457</id>
+      <title>Purple</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>KPD-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6801182818457</id>
+      <title>Blue</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>KPD-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6801182818457</id>
+      <title>Green</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>KPD-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6801182818457</id>
+      <title>Red</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>KPD-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6801182818457</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>KPD-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548912203</id>
+    <published>2020-03-02T12:20:54-05:00</published>
+    <updated>2020-03-02T12:20:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pet-toy-abstract-orange-bone"/>
+    <title>KPT-11 (marble bone)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-11.jpg?v=1621279422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548912203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>KPT-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003791453</id>
+    <published>2020-03-02T11:41:39-05:00</published>
+    <updated>2020-03-02T11:41:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pt-4-banana-pet-toy"/>
+    <title>PT-4 (banana pet toy)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/PT-4.png?v=1583167300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003791453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>PT-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003758685</id>
+    <published>2020-03-02T11:41:37-05:00</published>
+    <updated>2020-03-02T11:41:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pt-6-corn-pet-toy"/>
+    <title>PT-6 (corn pet toy)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/PT-6.jpg?v=1621278905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003758685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>PT-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003693149</id>
+    <published>2020-03-02T11:41:34-05:00</published>
+    <updated>2020-03-02T11:41:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pt-7-beet-pet-toy"/>
+    <title>PT-7 (beet pet toy)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/PT-7.png?v=1583167296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003693149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>PT-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003660381</id>
+    <published>2020-03-02T11:41:31-05:00</published>
+    <updated>2020-03-02T11:41:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pt-8-pumpkin-pet-toy"/>
+    <title>PT-8 (pumpkin toy)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/PT-8.jpg?v=1621277220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003660381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>PT-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003594845</id>
+    <published>2020-03-02T11:41:30-05:00</published>
+    <updated>2020-03-02T11:41:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pt-9-pear-pet-toy"/>
+    <title>PT-9 (pear pet toy)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/PT-9_8d7c39e6-0a80-4f8e-a62c-eca7d9b3ae40.jpg?v=1621278113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003594845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>PT-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003562077</id>
+    <published>2020-03-02T11:41:26-05:00</published>
+    <updated>2020-03-02T11:41:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pt-10-apple-pet-toy"/>
+    <title>PT-10 (apple pet toy)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/PT-10.jpg?v=1621277448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong></strong></span><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003562077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>PT-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003431005</id>
+    <published>2020-03-02T11:41:24-05:00</published>
+    <updated>2020-03-02T11:41:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pt-11-emoji-pet-toy"/>
+    <title>PT-11 (emoji pet toy)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/PT-11_35a3cd9e-eda6-40a8-a635-204c9cee79c7.png?v=1583167286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003431005</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>PT-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003332701</id>
+    <published>2020-03-02T11:41:21-05:00</published>
+    <updated>2020-03-02T11:41:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pt-12-daikon-pet-toy"/>
+    <title>PT-12 (daikon pet toy)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/PT-12_b5b5f77a-d078-48ee-a9c8-af03f5615994.jpg?v=1621278532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003332701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>PT-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003103325</id>
+    <published>2020-03-02T11:41:10-05:00</published>
+    <updated>2020-03-02T11:41:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-4-10cm-o-ring"/>
+    <title>KPT-4 (O-Ring blue)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-4_01e55cd3-d8df-4cc5-816e-2a6b52043e16.png?v=1583167271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>Size: </strong>10cm<strong> <br></strong><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003103325</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>KPT-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003070557</id>
+    <published>2020-03-02T11:41:07-05:00</published>
+    <updated>2020-03-02T11:41:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-5-10cm-o-ring-yellow"/>
+    <title>KPT-5 (O-Ring yellow)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-5.png?v=1583167269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>Size:<span data-mce-fragment="1"> </span></strong>10cm <strong><br>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003070557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>KPT-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567003037789</id>
+    <published>2020-03-02T11:41:05-05:00</published>
+    <updated>2020-03-02T11:41:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-6-10cm-o-ring-green"/>
+    <title>KPT-6 (O-Ring green)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-6.png?v=1583167266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>Size:<span data-mce-fragment="1"> </span></strong>10cm <strong><br>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567003037789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>KPT-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567002972253</id>
+    <published>2020-03-02T11:41:03-05:00</published>
+    <updated>2020-03-02T11:41:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-7-8-ring-blue"/>
+    <title>KPT-7 (8-Ring blue)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-7.png?v=1583167264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> <br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567002972253</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>KPT-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567002939485</id>
+    <published>2020-03-02T11:41:02-05:00</published>
+    <updated>2020-03-02T11:41:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-8-8-ring-yellow"/>
+    <title>KPT-8 (8-Ring yellow)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-8.png?v=1583167263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><strong></strong></span><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567002939485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>KPT-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567002873949</id>
+    <published>2020-03-02T11:41:00-05:00</published>
+    <updated>2020-03-02T11:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-9-8-ring-green"/>
+    <title>KPT-9 (8-Ring green)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-9.png?v=1583167261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong></strong></span><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567002873949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>KPT-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567002808413</id>
+    <published>2020-03-02T11:40:56-05:00</published>
+    <updated>2020-03-02T11:40:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-12-grey-cat-toy"/>
+    <title>KPT-13 (grey cat toy)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-13.png?v=1583167257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567002808413</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>KPT-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567002710109</id>
+    <published>2020-03-02T11:40:52-05:00</published>
+    <updated>2020-03-02T11:40:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kpt-15-pig-beige-toy"/>
+    <title>KPT-15 (pig toy)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-15.png?v=1583167253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any cats. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.<br></p>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567002710109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>KPT-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3574011920477</id>
+    <published>2019-05-28T14:20:02-04:00</published>
+    <updated>2019-05-28T14:20:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vdb-1-bone-toy-natural"/>
+    <title>KPT-12 (bone natural)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-12.jpg?v=1621279742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong></strong><span></span><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3574011920477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>KPT-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548912971</id>
+    <published>2018-07-13T13:56:27-04:00</published>
+    <updated>2018-07-13T13:56:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/abstract-bone"/>
+    <title>KPT-10 (marble bone)</title>
+    <s:type>Pet Toys</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KPT-10_9fa14175-18d0-465b-abec-fb2c1662a65a.jpg?v=1621279652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pet Toys<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong></strong></span><span><strong></strong></span><span></span><span>These beautiful handmade felt pet toys are safe and strong and attractive toy option for any dogs. The solid felt has no seems and theres no loose tufting. If particles are swallowed they are digestible and far safer than standard toys that have plastics based stuffing and fabrics. Felt pet toy is resilient, comfortable to bite and its also good for keeping teeth clean.</span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548912971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>KPT-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

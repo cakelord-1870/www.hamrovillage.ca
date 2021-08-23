@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/throws-stoles.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-10-16T16:26:57-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1499496874077</id>
+    <published>2020-10-16T16:26:57-04:00</published>
+    <updated>2020-10-16T16:26:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/tfbc-2-plain-cream-throw"/>
+    <title>TFBC-1 (plain cream throw)</title>
+    <s:type>Throws</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/plain_blanket_cream_3_9d9094e9-b8aa-49f4-95c9-1def1eb0f82e.jpg?v=1583168825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Throws<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Cashmere throw is incredibly Soft, lightweight and warm. Our classic earth range includes shawls, blankets and throws in an organic colours. It is perfect for cold winter nights, or for relaxing in a favorite chair. You can even wear it as a chunky scarf for the colder days. It will makes for a wonderful gift.</span><br><br>
+<p><strong>Size: </strong><span>45" W x 90" L</span><br><strong>Care:</strong> Dry clean or hand wash cold and lay flat to dry.</p>
+<br>
+<p><br></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1499496874077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TFBC-1 (Cream)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1499496710237</id>
+    <published>2020-10-16T16:26:36-04:00</published>
+    <updated>2020-10-16T16:26:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/tfbc-1-check-grey-white-throw"/>
+    <title>TFBC-2 (check grey throw)</title>
+    <s:type>Throws</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/check_blanket_grey_white_2_019a400d-b5b6-48ff-90ee-3280e72f9246.jpg?v=1583168847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Throws<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Cashmere throw is incredibly Soft, lightweight and warm. Our classic earth range includes shawls, blankets and throws in an organic colours. It is perfect for cold winter nights, or for relaxing in a favorite chair. You can even wear it as a chunky scarf for the colder days. It will makes for a wonderful gift.</span><br><br>
+<p><strong>Size: </strong><span>45" W x 90" L</span><br><strong>Care:</strong> Dry clean or hand wash cold and lay flat to dry.</p>
+<br>
+<p><br></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1499496710237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TFBC-1 (Grey)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

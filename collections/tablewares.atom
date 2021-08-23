@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/tablewares.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-01-17T15:15:13-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6096150069401</id>
+    <published>2021-01-17T15:15:13-05:00</published>
+    <updated>2021-01-17T15:15:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ac-10-mouse-brown-trivet"/>
+    <title>AC-10 (mouse brown trivet)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AC-10.jpg?v=1610914686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dinning room table.<br></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b>7.5</span>” x 5" </p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096150069401</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>AC-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6096146595993</id>
+    <published>2021-01-17T15:09:32-05:00</published>
+    <updated>2021-01-17T15:09:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ac-10-mouse-grey-trivet-set"/>
+    <title>Mouse Trivets</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AC-SET.jpg?v=1610914334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dinning room table.<br></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b>7.5</span>” x 5" </p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096146595993</id>
+      <title>Grey</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>AC-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096146595993</id>
+      <title>Dark Grey</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>AC-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6096046981273</id>
+    <published>2021-01-17T13:03:11-05:00</published>
+    <updated>2021-01-17T13:03:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/atn-4-oven-mitts-brown"/>
+    <title>ATN-4 (oven mitts brown)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ATN-4.jpg?v=1610906441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Offering functional and organic tablewares with contemporary flare. All of Hamro kitchen range are made by skilled artisans, making them more special than cheaper alternatives. </span><span>Great for both the barbecue and the kitchen, your hands will be protected from the heat with this quality felted mitts. </span></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b></span>12” x 6”<br><br></p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096046981273</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>ATN-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4528000073821</id>
+    <published>2021-01-06T10:52:08-05:00</published>
+    <updated>2021-01-06T10:52:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/spring-trivet-set"/>
+    <title>Spring Trivets</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/trivet-pastel-a_f1814e2d-d7de-45ae-92eb-f1b2925b8620.png?v=1583167405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Offering functional and organic tablewares with contemporary flare. All Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Beautiful in delightful colour tones, these felt ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dining decor.</p>
+<p><meta charset="utf-8"><span data-mce-fragment="1"><b data-mce-fragment="1">dimension: </b></span><span class="s1" data-mce-fragment="1"><span data-mce-fragment="1"> </span><span data-mce-fragment="1"><span class="s1 cc_cursor" data-mce-fragment="1">ø 23cm</span> Ball <span class="s1 cc_cursor" data-mce-fragment="1">ø 2.5cm<br></span></span></span><span><strong>composition: </strong></span><span>100% felted wool, a renewable material. </span><br><span><strong>care: </strong></span><span>Spot-clean with damp sponge and soap </span><span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528000073821</id>
+      <title>Spring Trivet Set</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528000073821</id>
+      <title>Turq</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528000073821</id>
+      <title>Cream</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528000073821</id>
+      <title>Green</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528000073821</id>
+      <title>Greyish</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005191065693</id>
+    <published>2020-03-02T12:02:05-05:00</published>
+    <updated>2020-03-02T12:02:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/atf-3-oven-mitts-fuchsia"/>
+    <title>ATF-3 (trivet fuchsia)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/trivets_fuchsia_73914842-6247-4e08-a5ef-a3e9d9faca80.jpg?v=1583168529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dinning room table.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b></span>20 cm round</p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005191065693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>ATF-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4532336525405</id>
+    <published>2020-02-04T13:39:01-05:00</published>
+    <updated>2020-02-04T13:39:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ac-9-candy-trivet"/>
+    <title>AC-9 (PRE-ORDER)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AC-9_d79657cf-ca8a-4d37-b2d6-b2d65d4f35f8.png?v=1583167306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>PRE-ORDER FOR MID SEPT/2021</span></p>
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dinning room table.<br></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b></span><span class="s1">ø<span> </span></span><span>8” Ball </span><span class="s1">ø<span> </span></span><span>1”</span><br></p>
+<p><br></p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4532336525405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku>AC-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529161699421</id>
+    <published>2020-02-01T11:49:16-05:00</published>
+    <updated>2020-02-01T11:49:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/efc-1-coaster-set"/>
+    <title>EFC-1 (PRE-ORDER)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EFC-1_a7594469-7135-4095-97ed-3c6acb5cbb42.png?v=1583167338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>PRE-ORDER FOR MID SEPT/2021</span></p>
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dinning room table.<br></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529161699421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>EFC-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529159209053</id>
+    <published>2020-02-01T11:46:55-05:00</published>
+    <updated>2020-02-01T11:46:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kc-2-panda-trivet"/>
+    <title>KC-2 (badger trivet)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KC-2_d3b9c3b7-82c9-4d07-a40c-24119e6bc544.png?v=1583167351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dinning room table.<br></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b>7.5</span>” x 5" </p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529159209053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>KC-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4528061153373</id>
+    <published>2020-01-31T14:54:40-05:00</published>
+    <updated>2020-01-31T14:54:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kc-1-bear-trivet"/>
+    <title>KC-1 (bear trivet)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KC-1_910e066a-a7b2-4d2d-9b52-867566d2d03b.png?v=1583167353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dinning room table.<br></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b>7.5</span>” x 5" </p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528061153373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>KC-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4528054435933</id>
+    <published>2020-01-31T14:43:15-05:00</published>
+    <updated>2020-01-31T14:43:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/epm-4-round-brown-placemat"/>
+    <title>EPM-4 (round brown placemat)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EPM-4_073d5c5d-5029-4d77-aa02-ac6a272925a1.jpg?v=1610908982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><span>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. </span>Soft and beautiful in natural materials and delightful colour tones, this placemat will add a touch of colour to your table.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p><span><b>dimension: </b></span><span class="s1"><span> </span></span>35 cm dia</p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528054435933</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>EPM-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4528049225821</id>
+    <published>2020-01-31T14:35:01-05:00</published>
+    <updated>2020-01-31T14:35:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/epm-1-round-black-placemat"/>
+    <title>EPM-1 (round black placemat)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EPM-1.jpg?v=1610908883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><span>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. </span>Soft and beautiful in natural materials and delightful colour tones, this placemat will add a touch of colour to your table.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p><span><b>dimension: </b></span><span class="s1"><span> </span></span>35 cm dia</p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528049225821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>EPM-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4528027762781</id>
+    <published>2020-01-31T14:12:12-05:00</published>
+    <updated>2020-01-31T14:12:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/square-trivet-set"/>
+    <title>Square Trivet Set</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ET-15Set_51e2c444-d78a-4251-acb4-1c97b2dd9b6d.png?v=1583167384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Offering functional and organic tablewares with contemporary flare. All Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Beautiful in delightful colour tones, these felt ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dining decor.<br><br>
+<p><meta charset="utf-8"><span data-mce-fragment="1"><b data-mce-fragment="1">dimension: </b></span><span data-mce-fragment="1" class="s1"><span data-mce-fragment="1"> </span><span data-mce-fragment="1"><span data-mce-fragment="1" class="s1 cc_cursor">20cm</span> Ball <span data-mce-fragment="1" class="s1 cc_cursor">ø 2.5cm<br></span></span></span><span><strong>composition: </strong></span><span>100% felted wool, a renewable material. </span><br><span><strong>care: </strong></span><span>Spot-clean with damp sponge and soap </span><span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528027762781</id>
+      <title>Square Trivet Set</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>STS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528027762781</id>
+      <title>Fuchsia</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528027762781</id>
+      <title>Turquoise</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4528027762781</id>
+      <title>White</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527976906845</id>
+    <published>2020-01-31T13:11:08-05:00</published>
+    <updated>2020-01-31T13:11:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/neutral-trivet-set"/>
+    <title>Neutral Trivets</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/trivet-light-a_48453dfe-c32d-4ab3-8481-e694577aec24.png?v=1583167421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Offering functional and organic tablewares with contemporary flare. All Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Beautiful in delightful colour tones, these felt ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dining decor.</p>
+<p><meta charset="utf-8"><span data-mce-fragment="1"><b data-mce-fragment="1">dimension: </b></span><span class="s1" data-mce-fragment="1"><span data-mce-fragment="1"> </span><span data-mce-fragment="1"><span class="s1 cc_cursor" data-mce-fragment="1">ø 23cm</span> Ball <span class="s1 cc_cursor" data-mce-fragment="1">ø 2.5cm<br data-mce-fragment="1"></span></span></span><span data-mce-fragment="1"><strong data-mce-fragment="1">composition: </strong></span><span data-mce-fragment="1">100% felted wool, a renewable material. </span><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">care: </strong></span><span data-mce-fragment="1">Spot-clean with damp sponge and soap </span><span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span><br></p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527976906845</id>
+      <title>Neutral Trivet Set</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527976906845</id>
+      <title>Grey</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527976906845</id>
+      <title>Purple</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527976906845</id>
+      <title>Green</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527976906845</id>
+      <title>Beige</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527957868637</id>
+    <published>2020-01-31T12:53:35-05:00</published>
+    <updated>2020-01-31T12:53:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/forest-trivet-set"/>
+    <title>Forest Trivets</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EFT-1g_ec324ab9-d8ba-499f-8051-6bbf9d9b009f.png?v=1583167436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong></strong><meta charset="utf-8"><span data-mce-fragment="1">Offering functional and organic tablewares with contemporary flare. All Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Beautiful in delightful colour tones, these felt ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dining decor.</span><br></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1"><b data-mce-fragment="1">dimension: </b></span><span class="s1" data-mce-fragment="1"><span data-mce-fragment="1"> </span><span data-mce-fragment="1"><span class="s1 cc_cursor" data-mce-fragment="1">ø 23cm</span> Ball <span class="s1 cc_cursor" data-mce-fragment="1">ø 2.5cm<br></span></span></span><span><strong>composition: </strong></span><span>100% felted wool, a renewable material. </span><br><span><strong>care: </strong></span><span>Spot-clean with damp sponge and soap </span><span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527957868637</id>
+      <title>Lemon</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527957868637</id>
+      <title>Green</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527957868637</id>
+      <title>Olive</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527957868637</id>
+      <title>Blue</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527952396381</id>
+    <published>2020-01-31T12:47:18-05:00</published>
+    <updated>2020-01-31T12:47:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/et-14-trivet-fuchsia"/>
+    <title>ET-14 (PRE-ORDER)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ATR-3_f658af94-6a15-487c-9b64-50bea07e311a.png?v=1583167439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>PRE-ORDER FOR MID SEPT/2021</p>
+<p><b></b><strong></strong><meta charset="utf-8"><span data-mce-fragment="1">Offering functional and organic tablewares with contemporary flare. All Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Beautiful in delightful colour tones, these felt ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dining decor.</span><br></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1"><b data-mce-fragment="1">dimension: </b></span><span class="s1" data-mce-fragment="1"><span data-mce-fragment="1"> </span><span data-mce-fragment="1"><span class="s1 cc_cursor" data-mce-fragment="1">ø 23cm</span> Ball <span class="s1 cc_cursor" data-mce-fragment="1">ø 2.5cm<br></span></span></span><span><strong>composition: </strong></span><span>100% felted wool, a renewable material. </span><br><span><strong>care: </strong></span><span>Spot-clean with damp sponge and soap </span><span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527952396381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527951183965</id>
+    <published>2020-01-31T12:45:47-05:00</published>
+    <updated>2020-01-31T12:45:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/et-13-trivet-blues"/>
+    <title>ET-13 (PRE-ORDER)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AFT-3_3cd773bc-67c7-4423-8f85-55c7f99f28e3.png?v=1583167441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>PRE-ORDER FOR MID SEPT/2021</p>
+<p><b></b><meta charset="utf-8"><span>Offering functional and organic tablewares with contemporary flare. All Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Beautiful in delightful colour tones, these felt ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dining decor.</span></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1"><b data-mce-fragment="1">dimension: </b></span><span class="s1" data-mce-fragment="1"><span data-mce-fragment="1"> </span><span data-mce-fragment="1"><span class="s1 cc_cursor" data-mce-fragment="1">ø 23cm</span> Ball <span class="s1 cc_cursor" data-mce-fragment="1">ø 2.5cm<br></span></span></span><span><strong>composition: </strong></span><span>100% felted wool, a renewable material. </span><br><span><strong>care: </strong></span><span>Spot-clean with damp sponge and soap </span><span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527951183965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ET-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527949283421</id>
+    <published>2020-01-31T12:44:00-05:00</published>
+    <updated>2020-01-31T12:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/epm-5-trivet-brown"/>
+    <title>EPM-5 (trivet brown)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ATN-3_fb29edc6-e353-4cc2-9220-aa2ba96f0fc8.png?v=1583167444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dinning room table.<br><meta charset="utf-8"><span data-mce-fragment="1"><b data-mce-fragment="1"><br>dimension: </b></span><span class="s1" data-mce-fragment="1"><span data-mce-fragment="1"> </span><span data-mce-fragment="1"><span class="s1 cc_cursor" data-mce-fragment="1">ø 23cm</span> Ball <span class="s1 cc_cursor" data-mce-fragment="1">ø 2.5cm<br></span></span></span><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span><br>
+<p> </p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527949283421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>EPM-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527944532061</id>
+    <published>2020-01-31T12:38:38-05:00</published>
+    <updated>2020-01-31T12:38:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/epm-2-trivet-black"/>
+    <title>EPM-2 (PRE-ORDER)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ATT-3_6dd7dbe3-5854-40d8-bee2-ac15c0f21762.png?v=1583167449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PRE-ORDER FOR MID SEPT/2021</p>
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball trivet will protect table and counters from hot dishes, pans and casseroles while adding fun and beauty to dinning room table.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong><strong>care: </strong></strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span><span><b>dimension: </b></span><span class="s1"> <span data-mce-fragment="1"><span data-mce-fragment="1" class="s1 cc_cursor">ø 23cm</span> Ball <span data-mce-fragment="1" class="s1 cc_cursor">ø 2.5cm</span></span></span></p>
+<p> </p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>pre-order</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527944532061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>EPM-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3573979611229</id>
+    <published>2019-05-28T13:42:24-04:00</published>
+    <updated>2019-05-28T13:42:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/atn-2-coaster-brown"/>
+    <title>ATN-2 (coaster brown)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/coaster_brown_1_f5ed4ba8-fd67-4b44-93d9-ee027d6fc9f9.png?v=1583168270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball coaster will protect table and counters from hot drinks while adding fun and beauty to dinning room table.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b>1</span>0 cm round</p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3573979611229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>ATN-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005190836317</id>
+    <published>2019-05-22T13:28:15-04:00</published>
+    <updated>2019-05-22T13:28:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/atn-1-brown-grey-placemat"/>
+    <title>ATN-1 (brown placemat)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ATN-1_94f81135-ba55-4edf-9d12-2f136028ba89.jpg?v=1610903512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. </span>Soft and beautiful in natural materials and delightful colour tones, this placemat will add a touch of colour to your table.<br></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b></span>19.5"  x 13.5"cm </p>
+<p><br></p>
+<p> <em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005190836317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>ATN-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005191426141</id>
+    <published>2019-02-24T14:22:32-05:00</published>
+    <updated>2019-02-24T14:22:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/att-2-coaster-black"/>
+    <title>ATT-2 (coaster black)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/coaster_black_57c62da0-02ad-4d2f-9b2d-7363063116e0.jpg?v=1583168501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball coaster will protect table and counters from hot drinks while adding fun and beauty to dinning room table.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b>1</span>0 cm round</p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005191426141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>ATT-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005191393373</id>
+    <published>2019-02-24T14:22:29-05:00</published>
+    <updated>2019-02-24T14:22:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/atr-2-coaster-gradient"/>
+    <title>ATR-2 (coaster gradient)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/coaster_gradient_da7f9223-9d9e-44a1-8d93-1eb4f66daf5f.jpg?v=1583168505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball coaster will protect table and counters from hot drinks while adding fun and beauty to dinning room table.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b>1</span>0 cm round</p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005191393373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>ATR-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005191295069</id>
+    <published>2019-02-24T14:22:26-05:00</published>
+    <updated>2019-02-24T14:22:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/atb-2-coaster-blue"/>
+    <title>ATB-2 (coaster blue)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/coaster_blue_9eac55fc-3aa1-4ca1-b1a5-0c4b80d10475.jpg?v=1583168508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball coaster will protect table and counters from hot drinks while adding fun and beauty to dinning room table.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b>1</span>0 cm round</p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005191295069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>ATB-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005191262301</id>
+    <published>2019-02-24T14:22:24-05:00</published>
+    <updated>2019-02-24T14:22:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/atf-2-coaster-fuchsia"/>
+    <title>ATF-2 (coaster fuchsia)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/coaster_fuchsia_9ae0db43-0bac-473a-b739-61b866a70967.jpg?v=1583168512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Offering functional and organic tablewares with contemporary flare. All of Hamro table top range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials and delightful colour tones, this ball coaster will protect table and counters from hot drinks while adding fun and beauty to dinning room table.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b>1</span>0 cm round</p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005191262301</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>ATF-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005191032925</id>
+    <published>2019-02-24T14:22:08-05:00</published>
+    <updated>2019-02-24T14:22:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/att-4-black-grey-oven-mitts"/>
+    <title>ATT-4 (oven mitts black)</title>
+    <s:type>Tablewares</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ATT-4.jpg?v=1610906312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Tablewares<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Offering functional and organic tablewares with contemporary flare. All of Hamro kitchen range are made by skilled artisans, making them more special than cheaper alternatives. </span><span>Great for both the barbecue and the kitchen, your hands will be protected from the heat with this quality felted mitts. </span></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br></span></p>
+<p><span><b>dimension: </b></span>12” x 6”<br><br></p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005191032925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>ATT-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

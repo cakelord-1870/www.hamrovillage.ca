@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/mittens.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-03-02T12:28:35-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549033547</id>
+    <published>2020-03-02T12:28:35-05:00</published>
+    <updated>2020-03-02T12:28:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/flower-vine-cap-black"/>
+    <title>KBFC-2 (flower &amp; leafs adorn mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBFC-mittens_d27799e9-d86d-48c5-8b37-5b81cc98d987.jpg?v=1583170118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549033547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KBFC-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549028171</id>
+    <published>2018-12-04T12:38:02-05:00</published>
+    <updated>2018-12-04T12:38:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/karma-mittens"/>
+    <title>KKH-1 (karma mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KKH-mittens_42fd960d-e117-4e38-ac38-f04dd5b459b0.jpg?v=1583170101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549028171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>KKH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549025995</id>
+    <published>2018-05-10T10:25:23-04:00</published>
+    <updated>2018-05-10T10:25:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/brown-mittens"/>
+    <title>KBH-2 (brown mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBH-mittens_745696d1-2f26-411a-8547-954a60e9fcd9.jpg?v=1583170086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549025995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KBH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549030923</id>
+    <published>2017-07-20T13:18:29-04:00</published>
+    <updated>2017-07-20T13:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/natural-crochet-mittens"/>
+    <title>KNCH-2 (crochet mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KNCH-MITS_fb7eb3c5-b549-48ad-801a-e0c39b03f308.jpg?v=1583170114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+</div>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549030923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KNCH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321171583069</id>
+    <published>2017-07-20T13:18:23-04:00</published>
+    <updated>2017-07-20T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lkw-2-lasa-mittens"/>
+    <title>LKW-2 (lasa mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKW-2_81384b1f-7f10-4d8e-ba47-498d22f85b10.jpg?v=1583169299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321171583069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>LKW-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321170993245</id>
+    <published>2017-07-20T13:18:23-04:00</published>
+    <updated>2017-07-20T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lkp-2-palmo-mittens"/>
+    <title>LKP-2 (palmo mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKP-2_682a8b88-f724-420d-b2c3-34ffcfd2127f.jpg?v=1583169301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+<strong><span></span></strong><strong><span></span></strong>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321170993245</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>LKP-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321170567261</id>
+    <published>2017-07-20T13:18:23-04:00</published>
+    <updated>2017-07-20T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lkj-2-juniper-mittens"/>
+    <title>LKJ-2 (juniper mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKJ-2_3b5672dc-d348-4805-9bfa-9f8fcc5bab70.jpg?v=1583169303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+<strong><span></span></strong><strong><span></span></strong>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321170567261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>LKJ-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321170108509</id>
+    <published>2017-07-20T13:18:23-04:00</published>
+    <updated>2017-07-20T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lkil-2-iclyn-mittens"/>
+    <title>LKIL-2 (iclyn mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKIL-2_c6b83eb4-ffb7-416c-90b5-5dacf31f0e35.jpg?v=1583169305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+<strong><span></span></strong><strong><span></span></strong>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321170108509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku>LKIL-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321169616989</id>
+    <published>2017-07-20T13:18:23-04:00</published>
+    <updated>2017-07-20T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lkh-2-holly-mittens"/>
+    <title>LKH-2 (holly mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKH-2_4763d146-aa8a-4bf4-8504-119d5143e434.jpg?v=1583169307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321169616989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku>LKH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321169027165</id>
+    <published>2017-07-20T13:18:23-04:00</published>
+    <updated>2017-07-20T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lki-2-ivy-mittens"/>
+    <title>LKI-2 (ivy mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKI-2_6b2f8d56-1cfb-49b2-9428-8e9114107ecb.jpg?v=1583169308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+<strong><span></span></strong><strong><span></span></strong>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321169027165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>LKI-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321168699485</id>
+    <published>2017-07-20T13:18:23-04:00</published>
+    <updated>2017-07-20T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lkn-2-north-mittens"/>
+    <title>LKN-2 (north mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKN-2_329ab48a-516d-47c1-b3bc-d12289b724f0.jpg?v=1583169310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+<strong><span></span></strong><strong><span></span></strong>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321168699485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>LKN-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321168273501</id>
+    <published>2017-07-20T13:18:23-04:00</published>
+    <updated>2017-07-20T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lka-2-aspen-mittens"/>
+    <title>LKA-2 (aspen mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKA-2_cb0d2f37-1640-4c66-89d2-1ad16a49f696.jpg?v=1583169313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321168273501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>LKA-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321167519837</id>
+    <published>2017-07-20T13:18:23-04:00</published>
+    <updated>2017-07-20T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lkb-2-bodhi-mittens"/>
+    <title>LKB-2 (bodhi mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKB-2_b02720c3-56b3-4e37-933b-e19eaca5a8ee.jpg?v=1583169314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321167519837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>LKB-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321143304285</id>
+    <published>2017-07-20T13:18:23-04:00</published>
+    <updated>2017-07-20T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ava-mittens-1"/>
+    <title>LKL-2 (lumi mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKL-2_a48792a1-35bd-4715-b81e-fcbc5105e03e.jpg?v=1583169317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321143304285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>LKL-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549030091</id>
+    <published>2017-07-20T13:18:23-04:00</published>
+    <updated>2017-07-20T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ava-mittens"/>
+    <title>KAH-2 (ava mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KAH-Mittens_acefc6c0-20e9-475d-a3d9-d917304d9ab7.jpg?v=1583170111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549030091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>KAH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549029259</id>
+    <published>2017-07-20T13:18:16-04:00</published>
+    <updated>2017-07-20T13:18:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/maya-mittens"/>
+    <title>KMH-2 (maya mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KMH-mittens_de2e0bff-f545-4139-aef0-a75769d839fe.jpg?v=1583170107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549029259</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KMH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549027339</id>
+    <published>2017-07-20T13:18:03-04:00</published>
+    <updated>2017-07-20T13:18:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nomad-mittens"/>
+    <title>KNH-2 (nomad mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KNH-mitten_18944395-6ec4-4be6-931c-fbea25ec897c.jpg?v=1583170096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549027339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>KNH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549026507</id>
+    <published>2017-07-20T13:17:57-04:00</published>
+    <updated>2017-07-20T13:17:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eden-mittens"/>
+    <title>KEH-2 (eden mitten)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KEH-mittens_9d809e15-72f4-4ea9-a4c3-709649955585.jpg?v=1583170091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549026507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>KEH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549025291</id>
+    <published>2017-07-20T13:17:41-04:00</published>
+    <updated>2017-07-20T13:17:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/natural-flower-mittens"/>
+    <title>KFH-2 (nordic mittens)</title>
+    <s:type>Mittens</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KFH-MITTENS-1_429b783a-7a29-4613-818f-513960879977.jpg?v=1583170081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mittens<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>The perfect winter mittens for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest mittens with an undeniably Nordic flair. These mittens are the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage. <br></span>
+</div>
+<div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% fleece.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br><br>
+</li>
+</div>
+</div>
+</div>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+</div>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549025291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KFH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

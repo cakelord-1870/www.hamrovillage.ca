@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/fashion.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-03-02T12:34:11-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567029055581</id>
+    <published>2020-03-02T12:34:11-05:00</published>
+    <updated>2020-03-02T12:34:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/circle-beaded-brooch"/>
+    <title>FLX981S (beaded circle brooch)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/glass_beaded_brooch.jpg?v=1583170453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These brooches has been wet felted from 100% wool and is one of the best eco-friendly made out of using only soap and warm water. They are a super accessory and can adorn jacket, hat, dress, or handbag. Azo free dyes. The pin back is securely stitched not glues.</span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span><br><strong>size:</strong> 3" cir</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567029055581</id>
+      <title>Fuchsia</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>FLX981S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567029055581</id>
+      <title>Pink</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>FLX981S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567029055581</id>
+      <title>Red</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>FLX981S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1506181120093</id>
+    <published>2018-10-30T13:07:38-04:00</published>
+    <updated>2018-10-30T13:07:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/flx980s-contrast-match-necklace"/>
+    <title>FLX980S (contrast &amp; match necklace)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/feltball_necklace_4b471bc5-a783-4f3a-bcfb-601dae8c7c8f.jpg?v=1583168728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This handmade felt necklace adds an instant splash of color while being light and easy to wear. </span><span>One of the best Eco friendly accessories made out of 100% wool, using only soap and warm water.</span></p>
+<p><span><strong>composition:</strong> 100% Wool. Azo free dye.<br></span><strong>care: </strong>hand wash and lay flat to dry <br><strong>size: </strong>40 cm <span>Cir </span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506181120093</id>
+      <title>Olive</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FLX980S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506181120093</id>
+      <title>Red</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FLX980S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506181120093</id>
+      <title>Turq</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FLX980S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506181120093</id>
+      <title>Black</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FLX980S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1506181251165</id>
+    <published>2018-10-30T13:07:00-04:00</published>
+    <updated>2018-10-30T13:07:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/msn4-natural-pebble-necklace"/>
+    <title>MSN4 (natural pebble necklace)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/necklace_natural_1_2a81bd4e-3d70-4ba1-9ba1-ef4b6276af91.jpg?v=1583168706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This handmade felt necklace adds an instant splash of color while being light and easy to wear. </span><span>One of the best Eco friendly accessories made out of 100% wool, using only soap and warm water.</span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: </strong>s<span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span><br><strong>size: </strong>30 cm <span>Cir </span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506181251165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>MSN4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1506181218397</id>
+    <published>2018-10-30T13:06:58-04:00</published>
+    <updated>2018-10-30T13:06:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/msn3-white-pebble-felt-necklace"/>
+    <title>MSN3 (white pebble necklace)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/necklace_white_1_4f067a97-e73b-462c-9777-f048d67503a9.jpg?v=1583168712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This handmade felt necklace adds an instant splash of color while being light and easy to wear. </span><span>One of the best Eco friendly accessories made out of 100% wool, using only soap and warm water.</span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material. </span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span><br><strong>size: </strong>30 cm <span>Cir </span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506181218397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>MSN3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1506181152861</id>
+    <published>2018-10-30T13:06:56-04:00</published>
+    <updated>2018-10-30T13:06:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/msn2-moss-felt-necklace"/>
+    <title>MSN2 (moss felt necklace)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/necklace_green_2_4f6efacb-2c69-444a-8537-01678b1370a9.jpg?v=1583168716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This handmade felt necklace adds an instant splash of color while being light and easy to wear. </span><span>One of the best Eco friendly accessories made out of 100% wool, using only soap and warm water.</span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span><br><strong>size: </strong>40 cm <span>Cir </span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506181152861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>MSN2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549105739</id>
+    <published>2017-07-20T13:26:54-04:00</published>
+    <updated>2017-07-20T13:26:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/emboidery-doll-keychain"/>
+    <title>FDKC1 (fairy doll keychain)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/doll_keychain_1_91d82fd6-9a8d-4073-92c1-c452d969c5e4.jpg?v=1583170492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Our cute girls are perfect for all handmade lovers. They are available in 4 assortments colours and they make a charming addition to any child bedroom, keychain, hang on school bag, door knobs and Christmas tree too.</p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span><br><strong>size:</strong>5" ht</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-8</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549105739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>FDKC1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549103883</id>
+    <published>2017-07-20T13:26:51-04:00</published>
+    <updated>2017-07-20T13:26:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/mulit-colour-necklace"/>
+    <title>FLX977S (multi colour necklace)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/muliti_color_necklaces_ed503fbf-efa3-45fd-ab50-e66124b9288b.jpg?v=1583170486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This multi color handmade felt necklace adds an instant splash of color while being light and easy to wear. One of the best Eco friendly accessories made out of wet felted from 100% wool, using only soap and warm water.</span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span>ry <br><strong>size:</strong> <span>18" Cir</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549103883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>FLX977S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549103499</id>
+    <published>2017-07-20T13:26:48-04:00</published>
+    <updated>2017-07-20T13:26:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/three-layer-brooch-w-button"/>
+    <title>FB12 (button brooch)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/button_brooch_7ef21cd6-5876-4224-96c1-fbfb17155ec5.jpg?v=1583170483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This handmade felt brooch adds an instant splash of color while being light and easy to wear. The brooch is made using layered felt sheet and contrasted with button and stitching. One of the best Eco friendly accessories made out of 100% wool, using only soap and warm water.</span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material. </span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span><br><strong>size:</strong> <span>2.5" Cir</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549103499</id>
+      <title>Orange</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>FB12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549103499</id>
+      <title>Brown</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>FB12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549102987</id>
+    <published>2017-07-20T13:26:41-04:00</published>
+    <updated>2017-07-20T13:26:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/step-necklace"/>
+    <title>MSN1 (step necklace)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/step_necklace_1_1024x1024_320dff0c-e0db-49b2-bee4-946fc5494bcf.jpg?v=1583170481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This handmade felt necklace adds an instant splash of color while being light and easy to wear. </span><span>One of the best Eco friendly accessories made out of 100% wool, using only soap and warm water.</span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span><br><strong>size:</strong> <span>21.5" Cir </span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549102987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>MSN1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549102027</id>
+    <published>2017-07-20T13:26:29-04:00</published>
+    <updated>2017-07-20T13:26:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/owl-brooch"/>
+    <title>OWB1 (owl brooch)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/owl_brooch_1_7ab8a22b-068f-4708-94a2-c5179d7b79a8.jpg?v=1583170478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These brooches has been wet felted from 100% wool and is one of the best Eco-friendly made out of using only soap and warm water. They are a super accessory and can adorn jacket, hat, dress, or handbag. </span><span>The pin back is securely stitched not glues.<br><br>You will receive an assortment of colors.<br></span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span> <br><strong>size:</strong> <span>2.25" X 2.25"</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549102027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>OWB1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549100555</id>
+    <published>2017-07-20T13:26:14-04:00</published>
+    <updated>2017-07-20T13:26:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/9-ball-hair-tie"/>
+    <title>F9BH (9 ball hair tie)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ball_hairtie_3_a6bad202-bd00-43c4-80fc-d43175c3fdb4.jpg?v=1583170473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This hair tie has 11 hand felted balls sewn on a black elastic tie. They look great wrapped around a ponytail or rolls over on the wrist. This hair ties/bracelet has been wet felted from 100% wool and is one of the best co-friendly made out of using only soap and warm water.<br></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-12</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549100555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>F9BH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549098059</id>
+    <published>2017-07-20T13:26:09-04:00</published>
+    <updated>2017-07-20T13:26:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/heart-brooch"/>
+    <title>FLX979S (heart brooch)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/heart_brooch_fdd51f3d-f4ee-4785-8dcb-5dd1a6786770.jpg?v=1583170465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These heart shaped brooches are made of two layers coloured felt and hand stitched with embroidery thread. They are wet felted from 100% wool and is one of the best eco-friendly made out of using only soap and warm water. They are a super accessory and can adorn jacket, hat, dress, or handbag. The pin back is securely stitched not glues</span><span><br></span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span><br><strong>size:</strong> <span>2.5" X 2"<br><br><br></span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549098059</id>
+      <title>Red</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>FLX979S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549098059</id>
+      <title>Green</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>FLX979S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549098059</id>
+      <title>Blue</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>FLX979S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549098059</id>
+      <title>Orange</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>FLX979S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549097419</id>
+    <published>2017-07-20T13:26:05-04:00</published>
+    <updated>2017-07-20T13:26:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pearl-flower-brooch"/>
+    <title>FLX946S (pearl brooch)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/flower_pearl_brooch_860c7111-46d9-4c6f-a6d9-9a5f597b4391.jpg?v=1583170462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our hand felted flower brooches have a simple elegant style, perfectly accented with a pearl bead center. These brooches has been wet felted from 100% wool and is one of the best eco-friendly made out of using only soap and warm water. These brooches are a super accessory and can adorn jacket, hat, dress, or handbag. Azo free dyes The pin back is securely stitched not glues</span><span><br></span></p>
+<meta charset="utf-8">
+<p><strong>composition:</strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span>t to dry <br><strong>size:</strong> <span>3" dia<br></span><br><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549097419</id>
+      <title>Red</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>FLX946S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549097419</id>
+      <title>Pink</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>FLX946S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549096971</id>
+    <published>2017-07-20T13:26:00-04:00</published>
+    <updated>2017-07-20T13:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/multi-layer-brooch-w-beads"/>
+    <title>FLX979S (layer brooch)</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/flower_muliti_layer_brooch_1_a5526242-edd0-4d79-a655-eeb0b92ce65a.jpg?v=1583170460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These brooches has been wet felted from 100% wool and is one of the best eco-friendly made out of using only soap and warm water. They are a super accessory and can adorn jacket, hat, dress, or handbag. Azo free dyes. The pin back is securely stitched not glues.</span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549096971</id>
+      <title>Blue</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>FLX979S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549096971</id>
+      <title>Purple</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>FLX979S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549095819</id>
+    <published>2017-07-20T13:25:54-04:00</published>
+    <updated>2017-07-20T13:25:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/swril-rose-brooch"/>
+    <title>FB10 rose brooch</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/swrill_brooch_74cb5b3f-8102-4348-9d47-37f38f95af4e.jpg?v=1583170456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These brooches has been wet felted from 100% wool and is one of the best eco-friendly made out of using only soap and warm water. They are a super accessory and can adorn jacket, hat, dress, or handbag. Azo free dyes. The pin back is securely stitched not glues.</span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span><br><strong>size:</strong> 3" cir</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549095819</id>
+      <title>Fuchsia</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>FB10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549095819</id>
+      <title>White</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>FB10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549094411</id>
+    <published>2017-07-20T13:25:47-04:00</published>
+    <updated>2017-07-20T13:25:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/two-layer-flower-brooch"/>
+    <title>FLX988S flower brooch</title>
+    <s:type>Fashion</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/two_layer_brooch_8b717973-c814-42d7-b580-965e7b014ac2.jpg?v=1583170451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Fashion<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These brooches has been wet felted from 100% wool and is one of the best Eco-friendly made out of using only soap and warm water. They are a super accessory and can adorn jacket, hat, dress, or handbag. Azo free dyes. The pin back is securely stitched not glues.</span></p>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material. </span><br><strong>care: s</strong><span>pot-clean with damp sponge and soap, or with a textile stain remover.</span><br><span>Do not machine wash. Do not iron. Do not bleach.</span><br><strong>size:</strong> 3.5" cir</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549094411</id>
+      <title>Green</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>FLX988S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549094411</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>FLX988S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

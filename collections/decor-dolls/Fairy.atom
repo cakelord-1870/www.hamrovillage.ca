@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/decor-dolls.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2017-07-20T13:11:27-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319203602525</id>
+    <published>2017-07-20T13:11:27-04:00</published>
+    <updated>2017-07-20T13:11:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/esdd4-lavender-fairy"/>
+    <title>ESDD4 (lavender fairy)</title>
+    <s:type>Decor Dolls</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/lavender-fairy_d5448236-b2ca-476e-baad-c73b3b09c4da.jpg?v=1583169157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Decor Dolls<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This sweet and whimsical </span><span>Waldorf inspired Lavender </span><span>felted fairy is handcrafted with 100% wool and pipe cleaner wire to hold the flowers. She soft, sweet and brings joy. Makes</span><span> a </span>lovely decoration on the window, bookshelves or nature table! Prefect for gift for all ages. </p>
+<p><span><strong>size: </strong>8" ht.<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. </span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span><br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairy</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319203602525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>ESDD4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319203340381</id>
+    <published>2017-07-20T13:11:27-04:00</published>
+    <updated>2017-07-20T13:11:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/esdd3-chrysanthemum-fairy"/>
+    <title>ESDD3 (chrysanthemum fairy)</title>
+    <s:type>Decor Dolls</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/chrysanthemum-fairy_4c70ba2e-c56b-4890-938a-f5221e10e639.jpg?v=1583169159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Decor Dolls<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This sweet and whimsical </span><span>Waldorf inspired Chrysanthemum fairy is hand felted with 100% wool. She is sweet and brings joy wherever she is. </span><span> A </span>lovely decoration. Prefect gift for all ages. </p>
+<p><span><strong>size: </strong>8" ht.<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. </span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span><br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairy</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319203340381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>ESDD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319203274845</id>
+    <published>2017-07-20T13:11:27-04:00</published>
+    <updated>2017-07-20T13:11:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/esdd2-tulip-fairy"/>
+    <title>ESDD2 (tulip fairy)</title>
+    <s:type>Decor Dolls</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/tulip-fairy_83cdd24f-55d8-4466-9689-e58360baf224.jpg?v=1583169161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Decor Dolls<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This sweet and whimsical </span><span>Waldorf inspired Tulip </span><span>felted fairy is handcrafted with 100% wool and pipe cleaner wire to hold the flowers. She soft, sweet and brings joy. Makes</span><span> a </span>lovely decoration on the window, bookshelves or nature table! Prefect for gift for all ages. </p>
+<p><span><strong>size: </strong>8" ht.<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. </span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span><br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairy</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319203274845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>ESDD2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319191019613</id>
+    <published>2017-07-20T13:11:27-04:00</published>
+    <updated>2017-07-20T13:11:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/esdd1-sunflower-fairy"/>
+    <title>ESDD1 (sunflower fairy)</title>
+    <s:type>Decor Dolls</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/sunflower-fairy_28c7617e-c66d-4693-b2ea-ec4631d4d64e.jpg?v=1583169162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Decor Dolls<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This sweet and whimsical </span><span>Waldorf inspired Sunflower </span><span>felted fairy is handcrafted with 100% wool and pipe cleaner wire to hold the flowers. She soft, sweet and brings joy. Makes</span><span> a </span>lovely decoration on the window, bookshelves or nature table! Prefect for gift for all ages. </p>
+<p><span><strong>size: </strong>8" ht.<br></span><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<strong><br></strong></span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairy</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319191019613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>ESDD1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319144882269</id>
+    <published>2017-07-20T13:11:27-04:00</published>
+    <updated>2017-07-20T13:11:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vp10-ranuja-pillow-doll"/>
+    <title>VP10 (ranuja pillow doll)</title>
+    <s:type>Decor Dolls</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ranuja_990d9782-0dbf-43d7-852c-35503b9c04c3.jpg?v=1583169167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Decor Dolls<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>You will love this whimsical velvet Ranuja pillow doll. She so soft, sweet and happy. She will bring joy and smile anytime and anywhere. This will make a lovely gift for all ages.</span></p>
+<p><span><strong>size: </strong>10" w x 12" ht.<strong><br></strong></span><span><strong>composition:</strong> Handmade out of 90% velvet 10% cotton.<br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.<br></span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319144882269</id>
+      <title>Red</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>VP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319144882269</id>
+      <title>Blue</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>VP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548968843</id>
+    <published>2017-07-20T13:11:27-04:00</published>
+    <updated>2017-07-20T13:11:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/woven-happy-sad-doll-2-in-1"/>
+    <title>KD01 (woven happy &amp; sad doll)</title>
+    <s:type>Decor Dolls</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/happy-sad-dolls-1_4b6f2ca3-135c-44c4-bc27-a53c6d1d1a16.jpg?v=1583169858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Decor Dolls<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>You will love this whimsical felted Happy and Sad Doll. This 2 in 1 doll is so playful, sweet, will bring joy and smile anytime and anywhere. This will make a lovely gift for all ages. Handmade out of 100% wool, using only soap and warm water.</span></p>
+<p><span><strong>composition:</strong> 100% Woven Cotten. Azo free dye.<br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.<br></span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548968843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>KD01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/dog-carry-bag.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-06-07T10:46:37-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6824682586265</id>
+    <published>2021-06-07T10:46:37-04:00</published>
+    <updated>2021-06-07T10:46:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vdg-2-pet-carrier"/>
+    <title>VDG-2 (pet carrier)</title>
+    <s:type>Dog Carry Bag</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/VDG-2.jpg?v=1623077212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Dog Carry Bag<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These stylish and practical felt dog carriers are perfect for any small breeds.The carriers are crafted from wet felting technique and lined internally with soft cotton fabric. Strong felted handles can be worn over the shoulder, the zip and internal collar clasp keep your dog secure.</p>
+<ul>
+<li>100% wool</li>
+<li>Interior cotton lining</li>
+<li>Zipper Closer</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>Care Instructions:</strong><span> Shake off or vacuum to remove any dirt.<br>If needed hand wash with warm water with few drops of laundry soap. <br>Use towel to dry remove excess water and then air dry it.</span> </p>
+<p><meta charset="utf-8"><strong>Size</strong><span>: Length </span><span>21</span><span>" x Width </span><span>9</span><span>" x Height 1</span><span>0</span><span>"</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6824682586265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>VDG-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3574006087773</id>
+    <published>2019-05-28T14:12:13-04:00</published>
+    <updated>2019-05-28T14:12:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vdg-4-dog-carrier-natural"/>
+    <title>VDG-4 (pet carrier)</title>
+    <s:type>Dog Carry Bag</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/VDG-4.jpg?v=1623077429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Dog Carry Bag<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These stylish and practical felt dog carriers are perfect for any small breeds.The carriers are crafted from wet felting technique and lined internally with soft cotton fabric. Strong felted handles can be worn over the shoulder, the zip and internal collar clasp keep your dog secure.</p>
+<ul>
+<li>100% wool</li>
+<li>Interior cotton lining</li>
+<li>Zipper Closer</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>Care Instructions:</strong><span> Shake off or vacuum to remove any dirt.<br>If needed hand wash with warm water with few drops of laundry soap. <br>Use towel to dry remove excess water and then air dry it.</span> </p>
+<p><meta charset="utf-8"><strong>Size</strong><span>: Length </span><span>21</span><span>" x Width </span><span>9</span><span>" x Height 1</span><span>0</span><span>"</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3574006087773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>VDG-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3574005989469</id>
+    <published>2019-05-28T14:12:08-04:00</published>
+    <updated>2019-05-28T14:12:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbdc-2-dog-carry-green"/>
+    <title>VDG-3 (pet carrier)</title>
+    <s:type>Dog Carry Bag</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/teal_carrier_4_7e7b5b63-6dae-489a-8e69-37b0b64f7a80.jpg?v=1583168873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Dog Carry Bag<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These stylish and practical felt dog carriers are perfect for any small breeds.The carriers are crafted from wet felting technique and lined internally with soft cotton fabric. Strong felted handles can be worn over the shoulder, the zip and internal collar clasp keep your dog secure.</p>
+<ul>
+<li>100% wool</li>
+<li>Interior cotton lining</li>
+<li>Zipper Closer</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>Care Instructions:</strong><span> Shake off or vacuum to remove any dirt.<br>If needed hand wash with warm water with few drops of laundry soap. <br>Use towel to dry remove excess water and then air dry it.</span> </p>
+<p><meta charset="utf-8"><strong>Size</strong><span>: Length </span><span>21</span><span>" x Width </span><span>9</span><span>" x Height 1</span><span>0</span><span>"</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3574005989469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>VDG-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3574005858397</id>
+    <published>2019-05-28T14:12:04-04:00</published>
+    <updated>2019-05-28T14:12:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbdc-1-green"/>
+    <title>VDG-1 (pet carrier)</title>
+    <s:type>Dog Carry Bag</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/green_carrier_1_60704081-5057-4c15-85d4-dae61dc1f31f.jpg?v=1583168878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Dog Carry Bag<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>These stylish and practical felt dog carriers are perfect for any small breeds.The carriers are crafted from wet felting technique and lined internally with soft cotton fabric. Strong felted handles can be worn over the shoulder, the zip and internal collar clasp keep your dog secure.</p>
+<ul>
+<li>100% wool</li>
+<li>Interior cotton lining</li>
+<li>Zipper Closer</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>Care Instructions:</strong><span> Shake off or vacuum to remove any dirt.<br>If needed hand wash with warm water with few drops of laundry soap. <br>Use towel to dry remove excess water and then air dry it.</span> </p>
+<p><meta charset="utf-8"><strong>Size</strong><span>: Length </span><span>21</span><span>" x Width </span><span>9</span><span>" x Height 1</span><span>0</span><span>"</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3574005858397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>VDG-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

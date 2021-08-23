@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/leg-warmers.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-01-17T21:14:50-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6096563765401</id>
+    <published>2021-01-17T21:14:50-05:00</published>
+    <updated>2021-01-17T21:14:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lke-2-ember-leg-warmers"/>
+    <title>LKE-2 (ember leg warmers)</title>
+    <s:type>Leg Warmers</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKE-2.jpg?v=1610936149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Leg Warmers<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<div>
+<p>Step into the coziest leg warmers with an undeniably Nordic flair. These leg warmers are the ultimate in cozy comfort, perfect for lounging around the house and made to <span>wear with a dress, skirt, or over leggings for extra fall &amp; winter weather coverage. </span></p>
+</div>
+<ul class="pad-l2">
+<li class="line-height-15">100% Wool</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+</div>
+<ul class="pad-l2"></ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096563765401</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>LKE-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6096557834393</id>
+    <published>2021-01-17T21:11:39-05:00</published>
+    <updated>2021-01-17T21:11:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lka-3-aspen-leg-warmers"/>
+    <title>LKA-3 (aspen leg warmers)</title>
+    <s:type>Leg Warmers</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKA-3.jpg?v=1610935995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Leg Warmers<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<div>
+<p>Step into the coziest leg warmers with an undeniably Nordic flair. These leg warmers are the ultimate in cozy comfort, perfect for lounging around the house and made to <span>wear with a dress, skirt, or over leggings for extra fall &amp; winter weather coverage. </span></p>
+</div>
+<ul class="pad-l2">
+<li class="line-height-15">100% Wool</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+</div>
+<ul class="pad-l2"></ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096557834393</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>LKA-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321113616477</id>
+    <published>2017-07-20T13:11:25-04:00</published>
+    <updated>2017-07-20T13:11:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lnlw-3-nova-green-leg-warmers"/>
+    <title>LNLW-3 (nova green leg warmers)</title>
+    <s:type>Leg Warmers</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LNLW-3_963fe073-388b-457d-a517-320057ad5a40.jpg?v=1583169286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Leg Warmers<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<div>
+<p>Step into the coziest leg warmers with an undeniably Nordic flair. These leg warmers are the ultimate in cozy comfort, perfect for lounging around the house and made to <span>wear with a dress, skirt, or over leggings for extra fall &amp; winter weather coverage. </span></p>
+</div>
+<ul class="pad-l2">
+<li class="line-height-15">100% Wool</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+</div>
+<ul class="pad-l2"></ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321113616477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>LNLW-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321113190493</id>
+    <published>2017-07-20T13:11:25-04:00</published>
+    <updated>2017-07-20T13:11:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lnlw-2-nova-blue-leg-warmers"/>
+    <title>LNLW-2 (nova blue leg warmers)</title>
+    <s:type>Leg Warmers</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LNLW-2_8449640b-50af-467d-81fa-22ef89044dfd.jpg?v=1583169289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Leg Warmers<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<div>
+<p>Step into the coziest leg warmers with an undeniably Nordic flair. These leg warmers are the ultimate in cozy comfort, perfect for lounging around the house and made to <span>wear with a dress, skirt, or over leggings for extra fall &amp; winter weather coverage. </span></p>
+</div>
+<ul class="pad-l2">
+<li class="line-height-15">100% Wool</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+</div>
+<ul class="pad-l2"></ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321113190493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>LNLW-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321110634589</id>
+    <published>2017-07-20T13:11:25-04:00</published>
+    <updated>2017-07-20T13:11:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lnlw-1-nova-leg-warmers"/>
+    <title>LNLW-1 (nova red leg warmers)</title>
+    <s:type>Leg Warmers</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LNLW-1_fb628e02-dc05-4c0d-846e-5505111b8678.jpg?v=1583169291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Leg Warmers<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<div>
+<p>Step into the coziest leg warmers with an undeniably Nordic flair. These leg warmers are the ultimate in cozy comfort, perfect for lounging around the house and made to <span>wear with a dress, skirt, or over leggings for extra fall &amp; winter weather coverage. </span></p>
+</div>
+<ul class="pad-l2">
+<li class="line-height-15">100% Wool</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+</div>
+<ul class="pad-l2"></ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321110634589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>LNLW-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548968459</id>
+    <published>2017-07-20T13:11:25-04:00</published>
+    <updated>2017-07-20T13:11:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/black-white-leg-warmers"/>
+    <title>KLW-1 (b&amp;w leg warmers)</title>
+    <s:type>Leg Warmers</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KLW-1_72f91dfc-56d2-4fdd-aadc-227658b1a360.jpg?v=1583169856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Leg Warmers<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<div>
+<p>Step into the coziest leg warmers with an undeniably Nordic flair. These leg warmers are the ultimate in cozy comfort, perfect for lounging around the house and made to <span>wear with a dress, skirt, or over leggings for extra fall &amp; winter weather coverage. </span></p>
+</div>
+<ul class="pad-l2">
+<li class="line-height-15">100% Wool</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+</div>
+<ul class="pad-l2"></ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548968459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>KLW-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321108897885</id>
+    <published>2017-07-20T13:11:18-04:00</published>
+    <updated>2017-07-20T13:11:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kmh-3-maya-leg-warmers"/>
+    <title>KMH-3 (maya leg warmers)</title>
+    <s:type>Leg Warmers</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KMH-3_0bfe3f09-9686-4f41-a3b5-70f87ea72419.jpg?v=1583169293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Leg Warmers<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>
+<div>
+<p>Step into the coziest leg warmers with an undeniably Nordic flair. These leg warmers are the ultimate in cozy comfort, perfect for lounging around the house and made to <span>wear with a dress, skirt, or over leggings for extra fall &amp; winter weather coverage. </span></p>
+</div>
+<ul class="pad-l2">
+<li class="line-height-15">100% Wool</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+</div>
+<ul class="pad-l2"></ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321108897885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>KKH-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321108308061</id>
+    <published>2017-07-20T13:11:18-04:00</published>
+    <updated>2017-07-20T13:11:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kkh-3-karma-leg-warmers"/>
+    <title>KKH-3 (karma leg warmers)</title>
+    <s:type>Leg Warmers</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KKH-3_0daaf1d7-60d0-4ef9-a713-370caffe3ee1.jpg?v=1583169295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Leg Warmers<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>
+<div>
+<p>Step into the coziest leg warmers with an undeniably Nordic flair. These leg warmers are the ultimate in cozy comfort, perfect for lounging around the house and made to <span>wear with a dress, skirt, or over leggings for extra fall &amp; winter weather coverage. </span></p>
+</div>
+<ul class="pad-l2">
+<li class="line-height-15">100% Wool</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+</div>
+<ul class="pad-l2"></ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321108308061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>KKH-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321106735197</id>
+    <published>2017-07-20T13:11:18-04:00</published>
+    <updated>2017-07-20T13:11:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kah-3-ava-leg-warmers"/>
+    <title>KAH-3 (ava leg warmers)</title>
+    <s:type>Leg Warmers</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KAH-3_915926e6-ed03-4a03-9c08-426053d0c86a.jpg?v=1583169297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Leg Warmers<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>
+<div>
+<p>Step into the coziest leg warmers with an undeniably Nordic flair. These leg warmers are the ultimate in cozy comfort, perfect for lounging around the house and made to <span>wear with a dress, skirt, or over leggings for extra fall &amp; winter weather coverage. </span></p>
+</div>
+<ul class="pad-l2">
+<li class="line-height-15">100% Wool</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+</div>
+<ul class="pad-l2"></ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321106735197</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>KAH-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548967883</id>
+    <published>2017-07-20T13:11:18-04:00</published>
+    <updated>2017-07-20T13:11:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/rose-leg-warmers"/>
+    <title>KRH3 (rose leg warmers)</title>
+    <s:type>Leg Warmers</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KRH2-warmers_7636f862-06ee-4868-b286-f59ae42ce41d.jpg?v=1583169853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Leg Warmers<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>
+<div>
+<p>Step into the coziest leg warmers with an undeniably Nordic flair. These leg warmers are the ultimate in cozy comfort, perfect for lounging around the house and made to <span>wear with a dress, skirt, or over leggings for extra fall &amp; winter weather coverage. </span></p>
+</div>
+<ul class="pad-l2">
+<li class="line-height-15">100% Wool</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+</div>
+<ul class="pad-l2"></ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548967883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>KRH3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

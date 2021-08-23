@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/pen-cases.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2019-05-23T11:37:10-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549114059</id>
+    <published>2019-05-23T11:37:10-04:00</published>
+    <updated>2019-05-23T11:37:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/puppy-face-pen-purse"/>
+    <title>FHP-21 (puppy pencil purse)</title>
+    <s:type>Pen Cases</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/puppy_1_d331f9d7-0c2e-42d5-abd2-c52edb69ac8e.jpg?v=1583170535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pen Cases<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable Puppy face with flowers pencil purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 9.5” X 2” cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span><br><br><br><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, </em></span><span><em>as it depends on your monitor setting</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549114059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FHP-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549117131</id>
+    <published>2018-06-01T11:52:51-04:00</published>
+    <updated>2018-06-01T11:52:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/cat-face-pencil-purse"/>
+    <title>FHP-17 (cat pencil purse)</title>
+    <s:type>Pen Cases</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/pen_cases_1_e85113b5-21ec-42a2-903b-ba77ae303b8f.jpg?v=1583170556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pen Cases<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable Pig and Cow pencil purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 9.5” X 2” cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549117131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FHP-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549122443</id>
+    <published>2017-07-20T13:28:38-04:00</published>
+    <updated>2017-07-20T13:28:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/butterfly-pencil-purse"/>
+    <title>FHP-11 (butterfly pencil purse)</title>
+    <s:type>Pen Cases</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/butterfly_case_0_52c7213f-ca62-4b04-b65d-6d961fba6cbc.jpg?v=1583170586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pen Cases<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable Butterfly pencil purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 9.5” X 2” cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549122443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FHP-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549121611</id>
+    <published>2017-07-20T13:28:32-04:00</published>
+    <updated>2017-07-20T13:28:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/giraffe-w-flowers-pencil-purse"/>
+    <title>FHP-12 (giraffe pencil purse)</title>
+    <s:type>Pen Cases</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/purple_giraffe_case_1_d9a674e4-65e1-4804-9f64-6a75d0d68503.jpg?v=1583170580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pen Cases<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable Giraffe with flowers pencil purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 9.5” X 2” cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span><span> </span><br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549121611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FHP-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549120459</id>
+    <published>2017-07-20T13:28:27-04:00</published>
+    <updated>2017-07-20T13:28:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/car-pencil-purse"/>
+    <title>FHP-13 (car pencil purse)</title>
+    <s:type>Pen Cases</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/car_case_1_39176170-1079-4617-96a7-a680c22cebf9.jpg?v=1583170573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pen Cases<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable Car pencil purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 9.5” X 2” cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549120459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FHP-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549119563</id>
+    <published>2017-07-20T13:28:20-04:00</published>
+    <updated>2017-07-20T13:28:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/puppy-pencil-purse"/>
+    <title>FHP-14 (puppy pencil purse)</title>
+    <s:type>Pen Cases</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/puppy_pink_case_1_56d5945a-0a4f-4161-a90d-9cc22177b9ac.jpg?v=1583170567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pen Cases<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable Puppy pencil purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 9.5” X 2” cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span><br><br><br><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, </em></span><span><em>as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549119563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FHP-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549118091</id>
+    <published>2017-07-20T13:28:13-04:00</published>
+    <updated>2017-07-20T13:28:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pig-cow-pencil-purse"/>
+    <title>FHP-15 (pig cow pencil purse)</title>
+    <s:type>Pen Cases</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/pig_cow_case_1_643dd7be-3409-47f3-a162-15706254bd9d.jpg?v=1583170562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pen Cases<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable Pig and Cow pencil purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 9.5” X 2” cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span><br><br><br><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, </em></span><span><em>as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549118091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FHP-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549116107</id>
+    <published>2017-07-20T13:28:00-04:00</published>
+    <updated>2017-07-20T13:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/bunny-face-pencil-purse"/>
+    <title>FHP-19  (mouse pencil purse)</title>
+    <s:type>Pen Cases</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/mouse_1_1afb5b17-04e2-4c3f-8f17-17244008c5c2.jpg?v=1583170548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pen Cases<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable Mouse face pencil purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 9.5” X 2” cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span><br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549116107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FHP-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549114955</id>
+    <published>2017-07-20T13:27:54-04:00</published>
+    <updated>2017-07-20T13:27:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/caterpillar-face-pen-purse"/>
+    <title>FHP-20 (caterpillar pencil purse)</title>
+    <s:type>Pen Cases</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/caterpillar_1_5ec74a4f-172a-4cb6-ad92-101317a0ec98.jpg?v=1583170542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pen Cases<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable Mouse face pencil purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 9.5” X 2” cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549114955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FHP-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549112971</id>
+    <published>2017-07-20T13:27:40-04:00</published>
+    <updated>2017-07-20T13:27:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/2-dino-pen-case"/>
+    <title>FHP-16 (two dino pen case)</title>
+    <s:type>Pen Cases</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/dinos_1_cbcbc2c2-7d45-4aed-b75c-df027c189f1c.jpg?v=1583170529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Pen Cases<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable 2 Dino pencil purse is handmade from 100% wool, using only soap and warm water. The simple and clean on the front has been carefully needle felted and closes with a zipper fastener to keep any valuables snug and secure.</span></p>
+<ul>
+<li>Interior cotton lining</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>size:</strong><span> 9.5” X 2” cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549112971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FHP-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

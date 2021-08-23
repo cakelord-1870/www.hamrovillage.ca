@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/hangings-ornaments.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-12-17T12:51:26-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6022214811801</id>
+    <published>2020-12-17T12:51:26-05:00</published>
+    <updated>2020-12-17T12:51:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-53-mr-fox-hanging"/>
+    <title>EO-53 (mr.fox hanging)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-53.png?v=1608227234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>size: </strong>4" Ht.<br><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6022214811801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>EO-53</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291583641</id>
+    <published>2020-08-28T11:37:04-04:00</published>
+    <updated>2020-08-28T11:37:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-99-santa-gnome-ornament"/>
+    <title>EO-99 (santa-gnome-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-99.jpg?v=1598557886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291583641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>EO-99</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291452569</id>
+    <published>2020-08-28T11:36:27-04:00</published>
+    <updated>2020-08-28T11:36:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-98-winter-gnome-ornament"/>
+    <title>EO-98 (winter gnome)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-98.jpg?v=1598557831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291452569</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>EO-98</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291387033</id>
+    <published>2020-08-28T11:35:30-04:00</published>
+    <updated>2020-08-28T11:35:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-97-gnome-ornament"/>
+    <title>EO-97 (gnome)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-97.jpg?v=1598557738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291387033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>EO-97</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291354265</id>
+    <published>2020-08-28T11:12:51-04:00</published>
+    <updated>2020-08-28T11:12:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-96-pink-poodle-ornament"/>
+    <title>EO-96 (pink-poodle-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-96.jpg?v=1598557697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291354265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-96</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569637253273</id>
+    <published>2020-08-27T17:09:01-04:00</published>
+    <updated>2020-08-27T17:09:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-70-wiener-ornament-1"/>
+    <title>EO-70 (wiener ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-70.jpg?v=1598554813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569637253273</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-70</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291878553</id>
+    <published>2020-08-27T17:09:01-04:00</published>
+    <updated>2020-08-27T17:09:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-103-pixie-elf-ornament"/>
+    <title>EO-103 (pixie elf ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-103.jpg?v=1598548828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291878553</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>EO-103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291780249</id>
+    <published>2020-08-27T17:09:01-04:00</published>
+    <updated>2020-08-27T17:09:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-102-sleepy-elfie-ornament"/>
+    <title>EO-102 (boy elf ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-102.jpg?v=1598547843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. 
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291780249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>EO-102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291747481</id>
+    <published>2020-08-27T17:09:01-04:00</published>
+    <updated>2020-08-27T17:09:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-101-boy-elf-ornament"/>
+    <title>EO-101 (elf ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-101.jpg?v=1598547668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. 
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291747481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>EO-101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291649177</id>
+    <published>2020-08-27T17:09:00-04:00</published>
+    <updated>2020-08-27T17:09:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-100-elfie-ornament"/>
+    <title>EO-100 (elfie ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-100.jpg?v=1598547536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. 
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291649177</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>EO-100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291288729</id>
+    <published>2020-08-27T17:09:00-04:00</published>
+    <updated>2020-08-27T17:09:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-92-woodland-deer-ornament"/>
+    <title>EO-92 (festive-deer-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-92.jpg?v=1598557639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291288729</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-92</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291255961</id>
+    <published>2020-08-27T17:09:00-04:00</published>
+    <updated>2020-08-27T17:09:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-91-festive-deer-ornament"/>
+    <title>EO-91 (woodland deer ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-91.jpg?v=1598557599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>size: </strong>2.5” L x 3.25" Ht.<br><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291255961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-91</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291190425</id>
+    <published>2020-08-27T17:09:00-04:00</published>
+    <updated>2020-08-27T17:09:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-90-llama-glama-ornament"/>
+    <title>EO-90 (llama glama ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-90.jpg?v=1598557386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291190425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-90</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291092121</id>
+    <published>2020-08-27T17:08:59-04:00</published>
+    <updated>2020-08-27T17:08:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-89-llama-drama-ornament"/>
+    <title>EO-89 (llama-drama-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-89.jpg?v=1598557342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291092121</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-89</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569290993817</id>
+    <published>2020-08-27T17:08:59-04:00</published>
+    <updated>2020-08-27T17:08:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-88-llama-bruno-ornament"/>
+    <title>EO-88 (llama-bruno-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-88.jpg?v=1598557298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569290993817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-88</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569290928281</id>
+    <published>2020-08-27T17:08:59-04:00</published>
+    <updated>2020-08-27T17:08:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-86-penguin-artic-ornament"/>
+    <title>EO-86 (PRE-ORDER)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-86.jpg?v=1598557240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8">
+<strong>PRE-ORDER FOR AUGUST 2021</strong></span></p>
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569290928281</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>EO-86</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569290862745</id>
+    <published>2020-08-27T17:08:59-04:00</published>
+    <updated>2020-08-27T17:08:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-85-mermaid-ornament"/>
+    <title>EO-85 (mermaid ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-85.jpg?v=1598557204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569290862745</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>EO-83</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569290698905</id>
+    <published>2020-08-27T17:08:59-04:00</published>
+    <updated>2020-08-27T17:08:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-83-jungle-owl-ornament"/>
+    <title>EO-83 (jungle-owl-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-83.jpg?v=1598557151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569290698905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-83</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569290633369</id>
+    <published>2020-08-27T17:08:58-04:00</published>
+    <updated>2020-08-27T17:08:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-82-barn-owl-ornament"/>
+    <title>EO-82 (barn-owl-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-82.jpg?v=1598557112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569290633369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-82</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569290567833</id>
+    <published>2020-08-27T17:08:58-04:00</published>
+    <updated>2020-08-27T17:08:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-81-green-owl-ornament"/>
+    <title>EO-81 (green-owl-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-81.jpg?v=1598557056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569290567833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-81</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569290469529</id>
+    <published>2020-08-27T17:08:58-04:00</published>
+    <updated>2020-08-27T17:08:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-80-bear-ball-ornament"/>
+    <title>EO-80 (bear-ball-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-80.jpg?v=1598557012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569290469529</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-80</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569290403993</id>
+    <published>2020-08-27T17:08:58-04:00</published>
+    <updated>2020-08-27T17:08:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-79-brown-bear-ornament"/>
+    <title>EO-79 (brown-bear-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-79.jpg?v=1598556923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><span style="color: #16a322;"><strong>PRE-ORDER NOW FOR OCTOBER SHIPMENT!</strong></span><br></span><span><br>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569290403993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-79</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569290305689</id>
+    <published>2020-08-27T17:08:58-04:00</published>
+    <updated>2020-08-27T17:08:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-78-fox-blue-scarf-ornament"/>
+    <title>EO-78 (fox-blue-scarf-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-78.jpg?v=1598556878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569290305689</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-78</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569290207385</id>
+    <published>2020-08-27T17:08:57-04:00</published>
+    <updated>2020-08-27T17:08:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-77-penguin-ball-ornament"/>
+    <title>EO-77 (penguin-ball-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-77.jpg?v=1598556821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>Pet Ornaments</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569290207385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EO-77</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569290109081</id>
+    <published>2020-08-27T17:08:57-04:00</published>
+    <updated>2020-08-27T17:08:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-76-white-car-ornament"/>
+    <title>EO-76 (white-car-ornament)</title>
+    <s:type>Hangings &amp; Ornaments</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-76.jpg?v=1598556769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hangings &amp; Ornaments<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted ornament could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569290109081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>EO-76</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

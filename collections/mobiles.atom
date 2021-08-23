@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/mobiles.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-01-30T13:28:09-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526816428125</id>
+    <published>2020-01-30T13:28:09-05:00</published>
+    <updated>2020-01-30T13:28:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekm-4-panda-mobile"/>
+    <title>EKM-4 (panda mobile)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKM-4_edaa55eb-a2cb-4d4d-8e0a-e0b90661ef72.png?v=1583167666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer: </strong>This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526816428125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>EKM-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526815314013</id>
+    <published>2020-01-30T13:26:43-05:00</published>
+    <updated>2020-01-30T13:26:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekm-3-puppy-mobile"/>
+    <title>EKM-3 (puppy mobile)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKM-3a_bdd9492d-33ea-424d-b5ca-5a82144d31c8.png?v=1583167676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer: </strong>This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526815314013</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>EKM-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526813675613</id>
+    <published>2020-01-30T13:24:28-05:00</published>
+    <updated>2020-01-30T13:24:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekm-2-bunny-mobile"/>
+    <title>EKM-2 (bunny mobile)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKM-2b_66a6ab6a-172b-4150-869a-4e0a49d243aa.png?v=1583167687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer: </strong>This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526813675613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>EKM-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526797193309</id>
+    <published>2020-01-30T12:57:28-05:00</published>
+    <updated>2020-01-30T12:57:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekm-1-polar-bear-mobile"/>
+    <title>EKM-1 (polar bear mobile)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKM-1_87b5fa8f-c5f7-47a2-a6e4-fc5e63f29ae9.png?v=1583167704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material.<br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer: </strong>This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526797193309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>EKM-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3561983410269</id>
+    <published>2019-05-22T12:42:13-04:00</published>
+    <updated>2019-05-22T12:42:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/cm-5-bee-mobile"/>
+    <title>CM-5 (bee mobile)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/mobiles_bee_d10759ee-e330-4c36-aca1-5f12faea542f.png?v=1583168289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer:</strong> This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm’s reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3561983410269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>CM-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3562005004381</id>
+    <published>2019-05-22T12:41:42-04:00</published>
+    <updated>2019-05-22T12:41:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/abm-1-multi-butterfly-mobile"/>
+    <title>ABM-1 (PRE-ORDER)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/mobile_butterfly.png?v=1558543240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>PRE-ORDER FOR AUGUST 2021</strong></p>
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer:</strong> This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm’s reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3562005004381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>ABM-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3562001301597</id>
+    <published>2019-05-22T12:41:41-04:00</published>
+    <updated>2019-05-22T12:41:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/abm-2-multi-color-bird-mobile"/>
+    <title>ABM-2 (colorful bird mobile)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/mobile_birds_1d18bf7e-b439-4bd4-8eb0-e8f0ab3c6c64.png?v=1583168282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer:</strong> This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm’s reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3562001301597</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>ABM-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549174987</id>
+    <published>2018-06-01T11:56:59-04:00</published>
+    <updated>2018-06-01T11:56:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/whale-mobile"/>
+    <title>CM-2 (PRE-ORDER)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/dolphin_mobile_1_7f85487d-2650-4f79-98f2-020356149962.jpg?v=1583171003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong>PRE-ORDER FOR AUGUST 2021</strong></p>
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer:</strong> This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm’s reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549174987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>CM-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549177099</id>
+    <published>2017-07-20T13:36:02-04:00</published>
+    <updated>2017-07-20T13:36:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/flying-elephant-mobile"/>
+    <title>CM-3 (elephant mobile)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/elephant_mobile_1_322d2d21-28aa-42e2-afbd-26f11b40f25b.jpg?v=1583171028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer:</strong> This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm’s reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549177099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>CM-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549176267</id>
+    <published>2017-07-20T13:35:51-04:00</published>
+    <updated>2017-07-20T13:35:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/wild-animal-cloud-mobile"/>
+    <title>CM-1 (wild animal mobile)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/assorted_mobile_1_516ebd55-041d-4e91-8fd3-9bf90c5134e9.jpg?v=1583171023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer:</strong> This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm’s reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549176267</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>CM-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549174283</id>
+    <published>2017-07-20T13:35:38-04:00</published>
+    <updated>2017-07-20T13:35:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/sea-horse-mobile"/>
+    <title>CM-4 (PRE-ORDER)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/seahorse_mobile_1_f2c6d98a-6ea5-4322-99d4-4fa57dbf5ed4.jpg?v=1583170996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong>PRE-ORDER FOR AUGUST 2021</strong></p>
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer:</strong> This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm’s reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549174283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>CM-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549173579</id>
+    <published>2017-07-20T13:35:35-04:00</published>
+    <updated>2017-07-20T13:35:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/penguins-mobile-charm"/>
+    <title>FPM (penguin mobile)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/penguin_2_8ea0c5bf-5b55-4688-b973-db30ab685472.jpg?v=1583170986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer:</strong> This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm’s reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549173579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>FPM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549173259</id>
+    <published>2017-07-20T13:35:33-04:00</published>
+    <updated>2017-07-20T13:35:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/cloud-birds-mobile-charm"/>
+    <title>FCG (bird mobile)</title>
+    <s:type>Mobiles</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/bird_mobile_2_f4c3f4c6-23e9-4619-8503-1a0121e6b824.jpg?v=1583170985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Mobiles<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add a pop of colour and fun with this decorative and functional mobile. It is a perfect piece to hang above baby's change station, crib or anywhere in the nursery or kids room as decor. It will make a thoughtful and unique gift as it will b</span>ring the outdoors inside to their space with our nature-inspired mobiles.</p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><strong>disclaimer:</strong> This mobile is for decorative purposes only and is not intended to be a toy. </span>Mobiles should be placed well out of arm’s reach of your baby. Once your baby is able to sit up, mobiles should be removed.<br><br></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549173259</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>FCG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

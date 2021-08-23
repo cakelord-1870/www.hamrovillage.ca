@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/shoes.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-01-17T21:01:56-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6096531619993</id>
+    <published>2021-01-17T21:01:56-05:00</published>
+    <updated>2021-01-17T21:01:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-23-carolina-blue-shoes"/>
+    <title>ES-23 (vana wool slippers)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ES-23.jpg?v=1610935343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care:̴ </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p><br><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096531619993</id>
+      <title>WS 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096531619993</id>
+      <title>WS 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096531619993</id>
+      <title>WM 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096531619993</id>
+      <title>WL 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6096497115289</id>
+    <published>2021-01-17T20:26:13-05:00</published>
+    <updated>2021-01-17T20:26:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-22-rustic-shoes"/>
+    <title>ES-22 (ember wool shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ES-22.jpg?v=1610933197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care:̴ </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p><br><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096497115289</id>
+      <title>MS 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096497115289</id>
+      <title>MS 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096497115289</id>
+      <title>MM 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096497115289</id>
+      <title>ML 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096497115289</id>
+      <title>MXL 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6096487448729</id>
+    <published>2021-01-17T20:12:25-05:00</published>
+    <updated>2021-01-17T20:12:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/copy-of-es-20-earthy-shoes"/>
+    <title>ES-21 (mulberry wool slippers)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ES-21.jpg?v=1610932606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care:̴ </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p><br><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096487448729</id>
+      <title>WS 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096487448729</id>
+      <title>WS 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096487448729</id>
+      <title>WM 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096487448729</id>
+      <title>WL 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6096456319129</id>
+    <published>2021-01-17T19:47:56-05:00</published>
+    <updated>2021-01-17T19:47:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/copy-of-es-18-blue-plain-shoes"/>
+    <title>ES-20 (clay wool slippers)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ES-20.jpg?v=1610931204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care:̴ </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p><br><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096456319129</id>
+      <title>WS 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096456319129</id>
+      <title>WS 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096456319129</id>
+      <title>WM 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6096456319129</id>
+      <title>WL 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529491705949</id>
+    <published>2020-02-01T22:39:32-05:00</published>
+    <updated>2020-02-01T22:39:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-19-rainbow-shoes"/>
+    <title>ES-19 (rainbow shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ES-19_a6b1f223-9bf1-4e5a-80e1-42b402e92d57.png?v=1583167520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care:̴ </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p><br><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529491705949</id>
+      <title>Unisex 8</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529491705949</id>
+      <title>Unisex 9</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529491705949</id>
+      <title>Unisex 10</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529491705949</id>
+      <title>Unisex 12</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529322426461</id>
+    <published>2020-02-01T16:48:42-05:00</published>
+    <updated>2020-02-01T16:48:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-18-blue-plain-shoes"/>
+    <title>ES-18 (azure wool slippers)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ES-18.jpg?v=1610923527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care:̴ </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p><br><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529322426461</id>
+      <title>MS 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529322426461</id>
+      <title>MS 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529322426461</id>
+      <title>MM 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529322426461</id>
+      <title>ML 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529322426461</id>
+      <title>MXL 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529320460381</id>
+    <published>2020-02-01T16:43:59-05:00</published>
+    <updated>2020-02-01T16:43:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-17-grey-plain-shoes"/>
+    <title>ES-17 (birk wool slippers)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ES_17.jpg?v=1610922673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><meta charset="utf-8"><span data-mce-fragment="1">All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span><br></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care:̴ </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529320460381</id>
+      <title>MS 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529320460381</id>
+      <title>MM 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529320460381</id>
+      <title>ML 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529320460381</id>
+      <title>MXL 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529314857053</id>
+    <published>2020-02-01T16:34:12-05:00</published>
+    <updated>2020-02-01T16:34:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-16-green-plain-shoes"/>
+    <title>ES-16 (reed wool slippers)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ES_16.jpg?v=1610922763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care:̴ </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529314857053</id>
+      <title>MS 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529314857053</id>
+      <title>MM 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529314857053</id>
+      <title>ML 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529314857053</id>
+      <title>MXL 12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005178155101</id>
+    <published>2019-02-24T14:01:18-05:00</published>
+    <updated>2019-02-24T14:01:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-6-green-flower-shoes"/>
+    <title>ES-6 (green flower shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/sunflower_green_slippers_ee651f27-7ff2-48bb-b683-2cff82cc325c.jpg?v=1583168391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<p> </p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178155101</id>
+      <title>WS 6</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178155101</id>
+      <title>WS 7</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178155101</id>
+      <title>WM 8</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178155101</id>
+      <title>WL 9</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178155101</id>
+      <title>WXL 10</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005178122333</id>
+    <published>2019-02-24T14:01:16-05:00</published>
+    <updated>2019-02-24T14:01:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-7-turq-flower-shoes"/>
+    <title>ES-7 (turq flower shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/sunflower_turq_slippers_a1ded41b-5b1e-424b-a717-46fd2cad3739.jpg?v=1583168395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p><br><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178122333</id>
+      <title>WS 6</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178122333</id>
+      <title>WS 7</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178122333</id>
+      <title>WM 8</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178122333</id>
+      <title>WL 9</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178122333</id>
+      <title>WXL 10</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005178089565</id>
+    <published>2019-02-24T14:01:13-05:00</published>
+    <updated>2019-02-24T14:01:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-8-fuchsia-flower-shoes"/>
+    <title>ES-8 (fuchsia flower shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/sunflower_red_slippers_170196d9-cdd6-4e96-8521-10a380a910a3.jpg?v=1583168398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p> </p>
+<p>  </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178089565</id>
+      <title>WS 6</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178089565</id>
+      <title>WS 7</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178089565</id>
+      <title>WM 8</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178089565</id>
+      <title>WL 9</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178089565</id>
+      <title>WXL 10</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>ES-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005178024029</id>
+    <published>2019-02-24T14:01:11-05:00</published>
+    <updated>2019-02-24T14:01:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-13-green-flower-shoes"/>
+    <title>ES-13 (green flower shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/flower_shoes_green_5ef7780d-3e46-4bb2-99df-4ea3c0a98d54.jpg?v=1583168402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p><br><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178024029</id>
+      <title>WS 6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178024029</id>
+      <title>WS 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178024029</id>
+      <title>WM 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178024029</id>
+      <title>WL 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005178024029</id>
+      <title>WXL 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005177991261</id>
+    <published>2019-02-24T14:01:09-05:00</published>
+    <updated>2019-02-24T14:01:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-14-fuchsia-flower-shoes"/>
+    <title>ES-14 (fuchsia flower shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/flower_shoes_fuchsia_5ed8cca0-0af8-4c0b-8a2b-75b760a4b015.jpg?v=1583168405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p><br><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177991261</id>
+      <title>WS 6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177991261</id>
+      <title>WS 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177991261</id>
+      <title>WM 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177991261</id>
+      <title>WL 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177991261</id>
+      <title>WXL 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005177958493</id>
+    <published>2019-02-24T14:01:08-05:00</published>
+    <updated>2019-02-24T14:01:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-15-purple-flower-shoes"/>
+    <title>ES-15 (purple flower shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/flower_shoes_purple_a941f263-3c22-48ec-8e74-564270ac557f.jpg?v=1583168409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p><br><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177958493</id>
+      <title>WS 6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177958493</id>
+      <title>WS 7</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177958493</id>
+      <title>WM 8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177958493</id>
+      <title>WM 9</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177958493</id>
+      <title>WXL 10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ES-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005177925725</id>
+    <published>2019-02-24T14:01:06-05:00</published>
+    <updated>2019-02-24T14:01:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-9-elven-red-shoes"/>
+    <title>ES-9 (elven blue shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/elven_shoes_blue_82fb1605-114a-4931-953b-ea758199e4f2.jpg?v=1583168412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<meta charset="utf-8">
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elven Shoes</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177925725</id>
+      <title>Unisex 7</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177925725</id>
+      <title>Unisex 8</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177925725</id>
+      <title>Unisex 9</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177925725</id>
+      <title>Unisex 10</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177925725</id>
+      <title>Unisex 12</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005177892957</id>
+    <published>2019-02-24T14:01:03-05:00</published>
+    <updated>2019-02-24T14:01:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-10-elven-red-shoes"/>
+    <title>ES-10 (elven rustic shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ES-10.jpg?v=1604327683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elven Shoes</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177892957</id>
+      <title>Unisex7</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177892957</id>
+      <title>Unisex 8</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177892957</id>
+      <title>Unisex 9</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177892957</id>
+      <title>Unisex 10</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177892957</id>
+      <title>Unisex 12</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005177860189</id>
+    <published>2019-02-24T14:01:02-05:00</published>
+    <updated>2019-02-24T14:01:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-11-elven-green-shoes"/>
+    <title>ES-11 (elven green shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/elven_shoes_green_0fb48d6c-9fcb-4647-979b-b65bca185868.jpg?v=1583168419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elven Shoes</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177860189</id>
+      <title>Unisex 6</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177860189</id>
+      <title>Unisex 7</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177860189</id>
+      <title>Unisex 8</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177860189</id>
+      <title>Unisex 9</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177860189</id>
+      <title>Unisex 10</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005177827421</id>
+    <published>2019-02-24T14:01:00-05:00</published>
+    <updated>2019-02-24T14:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/es-6-sunflower-shoes-green"/>
+    <title>ES-12 (elven purple shoes)</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/elven_shoes_purple_9427c81d-2621-4d74-a985-b0a8f6dcf7ce.jpg?v=1583168423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>All our felted seamless shoes are made using all natural products – wool, water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They are very light and comfortable for indoor use. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition:</strong><span> 100% Wool / Leather sole</span><br><strong>care: </strong>Hand wash in tepid water with mild detergents. Lay flat to dry.</p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elven Shoes</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177827421</id>
+      <title>WS 6</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177827421</id>
+      <title>WS 7</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177827421</id>
+      <title>WM 8</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177827421</id>
+      <title>WL 9</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005177827421</id>
+      <title>WXL 10</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ES-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

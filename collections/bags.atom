@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/bags.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-03-02T12:10:39-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4567017324637</id>
+    <published>2020-03-02T12:10:39-05:00</published>
+    <updated>2020-03-02T12:10:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vhb-6-red-aurora-xbag"/>
+    <title>VHB-6 (red aurora xbag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/aurora_red.jpg?v=1583169042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>These hand felted cross-body bags are inspirations from True North, wild and free. </span><span>From our mighty Moose to Beaver; Northern Lights to wind swept Pines. </span><span>Our northern collection are carefully crafted to create lasting impressions.</span></p>
+<ul>
+<li>Handmade from natural sheep wool using wet felting technique</li>
+<li>Seamless bag one compartment with pocket inside</li>
+<li>Adjustable long canvas strap to wear it on the shoulder/cross body.</li>
+<li>Flap with zipper closer inside</li>
+<li>Interior cotton lined</li>
+</ul>
+<p><strong>size:</strong><span> </span>10" L x 9.5" Ht. Strap length is up to 53"</p>
+<p><span><strong>composition:</strong> 100% Wool. Metal Findings. Canvas strap.<br><strong>care:</strong> Hand wash in tepid water with mild detergents. Hang dry.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4567017324637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku>VHB-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005135294557</id>
+    <published>2019-02-24T13:03:20-05:00</published>
+    <updated>2019-02-24T13:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vhb-9-riveria-tote"/>
+    <title>VHB-9 (riveria tote)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/riveria_bag.jpg?v=1583168296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>The Riveria tote was inspired by the deep forest water fall and rivers. Structurally simple yet delightfully felted. This bag just makes everyone happy! It has all the convenience and simplicity of a tote, that adds so much more.</p>
+<ul>
+<li>Closes with a zipper</li>
+<li>Made out of one piece, meaning no seam</li>
+<li>Interior cotton linning</li>
+<li>Features an interior patch pocket</li>
+<li>Tanned leather straps</li>
+</ul>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material. </span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not twist. Do not machine wash. Do not iron. Do not bleach. <br></span><strong>Size: </strong>﻿17” ht. x 15” width x 4” depth<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+<p><strong><span><br></span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005135294557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>VHB-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005135261789</id>
+    <published>2019-02-24T13:03:19-05:00</published>
+    <updated>2019-02-24T13:03:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vhb-8-forest-tote"/>
+    <title>VHB-8 (forest tote)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/black_forest_bag_9802d3cb-a917-4a9b-9e90-e0fe423f146a.jpg?v=1583168297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">The Forest tote was inspired by the northern winter forest. Structurally simple yet delightfully felted. This bag just makes everyone happy! It has all the convenience and simplicity of a tote, that adds so much more.
+<ul>
+<li>Closes with a zipper</li>
+<li>Made out of one piece, meaning no seam</li>
+<li>Interior cotton linning</li>
+<li>Features an interior patch pocket</li>
+<li>Tanned leather straps</li>
+</ul>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material. </span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not twist. Do not machine wash. Do not iron. Do not bleach. <br></span><strong>Size: </strong>﻿12” ht. x 18” width x 5” depth<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005135261789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>VHB-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549186123</id>
+    <published>2017-07-20T13:37:22-04:00</published>
+    <updated>2017-07-20T13:37:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/black-buddha-canvas-bag"/>
+    <title>ABB1 (yoga bag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/bbg_1_6635dbcb-536f-4148-a346-4608c54a35de.jpg?v=1583171094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Pack up for your next getaway with our Black Buddha Weekender crossbody bag. Designed in durable canvas, it features an extra roomy interior, wide strap handles for carrying crossbody over the shoulder, a wooden button closure to keep all of your valuable secure, and an interior pocket for easy access to keys, mobile devices, and important items alike.</span><br>
+<ul class="sp_top_sm dash-list">
+<li class="dash-list--item">Top crossbody handles.</li>
+<li class="dash-list--item">Large interior.</li>
+<li class="dash-list--item">Flat base.</li>
+<li class="dash-list--item">Interior pocket.</li>
+<li class="dash-list--item">Screen printed graphics</li>
+</ul>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549186123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ABB1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549184459</id>
+    <published>2017-07-20T13:37:10-04:00</published>
+    <updated>2017-07-20T13:37:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/brown-big-tote-bag"/>
+    <title>WB13 (tote bag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/tote_bag_1_22133291-c3da-477e-a935-0ccff5d1d0cb.jpg?v=1583171082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hamro specializes in back strap weaving and all products are Azo free and individually dyed by color. Our bags are made of 100% Cotton using thick and thinner thread and are also available in natural colors as well as made of recycled cotton minimizing the environmental impacts.<br><br>Through the sourcing and use of local raw materials, our bags are made exclusively by hand with lot of dedication by our artisans.</p>
+<ul>
+<li>Interior has one large pocket</li>
+<li>Zipper closure</li>
+<li>Exterior pockets<span>HandåÊ</span>
+</li>
+</ul>
+<p><span><strong>composition:</strong> 100% Handwoven Cotton</span><br><span><strong>care: </strong><span>Hand wash with neutral detergent and dry in the shade</span><br></span><br><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549184459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>WB13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1395127648349</id>
+    <published>2017-07-20T13:37:07-04:00</published>
+    <updated>2017-07-20T13:37:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vhb-7-safari-xbag"/>
+    <title>VHB-7 (safari xbag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/safari_xbag_2.jpg?v=1583169038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Perfect X-body bag for daily use!</span></p>
+<p><span>This Safari inspired cross-body bag is designed to store the essentials. Our cross-body bags are very popular, they are comfortable and </span><span>serves as the multi-function accessory, perfectly suitable for all occasions.</span></p>
+<ul>
+<li>Handmade from natural sheep wool using wet felting technique</li>
+<li>Seamless bag one compartment with pocket inside</li>
+<li>Adjustable long canvas strap to wear it on the shoulder/cross body.</li>
+<li>Flap with zipper closer inside</li>
+<li>Interior cotton lined</li>
+</ul>
+<p><strong>size:</strong><span> </span>10" L x 9.5" Ht. Strap length is up to 53"</p>
+<p><span><strong>composition:</strong> 100% Wool. Metal Findings. Canvas strap.<br><strong>care:</strong> Hand wash in tepid water with mild detergents. Hang dry.</span></p>
+<p><span> </span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1395127648349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>VHB-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1395123454045</id>
+    <published>2017-07-20T13:37:07-04:00</published>
+    <updated>2017-07-20T13:37:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vhb-5-blue-aurora-xbag"/>
+    <title>VHB-5 (blue aurora xbag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/aurora_blue_7d0256c8-7a65-4ae3-b2ae-7ab960141d46.jpg?v=1583169048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>These hand felted cross-body bags are inspirations from True North, wild and free. </span><span>From our mighty Moose to Beaver; Northern Lights to wind swept Pines. </span><span>Our northern collection are carefully crafted to create lasting impressions.</span></p>
+<ul>
+<li>Handmade from natural sheep wool using wet felting technique</li>
+<li>Seamless bag one compartment with pocket inside</li>
+<li>Adjustable long canvas strap to wear it on the shoulder/cross body.</li>
+<li>Flap with zipper closer inside</li>
+<li>Interior cotton lined</li>
+</ul>
+<p><strong>size:</strong><span> </span>10" L x 9.5" Ht. Strap length is up to 53"</p>
+<p><span><strong>composition:</strong> 100% Wool. Metal Findings. Canvas strap.<br><strong>care:</strong> Hand wash in tepid water with mild detergents. Hang dry.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1395123454045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku>VHB-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1393978409053</id>
+    <published>2017-07-20T13:37:07-04:00</published>
+    <updated>2017-07-20T13:37:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vhb-4-pine-xbag"/>
+    <title>VHB-4 (Pine xbag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/pine_271ee032-04f8-4970-95f0-1f8b619ba7ec.jpg?v=1583169053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>These hand felted cross-body bags are inspirations from True North, wild and free. </span><span>From our mighty Moose to Beaver; Northern Lights to wind swept Pines. </span><span>Our northern collection are carefully crafted to create lasting impressions.</span></p>
+<ul>
+<li>Handmade from natural sheep wool using wet felting technique</li>
+<li>Seamless bag one compartment with pocket inside</li>
+<li>Adjustable long canvas strap to wear it on the shoulder/cross body.</li>
+<li>Flap with zipper closer inside</li>
+<li>Interior cotton lined</li>
+</ul>
+<p><strong>size:</strong><span> </span>10" L x 9.5" Ht. Strap length is up to 53"</p>
+<p><span><strong>composition:</strong> 100% Wool. Metal Findings. Canvas strap.<br><strong>care:</strong> Hand wash in tepid water with mild detergents. Hang dry.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1393978409053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>VHB-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1393977688157</id>
+    <published>2017-07-20T13:37:07-04:00</published>
+    <updated>2017-07-20T13:37:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vhb-3-inukshuk-xbag"/>
+    <title>VHB-3 (buck deer xbag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/moose_9e484715-e4a8-4bf1-9617-c21c14463174.jpg?v=1583169062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>These hand felted cross-body bags are inspirations from True North, wild and free. </span><span>From our mighty Moose to Beaver; Northern Lights to wind swept Pines. </span><span>Our northern collection are carefully crafted to create lasting impressions.</span></p>
+<ul>
+<li>Handmade from natural sheep wool using wet felting technique</li>
+<li>Seamless bag one compartment with pocket inside</li>
+<li>Adjustable long canvas strap to wear it on the shoulder/cross body.</li>
+<li>Flap with zipper closer inside</li>
+<li>Interior cotton lined</li>
+</ul>
+<p><strong>size:</strong><span> </span>10" L x 9.5" Ht. Strap length is up to 53"</p>
+<p><span><strong>composition:</strong> 100% Wool. Metal Findings. Canvas strap.<br><strong>care:</strong> Hand wash in tepid water with mild detergents. Hang dry.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1393977688157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>VHB-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1393976705117</id>
+    <published>2017-07-20T13:37:07-04:00</published>
+    <updated>2017-07-20T13:37:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/vhb-2-maple-leaf-xbag"/>
+    <title>VHB-2 (maple leaf xbag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/maple_xbag_3_4974823d-eb99-4219-85dc-003f12130874.jpg?v=1583169070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>These hand felted cross-body bags are inspirations from True North, wild and free. </span><span>From our mighty Moose to Beaver; Northern Lights to wind swept Pines. </span><span>Our northern collection are carefully crafted to create lasting impressions.</span></p>
+<ul>
+<li>Handmade from natural sheep wool using wet felting technique</li>
+<li>Seamless bag one compartment with pocket inside</li>
+<li>Adjustable long canvas strap to wear it on the shoulder/cross body.</li>
+<li>Flap with zipper closer inside</li>
+<li>Interior cotton lined</li>
+</ul>
+<p><strong>size:</strong><span> </span>10" L x 9.5" Ht. Strap length is up to 53"</p>
+<p><span><strong>composition:</strong> 100% Wool. Metal Findings. Canvas strap.<br><strong>care:</strong> Hand wash in tepid water with mild detergents. Hang dry.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1393976705117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>VHB-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1393956618333</id>
+    <published>2017-07-20T13:37:07-04:00</published>
+    <updated>2017-07-20T13:37:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/copy-of-vhb-1-inukshuk-xbag"/>
+    <title>VHB-1 (inukshuk xbag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/inskuk_54a172cd-bb38-4d7e-a370-90e6bb3750c8.jpg?v=1583169076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>These hand felted cross-body bags are inspirations from True North, wild and free. </span><span>From our mighty Moose to Beaver; Northern Lights to wind swept Pines. </span><span>Our northern collection are carefully crafted to create lasting impressions.</span></p>
+<ul>
+<li>Handmade from natural sheep wool using wet felting technique</li>
+<li>Seamless bag one compartment with pocket inside</li>
+<li>Adjustable long canvas strap to wear it on the shoulder/cross body.</li>
+<li>Flap with zipper closer inside</li>
+<li>Interior cotton lined</li>
+</ul>
+<p><strong>size:</strong><span> </span>10" L x 9.5" Ht. Strap length is up to 53"</p>
+<p><span><strong>composition:</strong> 100% Wool. Metal Findings. Canvas strap.<br><strong>care:</strong> Hand wash in tepid water with mild detergents. Hang dry.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1393956618333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>VHB-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1318769557597</id>
+    <published>2017-07-20T13:37:07-04:00</published>
+    <updated>2017-07-20T13:37:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/bgs001-sheep-face-bag"/>
+    <title>BGS001 (sheep face bag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/sheep_face_1_746dec00-a682-44a2-96b2-368081f83e7c.jpg?v=1583169278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This cross body bag is made from 100% wool and is one of the best Eco-friendly made out of using only soap and warm water.</p>
+<ul>
+<li>Comfortable long handles</li>
+<li>Closes with a snap button</li>
+<li>Made out of one piece, Knitted</li>
+<li><span>Azo free dyes</span></li>
+</ul>
+<p><span><strong>size: </strong></span>8”w x 9.5”ht.<br><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1318769557597</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>BGS001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549183883</id>
+    <published>2017-07-20T13:37:07-04:00</published>
+    <updated>2017-07-20T13:37:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/applique-birds-bag"/>
+    <title>BGS1 (appliqu̩ birds bag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/red_applique_handbag_1_87ed944b-7155-4d17-bce7-f7d0ab69dbbd.jpg?v=1583171078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Red Felted Two Applique handbag is so adorable with round bottom and the bamboo handles are so comfortable to hold on your hand. This short handle handbag is made from 100% wool and is one of the best Eco-friendly made out of using only soap and warm water.</p>
+<ul>
+<li>Comfortable cane handles</li>
+<li>Closes with a snap button</li>
+<li>Made out of one piece, meaning no seam</li>
+<li>Interior cotton unlined</li>
+<li><span>Azo free dyes</span></li>
+</ul>
+<p><span><strong>size:</strong> 14" l x 12" w<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br></span></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549183883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>BGS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549183563</id>
+    <published>2017-07-20T13:37:02-04:00</published>
+    <updated>2017-07-20T13:37:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/knot-bag-with-flower"/>
+    <title>WB12 (knot bag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/wb12.jpg?v=1613058371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hamro specializes in back strap weaving and all products are Azo free and individually dyed by color. Our bags are made of 100% Cotton using thick and thinner thread and are also available in natural colors as well as made of recycled cotton minimizing the environmental impacts.<br><br>Through the sourcing and use of local raw materials, our bags are made exclusively by hand with lot of dedication by our artisans.</p>
+<ul>
+<li>Interior has one pocket</li>
+<li><span style="line-height: 1.5;">Zipper Closer</span></li>
+</ul>
+<span style="line-height: 1.5;"><strong>composition:</strong> 100% Handwoven Cotton</span><br style="line-height: 1.5;"><span style="line-height: 1.5;"><strong>care: </strong><span>Hand wash with neutral detergent and dry in the shade</span><br></span><br><br> <span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549183563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>WB12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549182603</id>
+    <published>2017-07-20T13:36:54-04:00</published>
+    <updated>2017-07-20T13:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/three-roses-felted-bag"/>
+    <title>BGS749 (roses bag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/roses_bag_1_018e0f80-af26-490c-b967-40755eec31f3.jpg?v=1583171067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The three roses handbag is so adorable with round bottom and the strap is so comfortable to hold on your hand. This short handle handbag is made from 100% wool and is one of the best eco-friendly made out of using only soap and warm water. </span></p>
+<ul>
+<li>Two comfortable handle</li>
+<li>Closes with a snap button</li>
+<li>Made out of one piece, meaning no seam</li>
+<li>Interior cotton unlined</li>
+<li>Azo free dyes</li>
+</ul>
+<meta charset="utf-8">
+<p><strong>composition:</strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span><br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549182603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>BGS749</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549143115</id>
+    <published>2017-07-20T13:31:07-04:00</published>
+    <updated>2017-07-20T13:31:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/2-pocket-waist-bag"/>
+    <title>2 Pocket Waist Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/fanny_bag_1_27bff952-c4b4-4e86-a3bb-3f79a7e4f594.jpg?v=1583170751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Hamro cotton textiles products are made of 100% pure cotton, using thick and thinner treads and azo free dyes.These colors are very soft and warm. Through the sourcing and use of local raw materials and our products are made in a sustainable fashion. </span></p>
+<ul>
+<li>Zipper closures</li>
+<li>Adjustable strap</li>
+<li>Azo free dyes</li>
+</ul>
+<p><span style="line-height: 1.5;"><strong>size:</strong> <span>6" X 11.5"</span><br><strong>composition:</strong> 100% Cotton<br><strong>care:</strong> <span>Hand wash with neutral detergent and dry in the shade</span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag</s:tag>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549143115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>2PWB1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549142795</id>
+    <published>2017-07-20T13:31:03-04:00</published>
+    <updated>2017-07-20T13:31:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pleated-bright-handbag"/>
+    <title>WCB05 (pleated handbag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/muzza_bag_orange_7fb418db-cbc2-43c3-add3-ab3f8cef8e9b.jpg?v=1583170748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Hamro specializes in back strap weaving and all products are Azo free and individually dyed by color. Our bags are made of 100% Cotton using thick and thinner thread and are also available in natural colors as well as made of recycled cotton minimizing the environmental impacts.</span><br><br><span>Through the sourcing and use of local raw materials, our bags are made exclusively by hand with lot of dedication by our artisans. </span></p>
+<ul>
+<li>Interior has one zip purse and one open cell phone pocket</li>
+<li>Closure is made of natural wooden button</li>
+<li>Interior in unlined</li>
+<li>Azo free dyes</li>
+</ul>
+<p><span style="line-height: 1.5;"><strong>size:</strong> <span>10.25"X18"X4.25"</span><br><strong>composition:</strong> 100% Cotton<br><strong>care:</strong> <span>Hand wash with neutral detergent and dry in the shade</span><br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549142795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>WCB05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549141963</id>
+    <published>2017-07-20T13:30:56-04:00</published>
+    <updated>2017-07-20T13:30:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/felt-turtle-crossbody-bag"/>
+    <title>CCB-2 (turtle x-bag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/turtle_crossbag_green_1_f0f65ece-29b1-466e-9a82-0fbe820b776b.jpg?v=1583170739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This crossbody bag with Turtle design is so adorable. It is one of the best eco friendly bag made out of 100% wool, using only soap and warm water. The bag closes with a zipper fastener, to keep any accessories snug and secure. </span></p>
+<ul>
+<li>Zipper Closer</li>
+<li>Interior cotton unlined</li>
+<li><span>Azo free dyes</span></li>
+</ul>
+<p><span><strong>size:</strong> 9" cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549141963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>CCB-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549141259</id>
+    <published>2017-07-20T13:30:52-04:00</published>
+    <updated>2017-07-20T13:30:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ladybug-crossbody-bag-1"/>
+    <title>CCB-1 (ladybug x-bag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/lady_bug_2_9a664982-184a-4a12-924a-ad73c8f239ee.jpg?v=1583170733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This crossbody bag with Ladybug design is so adorable. It is one of the best eco friendly bag made out of 100% wool, using only soap and warm water. The bag closes with a zipper fastener, to keep any accessories snug and secure.</span></p>
+<ul>
+<li>Zipper Closer</li>
+<li>Interior cotton unlined</li>
+<li><span>Azo free dyes</span></li>
+</ul>
+<p><span><strong>size:</strong> 9" cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549141259</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>CCB-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549140683</id>
+    <published>2017-07-20T13:30:50-04:00</published>
+    <updated>2017-07-20T13:30:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/panda-crossbody-bag"/>
+    <title>CCB-3 (panda x-bag)</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/panda_1_289daaee-3a5a-4a66-93da-0b7d85d2b830.jpg?v=1583170728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This crossbody bag with Panda design is so adorable. It is one of the best eco friendly bag made out of 100% wool, using only soap and warm water. The bag closes with a zipper fastener, to keep any accessories snug and secure.</span></p>
+<ul>
+<li>Zipper Closer</li>
+<li>Interior cotton unlined</li>
+<li><span>Azo free dyes</span></li>
+</ul>
+<p><span><strong>size:</strong> 9" cir<br></span><strong>composition: </strong><span>100% felted wool, a renewable material. <br></span><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549140683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>CCB-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

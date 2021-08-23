@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/cushions-rugs.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-05-08T17:22:44-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4530844565597</id>
+    <published>2021-05-08T17:22:44-04:00</published>
+    <updated>2021-05-08T17:22:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekr-4-panda-bear-round-rug"/>
+    <title>EKR-4 (panda rug)</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKR-4_2ce19271-e734-4f4c-8c37-5a3828826728.png?v=1583167308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. </span><span data-mce-fragment="1">This rug is an absolute delightful to add to your child's room since the felt is so soft to feel and beautiful to look at. It's gentle colour will add calmness, while also keeping it eco-friendly. It is the perfect choice anywhere from playroom, nursery or kids rooms.</span><span data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">100% pure wool, a renewable material</li>
+</ul>
+<p data-mce-fragment="1">SIZE:<span data-mce-fragment="1"> 120 cm</span><br data-mce-fragment="1">CARE:<span data-mce-fragment="1"> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br data-mce-fragment="1"><br data-mce-fragment="1"></span></p>
+<p style="font-size: 14px;" data-mce-fragment="1" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-fragment="1" data-mce-style="color: #8d8787;"><em data-mce-fragment="1">Please be aware that actual colors may differ slightly from<br data-mce-fragment="1">their appearance on your display, as it depends on your<br data-mce-fragment="1">monitor settings.</em></span></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4530844565597</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>EKR-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6755657941145</id>
+    <published>2021-05-08T17:20:56-04:00</published>
+    <updated>2021-05-08T17:20:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/am-3-multi-natural-ball-rug"/>
+    <title>AM-3 (multi natural ball rug)</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AM-3.jpg?v=1620508874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span data-mce-fragment="1">All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials with delightful colour tones. These items will add natural touch and are perfect choice anywhere from playroom to living.</span></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p><span><b>dimension: </b>35.5" x 18"</span></p>
+<p><br></p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6755657941145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6755649159321</id>
+    <published>2021-05-08T17:18:40-04:00</published>
+    <updated>2021-05-08T17:18:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/am-2-multi-color-ball-rug"/>
+    <title>AM-2 (multi color ball rug)</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AM-2.jpg?v=1620508808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span data-mce-fragment="1">All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials with delightful colour tones. These items will add natural touch and are perfect choice anywhere from playroom to living.</span></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p><span><b>dimension: </b>35.5" x 18"</span></p>
+<p><br></p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6755649159321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.00</s:price>
+      <s:sku>AM-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6755637264537</id>
+    <published>2021-05-08T17:15:32-04:00</published>
+    <updated>2021-05-08T17:15:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/am-1-multi-color-ball-mat"/>
+    <title>AM-1 (multi color ball mat)</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AM-1.jpg?v=1620508658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span data-mce-fragment="1">All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials with delightful colour tones. These items will add natural touch and are perfect choice anywhere from playroom to living.</span></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p><span><b>dimension: </b></span>Ø <meta charset="utf-8"><span data-mce-fragment="1">15.75"</span></p>
+<p><br></p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6755637264537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>AM-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6755631235225</id>
+    <published>2021-05-08T17:13:59-04:00</published>
+    <updated>2021-05-08T17:13:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ac-1-stone-design-mat"/>
+    <title>AC-1 (stone design mat)</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AC-1.jpg?v=1620508474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span data-mce-fragment="1">All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials with delightful colour tones. These items will add natural touch and are perfect choice anywhere from playroom to living.</span></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p><span><b>dimension: </b></span>Ø 40 cm</p>
+<p><br></p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6755631235225</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>AC-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6755623862425</id>
+    <published>2021-05-08T17:12:10-04:00</published>
+    <updated>2021-05-08T17:12:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ac-2-stone-design-mat"/>
+    <title>AC-2 (stone design mat)</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AC-2.jpg?v=1620508387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span data-mce-fragment="1">All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials with delightful colour tones. These items will add natural touch and are perfect choice anywhere from playroom to living.</span></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p><span><b>dimension: </b></span>Ø 40 cm</p>
+<p><br></p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6755623862425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>AC-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4530844368989</id>
+    <published>2020-02-03T16:03:46-05:00</published>
+    <updated>2020-02-03T16:03:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekr-3-puppy-bear-round-rug"/>
+    <title>EKR-3 (puppy rug)</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKR-3_8a0870cd-ca97-4b74-b348-e6d2d401bc09.png?v=1583167312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. </span><span>This rug is an absolute delightful to add to your child's room since the felt is so soft to feel and beautiful to look at. It's gentle colour will add calmness, while also keeping it eco-friendly. It is the perfect choice anywhere from playroom, nursery or kids rooms.</span><span></span></p>
+<ul>
+<li>100% pure wool, a renewable material</li>
+</ul>
+<p>SIZE:<span> 120 cm</span><br>CARE:<span> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br><br></span></p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4530844368989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>EKR-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4530843779165</id>
+    <published>2020-02-03T16:02:41-05:00</published>
+    <updated>2020-02-03T16:02:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekr-2-bunny-bear-round-rug"/>
+    <title>EKR-2 (bunny rug)</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKR-2_c60fd395-887d-45ad-b046-9bffaaa87101.png?v=1583167317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. </span><span>This rug is an absolute delightful to add to your child's room since the felt is so soft to feel and beautiful to look at. It's gentle colour will add calmness, while also keeping it eco-friendly. It is the perfect choice anywhere from playroom, nursery or kids rooms.</span><span></span></p>
+<ul>
+<li>100% pure wool, a renewable material</li>
+</ul>
+<p>SIZE:<span> 120 cm</span><br>CARE:<span> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br><br></span></p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4530843779165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>EKR-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4530842370141</id>
+    <published>2020-02-03T16:00:20-05:00</published>
+    <updated>2020-02-03T16:00:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekr-1-polar-bear-round-rug"/>
+    <title>EKR-1 (polar bear rug)</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKR-1_878517bd-57da-4bcc-9be0-e5ca17599197.png?v=1583167321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. </span><span>This rug is an absolute delightful to add to your child's room since the felt is so soft to feel and beautiful to look at. It's gentle colour will add calmness, while also keeping it eco-friendly. It is the perfect choice anywhere from playroom, nursery or kids rooms.</span><span></span></p>
+<ul>
+<li>100% pure wool, a renewable material</li>
+</ul>
+<p>SIZE:<span> 120 cm</span><br>CARE:<span> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br><br></span></p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4530842370141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>EKR-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529294475357</id>
+    <published>2020-02-01T16:10:02-05:00</published>
+    <updated>2020-02-01T16:10:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebm-2-pouf-desert-cushion"/>
+    <title>Pouf Sunrise Cushion</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBM-2_3e0cab45-2f21-4233-82e3-e4bb6ba42502.png?v=1583167851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. This pouf </span><span>cushion</span><span> is an absolute pleasure to add to </span><span>your home</span><span> since </span><span>it</span><span> is hand felted with 100% pure wool. It's earthy colour tones will add calmness and uniqueness, while also keeping it eco-friendly. It is the perfect choice anywhere from living room to any rooms. </span></p>
+<p>SIZE:<span> <b data-mce-fragment="1"> 40</b> cm dia 14 cm ht</span><br>CARE:<span> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br><br></span></p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529294475357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>EBM-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529273307229</id>
+    <published>2020-02-01T15:43:49-05:00</published>
+    <updated>2020-02-01T15:43:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebb-2-pouf-sunset-cushion"/>
+    <title>Pouf Sunset Cushion</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBB-2_dcc49c55-3cc5-468b-a802-2b86eeaafa88.png?v=1583167857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. This pouf </span><span>cushion</span><span> is an absolute pleasure to add to </span><span>your home</span><span> since </span><span>it</span><span> is hand felted with 100% pure wool. It's earthy colour tones will add calmness and uniqueness, while also keeping it eco-friendly. It is the perfect choice anywhere from living room to any rooms. </span></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">SIZE:</span><span data-mce-fragment="1"> <b data-mce-fragment="1"> 40</b> cm dia 14 cm ht</span><br>CARE:<span> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br><br></span></p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529273307229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>EBB-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529268031581</id>
+    <published>2020-02-01T15:29:47-05:00</published>
+    <updated>2020-02-01T15:29:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebg-2-pouf-dusk-cushion"/>
+    <title>Moonlight Pouf Cushion</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBG-2A_2e3c42bb-e2f8-40a5-aa5f-45acef7cf93a.png?v=1583167861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. This pouf </span><span>cushion</span><span> is an absolute pleasure to add to </span><span>your home</span><span> since </span><span>it</span><span> is hand felted with 100% pure wool. It's earthy colour tones will add calmness and uniqueness, while also keeping it eco-friendly. It is the perfect choice anywhere from living room to any rooms. </span></p>
+<p>SIZE:<span> <meta charset="utf-8">Ø<b data-mce-fragment="1"> </b>36 cm</span><br>CARE:<span> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br><br></span></p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529268031581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>EBG-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529247191133</id>
+    <published>2020-02-01T14:37:10-05:00</published>
+    <updated>2020-02-01T14:37:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebm-5-desert-abstract-cushion"/>
+    <title>Sunrise Cushion Cover</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBM-5_e5a78462-dc40-4e3c-8540-6180cf1497df.png?v=1583167865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong>Cover Only!</strong><span></span><br><br><span>All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. This cushion cover is an absolute pleasure to add to your home since the it is hand felted with 100% pure wool. It's earthy colour tones will add calmness and uniqueness, while also keeping it eco-friendly. It is the perfect choice anywhere from living room to any rooms. </span><br></p>
+<p>SIZE:<span> 51cm L x 30cm W</span><br>CARE:<span> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br><br></span></p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529247191133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>EBM-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529245618269</id>
+    <published>2020-02-01T14:32:35-05:00</published>
+    <updated>2020-02-01T14:32:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebb-5-sunset-abstracted-cushion"/>
+    <title>Sunset Cushion Cover</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBB-5_e3361cfc-b405-4745-b3b2-b4a06b893c33.png?v=1583167872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1">Cover Only!</strong><span data-mce-fragment="1"></span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. This cushion cover is an absolute pleasure to add to your home since the it is hand felted with 100% pure wool. It's earthy colour tones will add calmness and uniqueness, while also keeping it eco-friendly. It is the perfect choice anywhere from living room to any rooms. </span><br data-mce-fragment="1"><br data-mce-fragment="1">
+<p data-mce-fragment="1">SIZE:<span data-mce-fragment="1"> 51cm L x 30cm W</span><br data-mce-fragment="1">CARE:<span data-mce-fragment="1"> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br data-mce-fragment="1"><br data-mce-fragment="1"></span></p>
+<p style="font-size: 14px;" data-mce-fragment="1" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-fragment="1" data-mce-style="color: #8d8787;"><em data-mce-fragment="1">Please be aware that actual colors may differ slightly from<br data-mce-fragment="1">their appearance on your display, as it depends on your<br data-mce-fragment="1">monitor settings.</em></span></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529245618269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>EBB-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529240178781</id>
+    <published>2020-02-01T14:18:30-05:00</published>
+    <updated>2020-02-01T14:18:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebg-5-dusk-abstract-cushion"/>
+    <title>Moonlight Cushion Cover</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBG-5_290a0b8a-82ef-4000-a086-2ebece79fafc.png?v=1583167877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong>Cover Only!</strong><span></span><br><br><span>All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. This cushion cover is an absolute pleasure to add to your home since the it is hand felted with 100% pure wool. It's earthy colour tones will add calmness and uniqueness, while also keeping it eco-friendly. It is the perfect choice anywhere from living room to any rooms. </span><br></p>
+<p>SIZE:<span> <meta charset="utf-8">20” L x 12” W</span><br>CARE:<span> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br><br></span></p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529240178781</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>EBG-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529238048861</id>
+    <published>2020-02-01T14:13:33-05:00</published>
+    <updated>2020-02-01T14:13:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebm-4-desert-cushion"/>
+    <title>Sunrise Cushion Cover W/Tassel</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBM-4_05ac69da-abd6-4c3f-a0d3-da0915fa8c74.png?v=1583167882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Cover Only!</strong><span></span><br><br><span>All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. This </span><span>cushion cover</span><span> is an absolute pleasure to add to </span><span>your home</span><span> since the </span><span>it</span><span> is hand felted with 100% pure wool. It's earthy colour tones will add calmness and uniqueness, while also keeping it eco-friendly. It is the perfect choice anywhere from living room to any rooms. </span></p>
+<p>SIZE:<span> 47cm x 47cm </span><br>CARE:<span> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br><br></span></p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529238048861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>EBM-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529236738141</id>
+    <published>2020-02-01T14:10:05-05:00</published>
+    <updated>2020-02-01T14:10:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebb-4-sunset-cushion"/>
+    <title>Sunset Cushion Cover W/Tassel</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBB-4_675592bf-e447-4fc8-8d12-3dda11750d4a.png?v=1583167887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Cover Only!</strong><span></span><br><br><span>All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. This </span><span>cushion cover</span><span> is an absolute pleasure to add to </span><span>your home</span><span> since the </span><span>it</span><span> is hand felted with 100% pure wool. It's earthy colour tones will add calmness and uniqueness, while also keeping it eco-friendly. It is the perfect choice anywhere from living room to any rooms. </span></p>
+<p>SIZE:<span> 47cm x 47cm </span><br>CARE:<span> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br><br></span></p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529236738141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>EBG-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529221140573</id>
+    <published>2020-02-01T13:32:11-05:00</published>
+    <updated>2020-02-01T13:32:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebg-4-dusk-cushion"/>
+    <title>Moonlight Cushion Cover W/Tassel</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBG-4_d65a5b41-7d97-45d7-8fc9-3ede88db0241.png?v=1583167893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Cover Only!</strong><span></span><br><br><span>All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. This </span><span>cushion cover</span><span> is an absolute pleasure to add to </span><span>your home</span><span> since the </span><span>it</span><span> is hand felted with 100% pure wool. It's earthy colour tones will add calmness and uniqueness, while also keeping it eco-friendly. It is the perfect choice anywhere from living room to any rooms. </span></p>
+<p>SIZE:<span> <meta charset="utf-8">18.25 x 18.25 </span><br>CARE:<span> </span><meta charset="utf-8">Spot-clean with damp sponge and soap <span data-mce-fragment="1">or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.<br><br></span></p>
+<p style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-style="color: #8d8787;"><em>Please be aware that actual colors may differ slightly from<br>their appearance on your display, as it depends on your<br>monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529221140573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>EBG-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529215078493</id>
+    <published>2020-02-01T13:14:16-05:00</published>
+    <updated>2020-02-01T13:14:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebm-3-desert-round-rug"/>
+    <title>Sunrise Round Rug</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBM-3A_699781d8-e66e-4001-96e7-87d9a415fd87.png?v=1583167901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span data-mce-fragment="1">All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials with delightful colour tones. These items will add natural touch and are perfect choice anywhere from playroom to living.</span></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p><span><b>dimension: </b></span> 137 cm</p>
+<p> </p>
+<p> </p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529215078493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>EBM-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529214193757</id>
+    <published>2020-02-01T13:11:57-05:00</published>
+    <updated>2020-02-01T13:11:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebb-3-sunset-round-rug"/>
+    <title>Sunset Round Rug</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBB-3A_160627f9-2c7b-40b6-b66a-3f06fa091098.png?v=1583167906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span data-mce-fragment="1">All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials with delightful colour tones. These items will add natural touch and are perfect choice anywhere from playroom to living.</span></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<meta charset="utf-8">
+<p><span><b>dimension: </b></span> 137 cm</p>
+<p><br></p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529214193757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>EBB-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4529198235741</id>
+    <published>2020-02-01T12:33:19-05:00</published>
+    <updated>2020-02-01T12:33:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebg-3-grey-round-rug"/>
+    <title>Moonlight Round Rug</title>
+    <s:type>Cushions &amp; Rugs</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBG-3_cac3d1b7-2c04-4c32-8936-a0ae7074fd7e.png?v=1583167913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cushions &amp; Rugs<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span data-mce-fragment="1">All of Hamro home range are made by skilled artisans, making them more special than cheaper alternatives. Soft and beautiful in natural materials with delightful colour tones. These items will add natural touch and are perfect choice anywhere from playroom to living.</span></p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><strong>care: </strong></span>Spot-clean with damp sponge and soap <span>or with a textile stain remover. Hand-wash using soap and scrubbing gently. Remove excess water without twisting and hang or dry flat. Do not machine wash.</span></p>
+<p><span><b>dimension: </b></span>Ø 137 cm</p>
+<p><br></p>
+<p><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4529198235741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>EBG-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

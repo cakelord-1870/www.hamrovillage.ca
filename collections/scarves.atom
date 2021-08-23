@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/scarves.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-06-29T10:05:54-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6872647532697</id>
+    <published>2021-06-29T10:05:54-04:00</published>
+    <updated>2021-06-29T10:05:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kb31-comes-in-4-colors"/>
+    <title>KB31 (comes in 4 colors)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KB31_f9765a34-c086-4e44-b251-e8d7a7e23a23.jpg?v=1624975893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Cozy, luxurious and beautiful color gradient hand felted scarf. Soft enough to be worn next to the skin, lightweight, and long enough to be wrapped around the neck or arms easily. Accent your next outing </span><span>with this bright rainbow inspired felted scarf.<br></span></p>
+<p><span><strong>Comes in 4 assortments of </strong><strong>color</strong><br></span></p>
+<p><strong>composition:</strong><span> </span>100% merino wool<strong><br>care: </strong>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.<br><span><strong>Size: </strong></span><span>67 inch x 16 inch (170 cm x 40 cm)</span></p>
+<p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6872647532697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>KB31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6872604835993</id>
+    <published>2021-06-29T09:51:46-04:00</published>
+    <updated>2021-06-29T09:51:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kb30-circle-scarf"/>
+    <title>KB30 (comes in 4 colors)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KB30_blue.jpg?v=1624975011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Cozy, luxurious and beautiful color gradient hand felted scarf. Soft enough to be worn next to the skin, lightweight, and long enough to be wrapped around the neck or arms easily. Accent your next outing </span><span>with this bright rainbow inspired felted scarf.<br></span></p>
+<p><span><strong>Comes in 4 assortments of </strong><strong>color</strong><br></span></p>
+<p><strong>composition:</strong><span> </span>100% merino wool<strong><br>care: </strong>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.<br><span><strong>Size: </strong></span><span>67 inch x 16 inch (170 cm x 40 cm)</span></p>
+<p><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6872604835993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>KB30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6872562794649</id>
+    <published>2021-06-29T09:39:27-04:00</published>
+    <updated>2021-06-29T09:39:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-14-leaf-vine-scarf"/>
+    <title>KBS-14 (leaf vine scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-14_f2e6d519-b4ef-4a55-b601-20dd6f555be7.jpg?v=1624974231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Inspired by colorful saris, we use soft merino wool, blended some silk sari into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fiber art. This scarf is handmade using only soap and warm water technique. </span><br><span><strong></strong></span></p>
+<p><span><strong>composition:</strong> 100% merino wool &amp; chiffon.<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.<br></span><strong>Size: </strong>67 inch x 16 inch (170 cm x 40 cm)</p>
+<p><span><strong></strong></span> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor setting</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6872562794649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KBS-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5828626841753</id>
+    <published>2020-10-16T14:36:33-04:00</published>
+    <updated>2020-10-16T14:36:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-10-twirl-blue-scarf"/>
+    <title>KBS-10 (twirl blue scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-10_ac8eadb5-b568-4849-af38-4287dac9f5a5.jpg?v=1602873492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><span>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.</span><br><span><strong></strong></span></p>
+<p><span><strong>composition: </strong>Merino wool &amp; Chiffon<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5828626841753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>KBS-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5828652335257</id>
+    <published>2020-10-16T14:34:38-04:00</published>
+    <updated>2020-10-16T14:34:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-11-twirl-b-w-scarf"/>
+    <title>KBS-11 (twirl b&amp;w scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-11.jpg?v=1602873313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><span>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.</span><br><span><strong></strong></span></p>
+<p><span><strong>composition: </strong>Merino wool &amp; Chiffon<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5828652335257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549086539</id>
+    <published>2020-07-23T12:26:39-04:00</published>
+    <updated>2020-07-23T12:26:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/flower-scarf"/>
+    <title>MS-4 (turq poppy scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/turquoise-flower-scarf-5_87874fb4-4dd7-4980-b8e9-5c8f52e86c0d.jpg?v=1583170417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Inspired by colorful saris, we use soft merino wool, blended some silk sari into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fiber art. This scarf is handmade using only soap and warm water technique. </span><br><span><strong></strong></span></p>
+<p><span><strong>composition:</strong> 100% merino wool &amp; chiffon.<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.<br></span><span><strong>Size: </strong></span><span>67 inch x 16 inch (170 cm x 40 cm).</span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549086539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>MS-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4521429467229</id>
+    <published>2020-01-26T16:17:11-05:00</published>
+    <updated>2020-01-26T16:17:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-24-ombre-scarf"/>
+    <title>KBS-24 (ombre scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-24_4c8ff077-5c7a-4979-b78e-2dfee285a4bf.png?v=1583167546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><span>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.</span><br><span><strong></strong></span></p>
+<p><span><strong>composition: </strong>Merino wool &amp; Chiffon<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521429467229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>KBS-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4521428320349</id>
+    <published>2020-01-26T16:14:18-05:00</published>
+    <updated>2020-01-26T16:14:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-22-side-frill-scarf"/>
+    <title>KBS-22 (comes in 2 colors)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-22_fa7ad71c-ae5e-4ea8-b595-aaf013844b64.png?v=1583167551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><span>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.</span><br><span><strong></strong></span></p>
+<p><span><strong>composition: </strong>Merino wool &amp; Chiffon<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521428320349</id>
+      <title>Blue</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>KBS-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521428320349</id>
+      <title>Pink</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>KBS-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4521420226653</id>
+    <published>2020-01-26T15:53:57-05:00</published>
+    <updated>2020-01-26T15:53:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-18-solar-scarf"/>
+    <title>KBS-18 (comes in 3 colors)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-18_21211f5e-d46d-4f49-ab37-de989b6839d3.png?v=1583167563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Process of "eco-printing" or "botanical printing" with no synthetic inks, dyes or pigments. All our natural printed nuno felt scarves has been hand dyed with the pigments of real leaves. Leaves were cascaded down the scarf and bundled with string and steamed for three hours to create these warm colours. Lid of the steamer is open only after 12 hours and scarf is cleaned with sea salt water and sun dried for several hours. And the results are stunning.</p>
+<p>Our eco print scarves are unusual and fabulous One-Of-Kind finds for any nature lovers! </p>
+<p><span><strong>composition: </strong>Merino wool &amp; Chiffon<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521420226653</id>
+      <title>Blush</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>KBS-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521420226653</id>
+      <title>White</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>KBS-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521420226653</id>
+      <title>Turquoise</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>KBS-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521420226653</id>
+      <title>Lavender</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>KBS-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4521419276381</id>
+    <published>2020-01-26T15:50:44-05:00</published>
+    <updated>2020-01-26T15:50:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-16-leaves-scarf"/>
+    <title>KBS-16 (comes in 2 colors)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-16_1a5f6ec0-4860-4b7f-80f9-3ea509bf9088.png?v=1583167570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><span>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.</span><br><span><strong></strong></span></p>
+<p><span><strong>composition: </strong>Merino wool &amp; Chiffon<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521419276381</id>
+      <title>Blue</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>KBS-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521419276381</id>
+      <title>White</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>KBS-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4521417965661</id>
+    <published>2020-01-26T15:47:30-05:00</published>
+    <updated>2020-01-26T15:47:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-15-bloom-scarf"/>
+    <title>KBS-15 (bloom scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-15_b9bf87a8-3b22-42c1-919d-8692e2361ad3.png?v=1583167572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.</span><br><span><strong></strong></span></p>
+<p><span><strong>composition: </strong>Merino wool &amp; Chiffon<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521417965661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>KBS-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4521415868509</id>
+    <published>2020-01-26T15:43:06-05:00</published>
+    <updated>2020-01-26T15:43:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-12-sheer-scarf-1"/>
+    <title>KBS-12 (sheer scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-12_639028ad-b561-4c96-b66e-03550fe3675e.png?v=1602881550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.<br></p>
+<p> </p>
+<p><span><strong>composition: </strong>Merino wool &amp; Chiffon<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm) plus fringe.</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521415868509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KBS-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4521410625629</id>
+    <published>2020-01-26T15:31:15-05:00</published>
+    <updated>2020-01-26T15:31:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-9-twirl-scarf"/>
+    <title>KBS-9 (twirl beige scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-9_72fac9b2-e3a7-4a92-80b0-a2f2d3e0482d.png?v=1602873582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><span>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.</span><br><span><strong></strong></span></p>
+<p><span><strong>composition: </strong>Merino wool &amp; Chiffon<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521410625629</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>KBS-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4521399746653</id>
+    <published>2020-01-26T15:08:41-05:00</published>
+    <updated>2020-01-26T15:08:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-6-polka-dot-scarf"/>
+    <title>KBS-6 (comes in 3 colors)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-6_d7747f34-a963-4536-87f7-ce4cd4a86480.png?v=1583167613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><span>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.</span><br><span><strong></strong></span></p>
+<p><span><strong>composition: </strong>Merino wool &amp; Chiffon<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521399746653</id>
+      <title>Turquoise</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>KBS-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521399746653</id>
+      <title>Black</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>KBS-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521399746653</id>
+      <title>Brown</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>KBS-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4521382936669</id>
+    <published>2020-01-26T14:38:27-05:00</published>
+    <updated>2020-01-26T14:38:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-5"/>
+    <title>KBS-5 (garland necklace)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-5C_fe83c02d-283f-4054-b8e0-91932ac0c638.png?v=1583167621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #000000;"><strong></strong></span><span>Inspired by colourful spring flowers, this felt flower necklace is perfect accent for any outfit or </span>may even be used as a decor item! We use soft merino wool, blended with stunning colours. Each piece is a one of a kind piece of art <span>and make a lovely gift.</span>This scarf is handmade using only soap and warm water technique.<br><br><strong>composition:</strong> 100% merino wool.<br><span><strong><strong>care: </strong></strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br></span><br></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521382936669</id>
+      <title>Blue</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>KBS-5-Blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521382936669</id>
+      <title>Red</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>KBS-5-Red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521382936669</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>KBS-5-Yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4521328509021</id>
+    <published>2020-01-26T13:14:32-05:00</published>
+    <updated>2020-01-26T13:14:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbs-4"/>
+    <title>KBS-4 (comes in 6 colors)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBS-4A_c9092458-2897-4c12-a3df-5578728b146e.png?v=1583167637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #000000;"><strong></strong></span><span>Inspired by colourful spring flowers, this felt flower necklace is perfect accent for any outfit or </span>may even be used as a decor item! We use soft merino wool, blended with stunning colours. Each piece is a one of a kind piece of art <span>and make a lovely gift.</span>This scarf is handmade using only soap and warm water technique.<br><br><strong>composition:</strong> 100% merino wool.<br><span><strong><strong>care: </strong></strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br></span><br></p>
+<p><br></p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521328509021</id>
+      <title>Purple</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>KBS-4-Purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521328509021</id>
+      <title>Red</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>KBS-4-Red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521328509021</id>
+      <title>White</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>KBS-4-White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521328509021</id>
+      <title>Pink</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>KBS-4-Pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521328509021</id>
+      <title>Peach</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>KBS-4-Peach</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4521328509021</id>
+      <title>Blue</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>KBS-4-Blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/3574025093213</id>
+    <published>2019-05-28T14:33:46-04:00</published>
+    <updated>2019-05-28T14:33:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/as-6-oceanic-net-scarf"/>
+    <title>AS-7 (oceanic net scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/scarf_net_one_b0dd9b66-f518-4f7c-890d-e140a096b3f5.png?v=1583168253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.  </p>
+<p><span><strong>composition:</strong> 100% merino wool.<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.<br></span><strong>Size: </strong>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/3574025093213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>AS-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005168521309</id>
+    <published>2019-02-24T13:49:34-05:00</published>
+    <updated>2019-02-24T13:49:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/copy-of-as-10-poppy-garden"/>
+    <title>AS-11 (tassels poppy scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/tassels_poppy_scarf_21425e66-e464-4d40-9ce3-7d27300af9fc.jpg?v=1583168617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.  </p>
+<p><span><strong>composition:</strong> 100% merino wool.<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005168521309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>AS-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005168488541</id>
+    <published>2019-02-24T13:49:29-05:00</published>
+    <updated>2019-02-24T13:49:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/as-10-poppy-garden"/>
+    <title>AS-10 (poppy garden)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/poppy_garden_scarf_d4d0b17f-c3f3-4e7b-84b9-8ac446d42d54.png?v=1583168621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.  </p>
+<p><span><strong>composition:</strong> 100% merino wool.<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005168488541</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>AS-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005168226397</id>
+    <published>2019-02-24T13:49:24-05:00</published>
+    <updated>2019-02-24T13:49:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/as-9-field-of-poppies-scarf"/>
+    <title>AS-9 (field of poppies scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/field_of_poppies_scarf_d53c63ac-27b5-49a2-9a22-e69ad94163c7.png?v=1583168624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.  </p>
+<p><span><strong>composition:</strong> 100% merino wool.<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.<br></span><strong>Size: </strong>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005168226397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>AS-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005168029789</id>
+    <published>2019-02-24T13:49:18-05:00</published>
+    <updated>2019-02-24T13:49:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/as-7-oceanic-net-scarf"/>
+    <title>AS-8 (river scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/riveria_scarf_66ccc74d-6219-483c-9873-6f45381499b3.png?v=1583168628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique.  </p>
+<p><span><strong>composition:</strong> 100% merino wool.<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.<br></span><strong>Size: </strong>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005168029789</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>AS-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005167898717</id>
+    <published>2019-02-24T13:49:14-05:00</published>
+    <updated>2019-02-24T13:49:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/as-1"/>
+    <title>AS-1 (niagara scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/niagara_scarf_41343995-598c-4dfd-b1d0-29b3f7d89412.jpg?v=1583168633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Inspired by colourful saris, we use soft merino wool, blended some chiffon into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fibre art. This scarf is handmade using only soap and warm water technique. </p>
+<p><span><strong>composition:</strong> 100% merino wool.<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.</span><span><br><strong>Size: </strong></span>67 inch x 16 inch (170 cm x 40 cm).</p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005167898717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>AS-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1562389741661</id>
+    <published>2018-11-04T11:50:33-05:00</published>
+    <updated>2018-11-04T11:50:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ms-12-yellow-flowers-w-leaves-scarf"/>
+    <title>KBS-13 (flowers &amp; leaf scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/yellow_scarf_3_7eb98624-54d7-40ce-b12c-f1354946f523.jpg?v=1583168654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Inspired by colorful saris, we use soft merino wool, blended some silk sari into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fiber art. This scarf is handmade using only soap and warm water technique. </span><br><span><strong></strong></span></p>
+<p><span><strong>composition:</strong> 100% merino wool &amp; chiffon.<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.<br></span><strong>Size: </strong>67 inch x 16 inch (170 cm x 40 cm)</p>
+<p><span><strong></strong></span> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor setting</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1562389741661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KBS-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1562389643357</id>
+    <published>2018-11-04T11:50:28-05:00</published>
+    <updated>2018-11-04T11:50:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ms-1-red-swirl-chiffon-scarf"/>
+    <title>MS-1 (red swirl chiffon scarf)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/sprial_scarf_4_8e498068-971f-455d-8a72-26aaefbf76d3.jpg?v=1583168661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Inspired by colorful saris, we use soft merino wool, blended some chiffon sari into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fiber art. This scarf is handmade using only soap and warm water technique. </span><br><span><strong></strong></span></p>
+<p><span><strong>composition:</strong> 100% merino wool. Recycle<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.<br></span><strong>Size: </strong>67 inch x 16 inch (170 cm x 40 cm)</p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1562389643357</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>MS-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1562374799453</id>
+    <published>2018-06-01T13:17:52-04:00</published>
+    <updated>2018-06-01T13:17:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/minf-1-cobweb-hole-scarves"/>
+    <title>MINF-1 (infinity hole scarves)</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/scarf_hole_4_c226e5b3-6856-40e1-b657-9ce47df44993.jpg?v=1583168684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Inspired by colorful saris, we use soft merino wool, blended some silk sari into it to create a stunning accent for any outfit. It is very soft and drapery, like a fine sheer fabric and each piece is a one of a kind piece of fiber art. This scarf is handmade using only soap and warm water technique. <br><br><strong>Comes in 4 assortments of beautiful </strong></span><strong>color</strong><br><span><strong></strong></span></p>
+<p><span><strong>composition:</strong> 100% merino wool. Recycle silk sari<strong><br>care: </strong></span><span>Hand wash in warm water with mild detergent. Squeeze gently. Hang dry.<br></span><strong>Size: </strong>67 inch x 16 inch (170 cm x 40 cm)</p>
+<p> </p>
+<p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor setting</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1562374799453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>MINF-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

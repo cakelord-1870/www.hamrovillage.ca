@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/easter.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-01-29T11:00:01-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4525451968605</id>
+    <published>2020-01-29T11:00:01-05:00</published>
+    <updated>2020-01-29T11:00:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-23-easter-bunny"/>
+    <title>EE-23 (easter bunny)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-23A_6e7989ac-af06-4959-8436-0db102b84a1d.png?v=1583167710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4525451968605</id>
+      <title>Pink</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4525451968605</id>
+      <title>Green</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4524025348189</id>
+    <published>2020-01-28T14:09:27-05:00</published>
+    <updated>2020-01-28T14:09:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-1a-carrot-basket"/>
+    <title>EE-01 (carrot easter basket)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-1_f9b1a6ec-d189-4961-8081-8e250acd0baa.png?v=1583167705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><span>Make this year Easter extra special with our Carrot Easter basket. </span>Perfect for collecting lots of treats on an Easter egg hunt or simply display with Easter egg decoration. We love how carrots shape are stitched together to form a basket shape. <span>All our easter items will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4524025348189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>EE-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4524023808093</id>
+    <published>2020-01-28T14:07:52-05:00</published>
+    <updated>2020-01-28T14:07:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-22-easter-chicken"/>
+    <title>EE-22 (easter chicken)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-22_7bcb0ff0-492b-4aff-a243-17945985df15.png?v=1583167713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4524023808093</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4524022464605</id>
+    <published>2020-01-28T14:06:39-05:00</published>
+    <updated>2020-01-28T14:06:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-21-easter-chicken"/>
+    <title>EE-21 (easter chicken)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-21_a15712aa-8e8a-499f-ba8d-f24193117ef5.png?v=1583167714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong>This needle felted adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4524022464605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4524008603741</id>
+    <published>2020-01-28T13:52:58-05:00</published>
+    <updated>2020-01-28T13:52:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-20-easter-egg"/>
+    <title>EE-20 (mushroom hanging)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-20_0021d774-9d49-40e2-bea4-b61ac6f2aa15.png?v=1583167717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Mushroom ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.</p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4524008603741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523994579037</id>
+    <published>2020-01-28T13:38:29-05:00</published>
+    <updated>2020-01-28T13:38:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-19-easter-egg"/>
+    <title>EE-19 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-19_93758ad5-890c-438f-a367-8800854212a1.png?v=1583167721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.</p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523994579037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523988353117</id>
+    <published>2020-01-28T13:32:47-05:00</published>
+    <updated>2020-01-28T13:32:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-18-easter-egg"/>
+    <title>EE-18 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-18_40e8753c-5402-4190-960d-d9cb5a3a3aeb.png?v=1583167723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523988353117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523985961053</id>
+    <published>2020-01-28T13:30:07-05:00</published>
+    <updated>2020-01-28T13:30:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-17-easter-egg"/>
+    <title>EE-17 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-17_49e8a76a-08e8-4aed-b3cc-c01d390dc634.png?v=1583167726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523985961053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523981045853</id>
+    <published>2020-01-28T13:26:15-05:00</published>
+    <updated>2020-01-28T13:26:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-16-easter-egg"/>
+    <title>EE-16 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-16_70a0be39-4131-4738-9458-9bf6efc92ec4.png?v=1583167730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong>This needle felted adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is made of 100% wool by using only soap and water.</p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523981045853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523973476445</id>
+    <published>2020-01-28T13:21:38-05:00</published>
+    <updated>2020-01-28T13:21:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-15-easter-egg"/>
+    <title>EE-15 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-15_b107e49a-c5dc-4aef-bb56-ae9cf7bb4014.png?v=1583167731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523973476445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523967578205</id>
+    <published>2020-01-28T13:17:42-05:00</published>
+    <updated>2020-01-28T13:17:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-14-easter-egg"/>
+    <title>EE-14 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-14_f867fd5f-461e-4035-9e27-cf42b18b4570.png?v=1583167733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523967578205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523959124061</id>
+    <published>2020-01-28T13:12:55-05:00</published>
+    <updated>2020-01-28T13:12:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-13-easter-egg"/>
+    <title>EE-13 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-13_2d1c64b3-fa4b-4577-bc2e-733829e30087.png?v=1583167736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.</p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523959124061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523957616733</id>
+    <published>2020-01-28T13:12:00-05:00</published>
+    <updated>2020-01-28T13:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-12-easter-egg"/>
+    <title>EE-12 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-12_4ce8f51a-9e75-44f0-a1f0-1467072be986.png?v=1583167737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523957616733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523950276701</id>
+    <published>2020-01-28T13:06:25-05:00</published>
+    <updated>2020-01-28T13:06:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-11-easter-egg"/>
+    <title>EE-11 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-11_298050ef-f613-4c26-a451-3063b40f71a6.png?v=1583167739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><strong></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.</p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523950276701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523946999901</id>
+    <published>2020-01-28T13:03:25-05:00</published>
+    <updated>2020-01-28T13:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-10-easter-egg"/>
+    <title>EE-10 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-10_96872579-2940-4981-8a37-6b4afed41c3d.png?v=1583167743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523946999901</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523944247389</id>
+    <published>2020-01-28T12:59:58-05:00</published>
+    <updated>2020-01-28T12:59:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-9-easter-egg"/>
+    <title>EE-9 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-9_c39e47e3-42bd-4ebc-a159-4dcedd7e3761.png?v=1583167747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523944247389</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523943198813</id>
+    <published>2020-01-28T12:58:56-05:00</published>
+    <updated>2020-01-28T12:58:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-8-easter-egg"/>
+    <title>EE-8 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-8_736f3f55-b087-413c-8515-288e425ea0df.png?v=1583167750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523943198813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523937005661</id>
+    <published>2020-01-28T12:53:12-05:00</published>
+    <updated>2020-01-28T12:53:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-7-easter-egg"/>
+    <title>EE-7 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-7_8985219b-460e-49a5-897d-ecf25a3fc9d6.png?v=1583167753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523937005661</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523931795549</id>
+    <published>2020-01-28T12:47:44-05:00</published>
+    <updated>2020-01-28T12:47:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-6-easter-egg"/>
+    <title>EE-6 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-6_9ced06cb-f22d-4efa-996c-579881b41ef8.png?v=1583167757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong>This needle felted adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is made of 100% wool by using only soap and water.</p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523931795549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523928289373</id>
+    <published>2020-01-28T12:44:22-05:00</published>
+    <updated>2020-01-28T12:44:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-5-easter-egg"/>
+    <title>EE-5 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-5_66d76936-67b4-4cab-8b9c-1fd699c22a6f.png?v=1583167762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water. </p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523928289373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523914199133</id>
+    <published>2020-01-28T12:29:27-05:00</published>
+    <updated>2020-01-28T12:29:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-4-easter-egg"/>
+    <title>EE-4 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-4_e12640ef-cb5f-40b8-ad4f-9000b1557e3e.png?v=1583167766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.</p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523914199133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523897127005</id>
+    <published>2020-01-28T12:14:23-05:00</published>
+    <updated>2020-01-28T12:14:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-3-yellow-flower-egg"/>
+    <title>EE-3 (easter egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-3a_1de55f4a-b834-4637-8646-894841d3041f.png?v=1583167768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.</p>
+<p><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523897127005</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>EE-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4523838210141</id>
+    <published>2020-01-28T11:29:38-05:00</published>
+    <updated>2020-01-28T11:29:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-2-ombre-egg"/>
+    <title>EE-2A (ombre egg)</title>
+    <s:type>Easter</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-2B_0a67a42d-be2f-47a0-9e9b-bb242b868d0f.png?v=1583167774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Easter<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><strong data-mce-fragment="1"></strong><span>Comes in assorted colours.</span></p>
+<p><span>This needle felted </span><span>adorable and lovely Easter ornament will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our easter ornaments will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.</p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4523838210141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>EE-2A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

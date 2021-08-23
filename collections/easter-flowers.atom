@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/easter-flowers.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-01-30T12:43:05-05:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526786412637</id>
+    <published>2020-01-30T12:43:05-05:00</published>
+    <updated>2020-01-30T12:43:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-36-lavender-stems"/>
+    <title>Lavender Stems - Set of 4</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-36-lavender_18fcba42-a8c6-4ae0-9ecc-2c7cb0c2210f.png?v=1583167781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Come in pack of 4pcs. Assorted colors.</strong><br></p>
+<p><span>This </span><span>adorable and lovely mini flowers stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526786412637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>EE-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526773403741</id>
+    <published>2020-01-30T12:22:54-05:00</published>
+    <updated>2020-01-30T12:22:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-35-yellow-ball-stem"/>
+    <title>Yellow Ball Stem - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-35-yellow-ball.png?v=1591035631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Come in pack of 5 pcs. </strong><br></p>
+<meta charset="utf-8">
+<p><span>This </span><span>adorable and lovely felt ball stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526773403741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>EE-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526772584541</id>
+    <published>2020-01-30T12:21:38-05:00</published>
+    <updated>2020-01-30T12:21:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-34-pink-ball-stem"/>
+    <title>Pink Ball Stem - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-34-pink-ball_eac203ae-a041-41d0-9a59-d11e685e7c33.png?v=1583167797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3>
+<strong>Come in pack of 5 pcs. </strong><br>
+</h3>
+<meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This </span><span>adorable and lovely felt ball stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526772584541</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>EE-33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526771961949</id>
+    <published>2020-01-30T12:20:49-05:00</published>
+    <updated>2020-01-30T12:20:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-33-red-ball-stem"/>
+    <title>Red Ball Stem - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-33-red-ball_0a9e50bd-5f9e-4150-9331-acd4e0e9e111.png?v=1583167799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3>
+<strong>Come in pack of 5 pcs. </strong><br>
+</h3>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><span>This </span><span>adorable and lovely felt ball stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526771961949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>EE-33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526771044445</id>
+    <published>2020-01-30T12:19:16-05:00</published>
+    <updated>2020-01-30T12:19:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-32-white-ball-stem"/>
+    <title>White Ball Stem - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-32-white-ball_067bfcdd-6170-4d0f-a62b-ffcebb75dadf.png?v=1583167801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3>
+<strong>Come in pack of 5 pcs.</strong><br>
+</h3>
+<meta charset="utf-8">
+<p><span>This </span><span>adorable and lovely mini flowers stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526771044445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>EE-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526766325853</id>
+    <published>2020-01-30T12:11:56-05:00</published>
+    <updated>2020-01-30T12:11:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-29-pink-rose-bud"/>
+    <title>Pink &amp; White Rose - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-29A-pink-rose_6d26b117-e369-4799-803f-6b41de0d32ec.png?v=1583167808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3>
+<strong>Come in pack of 5 pcs.</strong><br>
+</h3>
+<meta charset="utf-8">
+<p><span>This </span><span>adorable and lovely mini flowers stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526766325853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>EE-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526745485405</id>
+    <published>2020-01-30T11:49:31-05:00</published>
+    <updated>2020-01-30T11:49:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-28-red-rose-bud-2"/>
+    <title>Red &amp; Yellow Rose - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-28A_945a2936-8ff2-4559-babd-7c85c0437321.png?v=1583167816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3>
+<strong>Come in pack of 5 pcs. </strong><br>
+</h3>
+<meta charset="utf-8">
+<p><span>This </span><span>adorable and lovely mini flowers stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526745485405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>EE-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526745157725</id>
+    <published>2020-01-30T11:49:21-05:00</published>
+    <updated>2020-01-30T11:49:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-28-red-rose-bud-1"/>
+    <title>White &amp; Red Rose - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-28A-white-rose_0067e342-44c7-4747-b015-0538e8a1dabd.png?v=1583167822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3>
+<strong>Come in pack of 5 pcs. </strong><br>
+</h3>
+<meta charset="utf-8">
+<p><span>This </span><span>adorable and lovely mini flowers stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526745157725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>EE-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526745092189</id>
+    <published>2020-01-30T11:49:08-05:00</published>
+    <updated>2020-01-30T11:49:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-28-red-rose-bud"/>
+    <title>Yellow &amp; Red Rose - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-31-yellow-rose_0a81eb61-a263-4620-9b3d-eb35d872b13a.png?v=1583167823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3>
+<strong>Come in pack of 5 pcs. </strong><br>
+</h3>
+<meta charset="utf-8">
+<p><span>This </span><span>adorable and lovely mini flowers stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526745092189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>EE-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526743257181</id>
+    <published>2020-01-30T11:46:33-05:00</published>
+    <updated>2020-01-30T11:46:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-27-blue-daisy-stems"/>
+    <title>Blue Daisy - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-27_bdd7ed44-5815-42a4-869a-74323cbad891.png?v=1583167828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3>
+<strong>Come in pack of 5 pcs.</strong><br>
+</h3>
+<meta charset="utf-8">
+<p><span>This </span><span>adorable and lovely mini flowers stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526743257181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>EE-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526735720541</id>
+    <published>2020-01-30T11:33:50-05:00</published>
+    <updated>2020-01-30T11:33:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-26-green-daisy-stems"/>
+    <title>Green Daisy - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-26_ac617a87-cf30-4467-b582-a729784b509d.png?v=1583167834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3>
+<strong>Come in pack of 5 pcs. </strong><br>
+</h3>
+<meta charset="utf-8">
+<p><span>This </span><span>adorable and lovely mini flowers stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526735720541</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>EE-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526733066333</id>
+    <published>2020-01-30T11:30:52-05:00</published>
+    <updated>2020-01-30T11:30:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ee-25-yellow-daisy-stems"/>
+    <title>Yellow Daisy - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-25A_ab827c42-3188-412e-8dcc-ce26c0ea1620.png?v=1583167842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3>
+<strong>Come in pack of 5 pcs. </strong><br>
+</h3>
+<meta charset="utf-8">
+<p><span>This </span><span>adorable and lovely mini flowers stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material.<br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526733066333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>EE-25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4526718943325</id>
+    <published>2020-01-30T11:13:30-05:00</published>
+    <updated>2020-01-30T11:13:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/daisy-stems"/>
+    <title>White Daisy - Set of 5</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EE-24_white_daisy_a273643d-41e8-4315-ba2d-335addcdcdab.png?v=1583167845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3>
+<strong>Come in pack of 5 pcs. </strong><br>
+</h3>
+<p><span>This </span><span>adorable and lovely mini flowers stems will create heartwarming spring atmosphere in your home. Designed in pastel colours with unique needle felted pattern. All our pastel flower collections will fill your home with Easter spirit and will revive fresh hope. It is </span>made of 100% wool by using only soap and water.<br><strong></strong></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flower Stems</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4526718943325</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>EE-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1506210119773</id>
+    <published>2018-10-30T13:48:20-04:00</published>
+    <updated>2018-10-30T13:48:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/aff-5-mixed-berries-stem"/>
+    <title>Mixed Berries - Set of 2</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/berries_2_efbb400e-caad-447c-aeed-67db6a68830d.jpg?v=1583168696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This charming handmade flower is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a flexible wire stem and then wire is felted again with green wool. You can gently straighten out the flower until you are happy with the arrangement. Do not to rub the felt too much. By keeping them out of direct sunlight will prevent the colours from fading.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506210119773</id>
+      <title>Blue</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>AFF-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506210119773</id>
+      <title>Purple</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>AFF-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506210119773</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>AFF-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1506210054237</id>
+    <published>2018-10-30T13:48:19-04:00</published>
+    <updated>2018-10-30T13:48:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afw-5-assorted-flower-wreath"/>
+    <title>AFW-5 (assorted flower wreath)</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/wreath_two_e4ec2fef-aaea-4fa4-b3d5-fff028179511.jpg?v=1583168803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This charming handmade Ranunculus Flower Wreath is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a wire that is felted with green wool.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506210054237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>AFW-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1506210021469</id>
+    <published>2018-10-30T13:48:17-04:00</published>
+    <updated>2018-10-30T13:48:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afw-4-ranunculus-wreath"/>
+    <title>AFW-4 (ranunculus wreath)</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/wreath_three_d5e1486c-35c3-4a13-b0c5-8ff4b7258701.jpg?v=1583168806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This charming handmade Ranunculus Flower Wreath is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a wire that is felted with green wool.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1506210021469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>AFW-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319255867485</id>
+    <published>2017-08-09T14:38:22-04:00</published>
+    <updated>2017-08-09T14:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afsf-7-white-berries-stems"/>
+    <title>White Berry - Set of 4</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/white_berries_8c1900f8-a9f4-4418-a85d-f0f28c48f327.jpg?v=1583169183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8">
+<strong>Comes in Pack of 4 pcs.</strong></span></p>
+<p><span>This charming handmade flower is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a flexible wire stem and then wire is felted again with green wool. You can gently straighten out the flower until you are happy with the arrangement. Do not to rub the felt too much. By keeping them out of direct sunlight will prevent the colours from fading.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319255867485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>AFSF-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319255638109</id>
+    <published>2017-08-09T14:38:22-04:00</published>
+    <updated>2017-08-09T14:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afsf-6-sunflower-stems"/>
+    <title>Sunflower Stems - Set of 3</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/sunflowers_efef1f06-2135-4445-9d05-d4de4f69d892.jpg?v=1583169186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8">
+<strong>Comes in Pack of 3 colours.</strong></span></p>
+<p><span>This charming handmade flower is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a flexible wire stem and then wire is felted again with green wool. You can gently straighten out the flower until you are happy with the arrangement. Do not to rub the felt too much. By keeping them out of direct sunlight will prevent the colours from fading.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319255638109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>AFSF-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319255408733</id>
+    <published>2017-08-09T14:38:22-04:00</published>
+    <updated>2017-08-09T14:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/aff-1-flower-set-stems"/>
+    <title>Flower Stems - Set of 4</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/set_1_601d617d-ebca-4356-92c9-87c66c7f69f3.jpg?v=1583169191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8">
+<strong>Comes in Pack of 4 pcs.</strong></span></p>
+<p><span>This charming handmade flower is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a flexible wire stem and then wire is felted again with green wool. You can gently straighten out the flower until you are happy with the arrangement. Do not to rub the felt too much. By keeping them out of direct sunlight will prevent the colours from fading.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319255408733</id>
+      <title>Purple</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>AFF-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319255408733</id>
+      <title>White</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>AFF-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319255408733</id>
+      <title>Blue</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>AFF-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319255408733</id>
+      <title>Red</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>AFF-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319255310429</id>
+    <published>2017-08-09T14:38:22-04:00</published>
+    <updated>2017-08-09T14:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/aff-2-wild-white-flower-stems"/>
+    <title>Christmas Rose - Set of 4</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AFF-2a.png?v=1620413043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><strong>Comes in Pack of 4 pcs.</strong></span></p>
+<p><span>This charming handmade flower is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a flexible wire stem and then wire is felted again with green wool. You can gently straighten out the flower until you are happy with the arrangement. Do not to rub the felt too much. By keeping them out of direct sunlight will prevent the colours from fading.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319255310429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>AFF-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319255015517</id>
+    <published>2017-08-09T14:38:22-04:00</published>
+    <updated>2017-08-09T14:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afsf-1-tulip"/>
+    <title>Tulip Stems - Set of 3</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/tulips_6e51f2a3-272b-44ed-b001-173c0becd9b5.jpg?v=1583169197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8">
+<strong>Comes in Pack of 3 Colors.</strong></span></p>
+<p><span>This charming handmade flower is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a flexible wire stem and then wire is felted again with green wool. You can gently straighten out the flower until you are happy with the arrangement. Do not to rub the felt too much. By keeping them out of direct sunlight will prevent the colours from fading.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319255015517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>AFSF-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319254884445</id>
+    <published>2017-08-09T14:38:22-04:00</published>
+    <updated>2017-08-09T14:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afsf-2-rose-stems-set"/>
+    <title>AFSF-2 (rose stems)</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/roses_5c7eac1c-da5d-435a-93fa-7f658a3f6efc.jpg?v=1583169200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This charming handmade flower is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a flexible wire stem and then wire is felted again with green wool. You can gently straighten out the flower until you are happy with the arrangement. Do not to rub the felt too much. By keeping them out of direct sunlight will prevent the colours from fading.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319254884445</id>
+      <title>Red</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>AFSF-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319254884445</id>
+      <title>Fuchsia</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>AFSF-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319254884445</id>
+      <title>Purple</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>AFSF-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319254622301</id>
+    <published>2017-08-09T14:38:22-04:00</published>
+    <updated>2017-08-09T14:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afsf-5-lavender-stems"/>
+    <title>Lavender stems - Set of 2</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/lavender_9879a8fc-ae55-4c64-bc76-1049027adbc9.jpg?v=1583169202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8">
+<strong>Comes in Pack of 2 pcs. Assorted Colours.</strong></span></p>
+<p><span>This charming handmade flower is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a flexible wire stem and then wire is felted again with green wool. You can gently straighten out the flower until you are happy with the arrangement. Do not to rub the felt too much. By keeping them out of direct sunlight will prevent the colours from fading.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <strong><br>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319254622301</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>AFSF-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9760207179</id>
+    <published>2017-08-09T14:38:22-04:00</published>
+    <updated>2017-08-09T14:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/winter-red-berries"/>
+    <title>Red Berry Stems - Set of 4</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/red_berries_63d5d894-ea83-464d-94aa-50e7b3944a55.jpg?v=1583169347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8">
+<strong>Comes in Pack of 4 pcs.</strong></span></p>
+<p><span>This charming handmade flower is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a flexible wire stem and then wire is felted again with green wool. You can gently straighten out the flower until you are happy with the arrangement. Do not to rub the felt too much. By keeping them out of direct sunlight will prevent the colours from fading.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9760207179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>AFF-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759880395</id>
+    <published>2017-08-09T14:16:14-04:00</published>
+    <updated>2017-08-09T14:16:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/poinsetta-flower"/>
+    <title>Poinsettia Stems - Set of 4</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/pointsetta_80ae0490-1910-44bf-b613-d69d57f5cf57.jpg?v=1583169343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8">
+<strong>Comes in Pack of 4 pcs.</strong></span></p>
+<p><span>This charming handmade flower is a great alternative to real flowers that will last forever! It requires minimum care. They make such a simple and lovely gift for any occasion or just simply add anywhere in your room. The flower is attached to a flexible wire stem and then wire is felted again with green wool. You can gently straighten out the flower until you are happy with the arrangement. Do not to rub the felt too much. By keeping them out of direct sunlight will prevent the colours from fading.</span></p>
+<p><span><strong>composition: </strong>100% felted wool, a renewable material. <br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759880395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>AFF-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/journals.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2017-07-20T13:11:12-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548967115</id>
+    <published>2017-07-20T13:11:12-04:00</published>
+    <updated>2017-07-20T13:11:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/black-buddha-journal"/>
+    <title>Black Buddha Journal</title>
+    <s:type>Journals</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/buddha_two_c7023861-2db7-4189-9026-345da900de89.jpg?v=1583169849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Journals<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p><p><strong>composition:</strong><span> 100% Handmade natural paper.<br><strong>Artwork:</strong> screen printed</span></p><p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548967115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>LPJ-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548966347</id>
+    <published>2017-07-20T13:11:10-04:00</published>
+    <updated>2017-07-20T13:11:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/copy-of-black-buddha-journal"/>
+    <title>Orange Dream Journal</title>
+    <s:type>Journals</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/dream_one_799681ec-343d-409e-b153-e9c90894c74f.jpg?v=1583169846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Journals<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p>
+<p><strong>composition:</strong><span> 100% Handmade natural paper.<br><strong>Artwork:</strong> screen printed</span></p>
+<p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548966347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>LPJ-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548965963</id>
+    <published>2017-07-20T13:11:04-04:00</published>
+    <updated>2017-07-20T13:11:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/red-footprint-journal"/>
+    <title>Red Footprint Journal</title>
+    <s:type>Journals</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/footprint_one_422f81d5-404d-4807-b196-ea39f8400e1b.jpg?v=1583169844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Journals<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p>
+<p><strong>composition:</strong><span> 100% Handmade natural paper.<br><strong>Artwork:</strong> screen printed</span></p>
+<p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548965963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>LPJ-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548965195</id>
+    <published>2017-07-20T13:10:58-04:00</published>
+    <updated>2017-07-20T13:10:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/singing-bird-journal"/>
+    <title>Singing Bird Journal</title>
+    <s:type>Journals</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/bird_two_22223c3c-8af9-47dc-8786-ed7344c20cde.jpg?v=1583169840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Journals<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p>
+<p><strong>composition:</strong><span> 100% Handmade natural paper.<br><strong>Artwork:</strong> screen printed</span></p>
+<p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548965195</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>LPJ-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548963979</id>
+    <published>2017-07-20T13:10:52-04:00</published>
+    <updated>2017-07-20T13:10:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/dandelion-journal"/>
+    <title>Dandelion Journal</title>
+    <s:type>Journals</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/dandellion_one_1aba4f48-f4ec-4b7a-a01c-e4239b2bccb1.jpg?v=1583169837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Journals<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p>
+<p><strong>composition:</strong><span> 100% Handmade natural paper.<br><strong>Artwork:</strong> screen printed</span></p>
+<p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548963979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>LPJ-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548963275</id>
+    <published>2017-07-20T13:10:47-04:00</published>
+    <updated>2017-07-20T13:10:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/tree-of-life-journal"/>
+    <title>Tree of Life Journal</title>
+    <s:type>Journals</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/tree_one_dead8d3f-5b35-4c90-b346-931c45c57acc.jpg?v=1583169834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Journals<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Daphne shrub paper for centuries has been used for manuscripts and traditional medicine. Our handmade paper products are made from the bark of Daphne shrub which grows in the mountains of Nepal. Known Locally as Lokta the scrub grows at an altitude of 6500 to 9500 feet. The Lokta scrub regenerates after cutting, thus preserving the fragile forest ecology of Nepal. It has exceptional strength with very appealing texture and it is one of the most Eco-friendly paper in the world.</p>
+<p><strong>composition:</strong><span> 100% Handmade natural paper.<br><strong>Artwork:</strong> screen printed</span></p>
+<p><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548963275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>LPJ-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

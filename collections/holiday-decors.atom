@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/holiday-decors.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-08-27T18:10:08-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5570118090905</id>
+    <published>2020-08-27T18:10:08-04:00</published>
+    <updated>2020-08-27T18:10:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-114-white-berries-stocking"/>
+    <title>EO-114 (white berries stocking)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-114.jpg?v=1598566138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This soft yet durable stockings could be perfect for this holiday season. Feature is classic Christmas colors with a touch of modern design. </span><span>Made from felt hand stitching details and have an open top so they can be filled with treats and comes with felt ribbon ready to hang.</span><br></p>
+<p><strong>size:</strong> 11” L x 16” Ht.<strong><br>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5570118090905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>EO-114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5570104656025</id>
+    <published>2020-08-27T18:09:46-04:00</published>
+    <updated>2020-08-27T18:09:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-113-cardinal-stocking"/>
+    <title>EO-113 (PRE-ORDER)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-113.jpg?v=1598566079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><meta charset="utf-8">
+<strong>PRE-ORDER FOR AUGUST 2021</strong></span></p>
+<p><span>This soft yet durable stockings could be perfect for this holiday season. Feature is classic Christmas colors with a touch of modern design. </span><span>Made from felt hand stitching details and have an open top so they can be filled with treats and comes with felt ribbon ready to hang.</span><br></p>
+<p><strong>size:</strong> 11” L x 16” Ht.<strong><br>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5570104656025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>EO-113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5570094694553</id>
+    <published>2020-08-27T18:09:46-04:00</published>
+    <updated>2020-08-27T18:09:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-112-pine-tree-stocking"/>
+    <title>EO-112 (pine tree stocking)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-112.jpg?v=1598565942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This soft yet durable stockings could be perfect for this holiday season. Feature is classic Christmas colors with a touch of modern design. </span><span>Made from felt hand stitching details and have an open top so they can be filled with treats and comes with felt ribbon ready to hang.</span><br></p>
+<p><strong>size:</strong> 11” L x 16” Ht.<strong><br>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5570094694553</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>EO-112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5570080374937</id>
+    <published>2020-08-27T18:04:37-04:00</published>
+    <updated>2020-08-27T18:04:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-111-cat-stocking"/>
+    <title>EO-111 (snowy deer stocking)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-111.jpg?v=1598565789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This soft yet durable stockings could be perfect for this holiday season. Feature is classic Christmas colors with a touch of modern design. </span><span>Made from felt hand stitching details and have an open top so they can be filled with treats and comes with felt ribbon ready to hang.</span><br></p>
+<p><strong>size:</strong> 11” L x 16” Ht.<strong><br>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5570080374937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>EO-111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5570069921945</id>
+    <published>2020-08-27T18:04:37-04:00</published>
+    <updated>2020-08-27T18:04:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-110-cat-stocking"/>
+    <title>EO-110 (cat stocking)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-110.jpg?v=1598565648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This soft yet durable stockings could be perfect for this holiday season. Feature is classic Christmas colors with a touch of modern design. </span><span>Made from felt hand stitching details and have an open top so they can be filled with treats and comes with felt ribbon ready to hang.</span><br></p>
+<p><strong>size:</strong> 11” L x 16” Ht.<strong><br>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5570069921945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>EO-110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5570036400281</id>
+    <published>2020-08-27T17:59:28-04:00</published>
+    <updated>2020-08-27T17:59:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-109-dog-stocking"/>
+    <title>EO-109 (dog stocking)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-109.jpg?v=1598565319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This soft yet durable stockings could be perfect for this holiday season. Feature is classic Christmas colors with a touch of modern design. </span><span>Made from felt hand stitching details and have an open top so they can be filled with treats and comes with felt ribbon ready to hang.</span><br></p>
+<p><strong>size:</strong> 11” L x 16” Ht.<strong><br>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5570036400281</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>EO-109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569292107929</id>
+    <published>2020-08-27T16:33:18-04:00</published>
+    <updated>2020-08-27T16:33:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-107-winter-snowman-decor"/>
+    <title>EO-107 (winter snowman decor)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-107.jpg?v=1598549437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted decors could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. T<meta charset="utf-8">his simple, yet creative decors adds peace, love and harmony to your holiday atmosphere and can also be special gift on any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569292107929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>EO-107</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569292042393</id>
+    <published>2020-08-27T16:33:18-04:00</published>
+    <updated>2020-08-27T16:33:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-106-festive-snowman-decor"/>
+    <title>EO-106 (festive snowman decor)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-106.jpg?v=1598549367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted decors could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. T<meta charset="utf-8">his simple, yet creative decors adds peace, love and harmony to your holiday atmosphere and can also be special gift on any occasions.s. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569292042393</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>EO-107</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5569291944089</id>
+    <published>2020-08-27T16:33:18-04:00</published>
+    <updated>2020-08-27T16:33:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eo-104-rudolph-decor"/>
+    <title>EO-104 (rudolph decor)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EO-104.jpg?v=1598562645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted decors could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. T<meta charset="utf-8">his simple, yet creative decors adds peace, love and harmony to your holiday atmosphere and can also be special gift on any occasions.</span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5569291944089</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>EO-104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759839243</id>
+    <published>2018-02-28T12:29:38-05:00</published>
+    <updated>2018-02-28T12:29:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/santa-doll-decor"/>
+    <title>EDD-3  (santa decor)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_0107_001f5c0c-dac4-4996-a253-ef2cff3201ee.jpg?v=1583169441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted decor could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><em></em><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span><strong>size: </strong>9.45" Ht.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759839243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>EDD-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759840907</id>
+    <published>2018-02-28T12:29:32-05:00</published>
+    <updated>2018-02-28T12:29:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/santa-doll-decor-large"/>
+    <title>GD04 (santa doll)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_9842_cf1695bd-3650-4298-b368-1146050ef3c4.jpg?v=1583169432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted decor could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><em></em><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span><strong>size: </strong>22" ht.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759840907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku>GD04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759851979</id>
+    <published>2018-02-28T12:29:23-05:00</published>
+    <updated>2018-02-28T12:29:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/angel-on-branch"/>
+    <title>GD03 (fairy branch hanging)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/GD03_c90f94f7-1df3-4733-8ae9-da8e8208f138.jpg?v=1583169396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted decor could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><em></em><span></span><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span><strong>size: </strong>9" length x 5" ht.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759851979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>GD03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9760198283</id>
+    <published>2018-02-28T12:28:35-05:00</published>
+    <updated>2018-02-28T12:28:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/snowman-doll-decor"/>
+    <title>EDD-2 (snowman decor)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_9880_f31e8ce9-6bf6-42a2-9091-95f55646b834.jpg?v=1583169447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted decor could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span><strong>size: </strong>8.26" Ht.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9760198283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>EDD-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759839819</id>
+    <published>2018-02-28T12:28:35-05:00</published>
+    <updated>2018-02-28T12:28:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/elf-doll-decor"/>
+    <title>GD01 (elf doll decor)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/elf_0550c77c-8982-481c-8ece-93cde73cfff6.jpg?v=1583169435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted decor could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><em></em><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span><strong>size: </strong>22" Ht.<strong>  </strong><br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.</span></p>
+<p><span><br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759839819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku>GD01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759843659</id>
+    <published>2018-02-27T18:25:02-05:00</published>
+    <updated>2018-02-27T18:25:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/gnome-doll-decor"/>
+    <title>GD02 (gnome decor)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_9851_063972cc-32d2-446c-aa60-98fe362d9706.jpg?v=1583169427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This adorable and whimsical felted decor could grace any home through the holiday season or any season. They are made of 100% wool by needle-felting techniques. This simple, yet creative decor creates peaceful and harmonious environment to any room or can be a special gift for any occasions. </span></p>
+<p><strong>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.<br></span></p>
+<p><span><strong>size: </strong>10" Ht.<br></span></p>
+<p><span>For decoration only and not intended to be used as a toy.<br></span><span><br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759843659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>GD02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9760201675</id>
+    <published>2017-08-09T14:37:51-04:00</published>
+    <updated>2017-08-09T14:37:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/snowflakes-stocking"/>
+    <title>SS05 (snowflakes stocking)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_0191_2261e00d-6628-412c-b4c6-bdadf2d37909.jpg?v=1583169404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This soft yet durable stockings could be perfect for this holiday season. Feature is classic Christmas colors with a touch of modern design. </span><span>Made from felt hand stitching details and have an open top so they can be filled with treats and comes with felt ribbon ready to hang.</span></p>
+<p><strong>size:</strong> 11” L x 16” Ht.<strong><br>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9760201675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>SS05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759850635</id>
+    <published>2017-08-09T14:14:48-04:00</published>
+    <updated>2017-08-09T14:14:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/polka-dots-stocking"/>
+    <title>Polka Dots Stocking</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_9997_6c99cc53-c7da-4652-8dfd-5527cf68ff06.jpg?v=1583169408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This soft yet durable stockings could be perfect for this holiday season. Feature is classic Christmas colors with a touch of modern design. </span><span>Made from felt hand stitching details and have an open top so they can be filled with treats and comes with felt ribbon ready to hang.</span></p>
+<p><strong>size:</strong> 11” L x 16” Ht.<strong><br>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759850635</id>
+      <title>Red</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>SS03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759850635</id>
+      <title>Green</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>SS04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759848907</id>
+    <published>2017-08-09T14:14:37-04:00</published>
+    <updated>2017-08-09T14:14:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/red-berry-stocking"/>
+    <title>Quilted Stocking</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_0179_fccb332f-0c7f-46f5-a6e6-835e5ca65811.jpg?v=1583169417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This soft yet durable stockings could be perfect for this holiday season. Feature is classic Christmas colors with a touch of modern design. </span><span>Made from felt hand stitching details and have an open top so they can be filled with treats and comes with felt ribbon ready to hang.</span></p>
+<p><strong>size:</strong> 11” L x 16” Ht.<strong><br>composition: </strong>100% felted wool, a renewable material. <br><span><strong>care: </strong>spot-clean with damp sponge and soap, or with a textile stain remover. <br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><span><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><br><span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759848907</id>
+      <title>Red</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SS01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759848907</id>
+      <title>Blue</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SS02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321117614173</id>
+    <published>2017-07-20T13:11:25-04:00</published>
+    <updated>2017-07-20T13:11:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lcs-3-blue-green-stockings"/>
+    <title>LCS-3 (snowflakes stocking)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/stocking_2_4fc97501-020c-4ca2-abe9-5fab4e6dfdd1.jpg?v=1583169280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<div>
+<span data-mce-fragment="1">Decor your home with our hand knitted woolen Christmas stockings and put gifts and small trinkets on Christmas morning. </span>Crafted from wool, it showcases<span> </span>undeniably Nordic flair and <meta charset="utf-8">will be treasured for many years. <meta charset="utf-8">
+<span> </span><span data-mce-fragment="1">The contrasting color is beautiful and enhances the grace of your festive decoration.</span>
+</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Handmade with 100%, wool, <meta charset="utf-8">a renewable material</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">Great gift all year round</li>
+</ul>
+<p data-mce-fragment="1">SIZE:<span data-mce-fragment="1"> <meta charset="utf-8">11” L x 16” Ht.</span><br data-mce-fragment="1">CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-fragment="1" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-fragment="1" data-mce-style="color: #8d8787;"><em data-mce-fragment="1"><br data-mce-fragment="1">Please be aware that actual colors may differ slightly from<br data-mce-fragment="1">their appearance on your display, as it depends on your<br data-mce-fragment="1">monitor settings.</em></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stocking</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321117614173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>LCS-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321117188189</id>
+    <published>2017-07-20T13:11:25-04:00</published>
+    <updated>2017-07-20T13:11:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lcs-2-navy-green-stockings"/>
+    <title>LCS-2 (moose stocking)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/stocking_1_adc424fd-6f7c-4653-99df-9a6f282ab5b7.jpg?v=1583169282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<div>
+<span data-mce-fragment="1">Decor your home with our hand knitted woolen Christmas stockings and put gifts and small trinkets on Christmas morning. </span>Crafted from wool, it showcases<span> </span>undeniably Nordic flair and <meta charset="utf-8">will be treasured for many years. <meta charset="utf-8">
+<span> </span><span data-mce-fragment="1">The contrasting color is beautiful and enhances the grace of your festive decoration.</span>
+</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Handmade with 100%, wool, <meta charset="utf-8">a renewable material</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">Great gift all year round</li>
+</ul>
+<p data-mce-fragment="1">SIZE:<span data-mce-fragment="1"> <meta charset="utf-8">11” L x 16” Ht.</span><br data-mce-fragment="1">CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-fragment="1" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-fragment="1" data-mce-style="color: #8d8787;"><em data-mce-fragment="1"><br data-mce-fragment="1">Please be aware that actual colors may differ slightly from<br data-mce-fragment="1">their appearance on your display, as it depends on your<br data-mce-fragment="1">monitor settings.</em></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>stocking</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321117188189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>LCS-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321115418717</id>
+    <published>2017-07-20T13:11:25-04:00</published>
+    <updated>2017-07-20T13:11:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lcs-1-red-stockings"/>
+    <title>LCS-1 (pine tree)</title>
+    <s:type>Holiday Decors</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/stockin_3_155db7fe-9e53-4f06-841b-d13c24a2a14e.jpg?v=1583169284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Holiday Decors<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<div>
+<span data-mce-fragment="1">Decor your home with our hand knitted woolen Christmas stockings and put gifts and small trinkets on Christmas morning. </span>Crafted from wool, it showcases<span> </span>undeniably Nordic flair and <meta charset="utf-8">will be treasured for many years. <meta charset="utf-8">
+<span> </span><span data-mce-fragment="1">The contrasting color is beautiful and enhances the grace of your festive decoration.</span><br>
+</div>
+<div><br></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Handmade with 100%, wool, <meta charset="utf-8">a renewable material</li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">Great gift all year round</li>
+</ul>
+<p data-mce-fragment="1">SIZE:<span data-mce-fragment="1"> <meta charset="utf-8">11” L x 16” Ht.</span><br data-mce-fragment="1">CARE: spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. Do not iron. Do not bleach.</p>
+<p style="font-size: 14px;" data-mce-fragment="1" data-mce-style="font-size: 14px;"><span style="color: #8d8787;" data-mce-fragment="1" data-mce-style="color: #8d8787;"><em data-mce-fragment="1"><br data-mce-fragment="1">Please be aware that actual colors may differ slightly from<br data-mce-fragment="1">their appearance on your display, as it depends on your<br data-mce-fragment="1">monitor settings.</em></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321115418717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>LCS-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

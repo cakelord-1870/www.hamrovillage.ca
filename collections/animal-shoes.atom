@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/animal-shoes.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2017-08-09T14:11:21-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759792331</id>
+    <published>2017-08-09T14:11:21-04:00</published>
+    <updated>2017-08-09T14:11:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/pig-shoes"/>
+    <title>ES-3 (pig shoes)</title>
+    <s:type>Animal Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_0149_73159bf3-a848-46ef-9418-37e480a25bf5.jpg?v=1583169596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Shoes<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>All our felted seamless shoes are made using all natural products 100% wool, hot water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They very light and comfortable shoes just made for kids. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter. </span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span>.</p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759792331</id>
+      <title>BABY - 5</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759792331</id>
+      <title>BABY - 7</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759792331</id>
+      <title>CHILD - 9</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759792331</id>
+      <title>CHILD - 11</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759792331</id>
+      <title>YOUTH - 1</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759792331</id>
+      <title>YOUTH - 2</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759789131</id>
+    <published>2017-08-09T14:11:03-04:00</published>
+    <updated>2017-08-09T14:11:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/bear"/>
+    <title>ES-4 (dog shoes)</title>
+    <s:type>Animal Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_0151_9e8cc28e-1ced-4799-8f93-cbbfee45ddf9.jpg?v=1583169601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Shoes<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>All our felted seamless shoes are made using all natural products 100% wool, hot water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They very light and comfortable shoes just made for kids. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter. </span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759789131</id>
+      <title>BABY - 5</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759789131</id>
+      <title>BABY - 7</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759789131</id>
+      <title>CHILD - 9</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759789131</id>
+      <title>CHILD - 11</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759789131</id>
+      <title>YOUTH - 1</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759789131</id>
+      <title>YOUTH - 2</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759784587</id>
+    <published>2017-08-09T14:10:46-04:00</published>
+    <updated>2017-08-09T14:10:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/cow-shoes"/>
+    <title>ES-2 (donkey shoes)</title>
+    <s:type>Animal Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_0135_c47a96e1-d979-4c0a-9f67-29765a8eb4be.jpg?v=1583169608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Shoes<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>All our felted seamless shoes are made using all natural products 100% wool, hot water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They very light and comfortable shoes just made for kids. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter. </span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759784587</id>
+      <title>BABY - 5</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759784587</id>
+      <title>BABY - 7</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759784587</id>
+      <title>CHILD - 9</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759784587</id>
+      <title>CHILD - 11</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759784587</id>
+      <title>YOUTH - 1</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759784587</id>
+      <title>YOUTH - 2</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759781003</id>
+    <published>2017-08-09T14:10:18-04:00</published>
+    <updated>2017-08-09T14:10:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/raccoon-shoes"/>
+    <title>ES-1 (raccoon shoes)</title>
+    <s:type>Animal Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_0114_e4c3b24f-70ed-40be-a534-2192b97d4a69.jpg?v=1583169617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Shoes<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>All our felted seamless shoes are made using all natural products 100% wool, hot water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They very light and comfortable shoes just made for kids. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter. </span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<meta charset="utf-8">
+<p><strong>composition:</strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759781003</id>
+      <title>BABY - 5</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759781003</id>
+      <title>BABY - 7</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759781003</id>
+      <title>CHILD - 9</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759781003</id>
+      <title>CHILD - 11</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759781003</id>
+      <title>YOUTH - 1</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759781003</id>
+      <title>YOUTH - 3</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9759775051</id>
+    <published>2017-08-09T14:09:52-04:00</published>
+    <updated>2017-08-09T14:09:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/birdie-shoes"/>
+    <title>ES-5 (bird shoes)</title>
+    <s:type>Animal Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/IMG_0170_6fd0b627-b635-4939-837c-64c909c24f95.jpg?v=1583169625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Shoes<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>All our felted seamless shoes are made using all natural products 100% wool, hot water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They very light and comfortable shoes just made for kids. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter. </span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759775051</id>
+      <title>BABY - 5</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759775051</id>
+      <title>BABY - 7</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759775051</id>
+      <title>CHILD - 9</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759775051</id>
+      <title>CHILD - 11</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759775051</id>
+      <title>YOUTH - 1</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9759775051</id>
+      <title>YOUTH - 3</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>ES-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549179659</id>
+    <published>2017-07-20T13:36:25-04:00</published>
+    <updated>2017-07-20T13:36:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/felt-robinhood-shoes-fuchsia"/>
+    <title>FLS463S (robinhood shoes)</title>
+    <s:type>Animal Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/robinhood_fushcia_1_2d972c4a-7281-4ff8-b99c-b5f824b63ea3.jpg?v=1583171042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Shoes<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All our felted seamless shoes are made using all natural products ‰ÛÒ wool, hot water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They very light and comfortable shoes just made for babies. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter. <br><br>Custom orders are always welcome. We would be happy to discuss the possibility of making larger sizes or adjusting the colours for you. Please contact us with any inquiries.</p><meta charset="utf-8"><p><span><strong>composition:åÊ</strong>100% felted wool, a renewable material.åÊ<br><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.åÊ<br>Do not machine wash. Do not iron. Do not bleach.<br><strong></strong></span></p><p><span><strong>3 </strong></span><span><strong>Assorted Colours</strong></span></p><p>åÊ</p><p><span><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549179659</id>
+      <title>Fuchsia</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>FLS463S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549179659</id>
+      <title>Red</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>FLS463S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549179659</id>
+      <title>Grey</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>FLS463S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549073291</id>
+    <published>2017-07-20T13:23:28-04:00</published>
+    <updated>2017-07-20T13:23:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/cow-shoes-w-leather-sole"/>
+    <title>EFS-2 (cow shoes)</title>
+    <s:type>Animal Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/moo_4_98fa02e5-c017-404c-96cb-0a246e48a855.jpg?v=1583170357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Shoes<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>All our felted seamless shoes are made using all natural products 100% wool, hot water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They very light and comfortable shoes just made for kids. Our 100% wool felt is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter. </span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span></p>
+<p><br></p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549073291</id>
+      <title>BABY - 5</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549073291</id>
+      <title>BABY - 7</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549073291</id>
+      <title>CHILD - 9</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549073291</id>
+      <title>CHILD - 11</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549073291</id>
+      <title>YOUTH - 1</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549073291</id>
+      <title>YOUTH - 3</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549072011</id>
+    <published>2017-07-20T13:23:18-04:00</published>
+    <updated>2017-07-20T13:23:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ladybug-shoes-w-leather-sole"/>
+    <title>EFS-1 (ladybug shoes)</title>
+    <s:type>Animal Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ladybug_1_d58db88e-4238-480b-b811-ec621e825acb.jpg?v=1583170350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Shoes<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>All our felted seamless shoes are made using all natural products 100% wool, hot water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They very light and comfortable shoes just made for kids. Our wool  is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter. <br></span><br><span>Custom orders are always welcome. We would be happy to discuss the possibility of making larger sizes or adjusting the colours for you. Please contact us with any inquiries.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<meta charset="utf-8">
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span><br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549072011</id>
+      <title>BABY - 5</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549072011</id>
+      <title>BABY - 7</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549072011</id>
+      <title>CHILD - 9</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549072011</id>
+      <title>CHILD - 11</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549072011</id>
+      <title>YOUTH - 1</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549072011</id>
+      <title>YOUTH-2</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549070667</id>
+    <published>2017-07-20T13:23:07-04:00</published>
+    <updated>2017-07-20T13:23:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/sheep-shoes-w-leather-sole"/>
+    <title>EFS-4 (sheep shoes)</title>
+    <s:type>Animal Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/sheep_4_0e45b8b9-2712-41d1-a7f0-dc141480dc00.jpg?v=1583170343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Shoes<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>All our felted seamless shoes are made using all natural products 100% wool, hot water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They very light and comfortable shoes just made for kids. Our wool  is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter. <br></span><br><span>Custom orders are always welcome. We would be happy to discuss the possibility of making larger sizes or adjusting the colours for you. Please contact us with any inquiries.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span><br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549070667</id>
+      <title>BABY - 5</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549070667</id>
+      <title>BABY - 7</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549070667</id>
+      <title>CHILD - 9</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549070667</id>
+      <title>CHILD - 11</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549070667</id>
+      <title>YOUTH - 1</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549070667</id>
+      <title>YOUTH - 3</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549068619</id>
+    <published>2017-07-20T13:22:59-04:00</published>
+    <updated>2017-07-20T13:22:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/tiger-shoes-w-leather-sole"/>
+    <title>EFS-3 (tiger shoes)</title>
+    <s:type>Animal Shoes</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/tiger_1_add83dc8-6095-4e45-9153-817ded214934.jpg?v=1583170337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Animal Shoes<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>All our felted seamless shoes are made using all natural products 100% wool, hot water, soap and azo free dyes. They are simply adorable and will make a perfect unique gift all year round. They very light and comfortable shoes just made for kids. Our wool  is breathable, and provides natural insulation to keep the feet cool in summer and warm in winter. <br></span><br><span>Custom orders are always welcome. We would be happy to discuss the possibility of making larger sizes or adjusting the colours for you. Please contact us with any inquiries.</span></p>
+<ul>
+<li>Leather sole</li>
+<li>Azo free dyes</li>
+</ul>
+<p><strong>composition: </strong><span>100% felted wool, a renewable material.</span><br><span><strong>care: s</strong>pot-clean with damp sponge and soap, or with a textile stain remover.<br>Do not machine wash. Do not iron. Do not bleach.</span><br><br><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549068619</id>
+      <title>BABY - 5</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549068619</id>
+      <title>BABY - 7</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549068619</id>
+      <title>CHILD - 9</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549068619</id>
+      <title>CHILD - 11</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549068619</id>
+      <title>YOUTH - 1</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549068619</id>
+      <title>YOUTH - 3</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EFS-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

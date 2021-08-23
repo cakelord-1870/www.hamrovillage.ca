@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/cat-caves.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-10-05T12:32:09-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5767348027545</id>
+    <published>2020-10-05T12:32:09-04:00</published>
+    <updated>2020-10-05T12:32:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-24-bee-daisy-catcave"/>
+    <title>KBC-24 (bee/daisy catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-24.jpg?v=1601915480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background: white;"><meta charset="utf-8">
+<strong>PRE-ORDER FOR APRIL SHIPMENT.</strong></span></p>
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" <span> </span>Height: 18 "<span> </span>Entry hole: 7.5"<strong><br>Shipping:</strong><span> Cat cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5767348027545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KBC-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5767267254425</id>
+    <published>2020-10-05T12:11:46-04:00</published>
+    <updated>2020-10-05T12:11:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-9-pink-ombre-catcave"/>
+    <title>KBC-9 (pink ombre catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-9.jpg?v=1601915347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" Height: 18 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at caves are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><span><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5767267254425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>KBC-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5767207649433</id>
+    <published>2020-10-05T12:08:33-04:00</published>
+    <updated>2020-10-05T12:08:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-25-bee-hive-catcave"/>
+    <title>KBC-25 (bee hive catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-26.jpg?v=1601913980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22"<span> </span>Height: 18 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at caves are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5767207649433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KBC-25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4522424107101</id>
+    <published>2020-01-27T12:58:37-05:00</published>
+    <updated>2020-01-27T12:58:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-23-berries-catcave"/>
+    <title>KBC-23 (berries catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-23_d4fd4c5b-bc27-469a-9df6-978946a79aa6.png?v=1583167969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" <span> </span>Height: 12 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4522424107101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KBC-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4522419126365</id>
+    <published>2020-01-27T12:54:59-05:00</published>
+    <updated>2020-01-27T12:54:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-25-cat-catcave"/>
+    <title>KBC-26</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-25_4857ee90-fa6d-47d5-8f6f-01ea1ab57a5b.png?v=1583167971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="background: white;"><meta charset="utf-8">
+<strong>PRE-ORDER FOR APRIL SHIPMENT.</strong></span></p>
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" <span> </span>Height: 18 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at caves are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4522419126365</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KBC-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4522405036125</id>
+    <published>2020-01-27T12:37:17-05:00</published>
+    <updated>2020-01-27T12:37:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-21-cherry-catcave"/>
+    <title>KBC-21 (cherry catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-21_5d64ca0e-e6f4-412f-ae79-1550afcd6ef1.png?v=1583167973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong><strong></strong><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" Height: 11 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: </strong><span> Cat caves are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4522405036125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KBC-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4522300309597</id>
+    <published>2020-01-27T10:03:42-05:00</published>
+    <updated>2020-01-27T10:03:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-20-blue-poppy-catcave"/>
+    <title>KBC-20 (blue poppy catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-20_24570ac0-3dda-4ca3-b78e-431356943612.png?v=1583167975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" <span> </span>Height: 11 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at cave are shipped flat to contain less shipping costs.</span></p>
+<p> </p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4522300309597</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KBC-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4522295427165</id>
+    <published>2020-01-27T09:53:56-05:00</published>
+    <updated>2020-01-27T09:53:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-16-pumpkin-catcave"/>
+    <title>KBC-16 (pumpkin catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-16_eb748d1b-ae6a-4906-8d9e-73281e034cae.png?v=1583167978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" Height: 13 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4522295427165</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>KBC-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4522293592157</id>
+    <published>2020-01-27T09:49:56-05:00</published>
+    <updated>2020-01-27T09:49:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-14-catcus-catcave"/>
+    <title>KBC-14 (catcus catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-14_6ab6cdab-458a-462c-ab00-bf2890a7250f.png?v=1583167980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="background: white;"><meta charset="utf-8">
+<strong data-mce-fragment="1">PRE-ORDER FOR APRIL SHIPMENT.</strong><br><br>Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" <span> </span>Height: 15 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4522293592157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KBC-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4522290544733</id>
+    <published>2020-01-27T09:44:50-05:00</published>
+    <updated>2020-01-27T09:44:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-13-blue-fish-catcave"/>
+    <title>KBC-13 (blue fish catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-13A_b326ec92-7eba-468f-ad5f-f8cf4647dc95.png?v=1583167983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>Length: 30" <span> </span>Height: 11 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: </strong><span> Cat cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4522290544733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KBC-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4522288709725</id>
+    <published>2020-01-27T09:41:09-05:00</published>
+    <updated>2020-01-27T09:41:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-12-stump-catcave"/>
+    <title>KBC-12 (tree stump catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-12_ec3c0c52-afac-43e8-87f4-a432bcc5f448.png?v=1583167985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" <span> </span>Height: 13 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: T</strong><span>he cat cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4522288709725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KBC-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4522287956061</id>
+    <published>2020-01-27T09:39:05-05:00</published>
+    <updated>2020-01-27T09:39:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-11-natural-lotus-catcave"/>
+    <title>KBC-11 (natural lotus catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-11_d8913c6b-87ed-4c4e-af9e-ba16977962a6.png?v=1583167987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>21" <span> </span>Height: 11 "<strong><br>Shipping: C</strong><span>at caves are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4522287956061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KBC-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4522280779869</id>
+    <published>2020-01-27T09:26:11-05:00</published>
+    <updated>2020-01-27T09:26:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-9-fuchsia-ombre-catcave"/>
+    <title>KBC-10 (green lotus catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-10_9d3232bf-8e5f-445b-ad8d-5713e0d04453.png?v=1583167990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>21" <span> </span>Height: 11 "<strong><br>Shipping: C</strong><span>at caves are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4522280779869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KBC-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4522275668061</id>
+    <published>2020-01-27T09:16:36-05:00</published>
+    <updated>2020-01-27T09:16:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-8-grey-ombre-catcave"/>
+    <title>KBC-8 (grey ombre catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-8_8230a1a3-a39b-469d-b1d6-5423522e7e91.png?v=1583167993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" Height: 18 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at caves are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p><span><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4522275668061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>KBC-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005148467293</id>
+    <published>2019-02-24T13:26:20-05:00</published>
+    <updated>2019-02-24T13:26:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afcb-7-cherry-blossom-cat-cave"/>
+    <title>AFCB-7 (cherry blossom catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/Cherry_Blossom_Cat_Cave_82b9a0b5-c3f3-49b6-9087-10d92ed30c89.jpg?v=1583168493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" <span>Ø </span>Height: 11 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: T</strong><span>he cat cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005148467293</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>AFCB-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549158603</id>
+    <published>2017-07-20T13:33:30-04:00</published>
+    <updated>2017-07-20T13:33:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/red-cat-house"/>
+    <title>KBC-22 (apple catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-22_c71a7a2f-82cb-4305-a318-d6cc3bd5a2de.png?v=1583170862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span>Each design is as unique as your cat. </span></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" Height: 13 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at caves are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549158603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>KBC-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549158219</id>
+    <published>2017-07-20T13:33:27-04:00</published>
+    <updated>2017-07-20T13:33:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/cat-house-blue"/>
+    <title>FCH-3 (blue ocean catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/leaf_66a622cc-ac15-499c-89b2-f0451e7c253b.jpg?v=1583170860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>21" <span> </span>Height: 11 "<span> </span>Entry hole: 7.5"<strong><br>Shipping:  C</strong><span>at caves are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549158219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>FCH-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1505089912925</id>
+    <published>2017-07-20T13:33:22-04:00</published>
+    <updated>2017-07-20T13:33:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-7-big-leaf-cat-cave"/>
+    <title>KBC-7 (big leaf catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/leaf_cat_cave_1_d677d482-f2ab-4d9c-ae20-a0710955f8a3.jpg?v=1583168744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>25" <span>Ø </span>Height: 11 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: T</strong><span>he cat cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<ul></ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1505089912925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>KBC-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319136886877</id>
+    <published>2017-07-20T13:33:22-04:00</published>
+    <updated>2017-07-20T13:33:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/kbc-5-stone-poppies"/>
+    <title>KBC-5 (stone poppies)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/poppy_e135fa7d-521a-4633-91aa-b5a8892f0b41.jpg?v=1601913882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" <span> </span>Height: 11 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319136886877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>KBC-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319136624733</id>
+    <published>2017-07-20T13:33:22-04:00</published>
+    <updated>2017-07-20T13:33:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afcb-4-kitty-pink"/>
+    <title>KBC-15A (kitty pink catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/kitty_pink_d348ef44-6ab7-460a-994e-e872e27bf48d.jpg?v=1583169109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="background: white;"><meta charset="utf-8">
+<strong data-mce-fragment="1">PRE-ORDER FOR APRIL SHIPMENT.</strong><br><br>Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" <span> </span>Height: 18 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: </strong><span> Cat cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319136624733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>KBC-15A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319136526429</id>
+    <published>2017-07-20T13:33:22-04:00</published>
+    <updated>2017-07-20T13:33:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afcb-3-kitty-grey"/>
+    <title>KBC-15B (kitty grey catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/kitty_grey_3cd5473c-d474-42fb-9b59-7d05788d6146.jpg?v=1583169111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background: white;"><meta charset="utf-8">
+<strong data-mce-fragment="1">PRE-ORDER FOR APRIL SHIPMENT.</strong><br><br>Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<div>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22" Height: 18 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319136526429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>KBC-15B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319136198749</id>
+    <published>2017-07-20T13:33:22-04:00</published>
+    <updated>2017-07-20T13:33:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afcb-1-terra-cat-bed"/>
+    <title>KBC-1 (terra catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-17_8ca22cf8-ae24-420c-acf7-c32c47f4c944.png?v=1583169114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22"<span> </span>Height: 11 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: </strong><span> Cat cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319136198749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KBC-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1319136067677</id>
+    <published>2017-07-20T13:33:22-04:00</published>
+    <updated>2017-07-20T13:33:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/afcb-2-nova-cat-bed"/>
+    <title>KBC-18 (nova catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBC-18_18bea7ae-951f-4fad-ae0f-e6420f25fbe6.png?v=1583169118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22"<span> </span>Height: 11 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: </strong><span> Cat cave are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1319136067677</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KBC-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549157579</id>
+    <published>2017-07-20T13:33:22-04:00</published>
+    <updated>2017-07-20T13:33:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/copy-of-cat-house-yellow"/>
+    <title>FCH-1 (garlic catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/FCH-1.jpg?v=1601915701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>20" <span> </span>Height: 25 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: T</strong><span>he cat caves are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549157579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>FCH-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9548980107</id>
+    <published>2017-07-20T13:12:32-04:00</published>
+    <updated>2017-07-20T13:12:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/cat-cave-w-flowers-vines"/>
+    <title>MCC1 (wild fish catcave)</title>
+    <s:type>Cat Caves</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/jungle_f4acfd6b-98d7-4719-8242-3c6d894c1ea7.jpg?v=1583169899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Cat Caves<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="background: white;">Our Cat Cave Bed are handcrafted with high-quality wool using wet felting process. </span><span style="background: white;">Each design is as unique as your cat.</span><br></p>
+<ul>
+<li>Perfect for cats to play, sleep and live inside.</li>
+<li>Bed is strong, persistent and super cozy.</li>
+<li>Provides maximum warmth and comfort.</li>
+<li>Cats are naturally attracted by the wool because of the lanolin smell.</li>
+<li>Wool fiber is naturally odor-resistant.</li>
+</ul>
+<p><span><strong>WASHING ISTRUCTION:</strong><br></span><strong>Light cleaning: </strong>Vacuum clean to remove hair and dust.<br><span lang="en-US"><strong>Stuck-on dirt: </strong></span><span lang="en-CA">Spot clean with a soft cloth or sponge, a mild detergent and warm water.<br></span><span lang="en-US"><strong>Full wash: </strong>Gentle h</span><span lang="en-CA">and wash in warm water using mild detergen</span><span lang="en-US">t</span><span lang="en-CA">. </span>Reshape while damp, and let it dry on a hand towel.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material.<br><span><b>dimension: </b></span>22"<span> </span>Height: 13 "<span> </span>Entry hole: 7.5"<strong><br>Shipping: C</strong><span>at caves are shipped flat to contain less shipping costs.</span></p>
+<p><span><br><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9548980107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>MCC1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

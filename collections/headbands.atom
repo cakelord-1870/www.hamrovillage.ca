@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/headbands.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2017-07-20T13:18:58-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321203957853</id>
+    <published>2017-07-20T13:18:58-04:00</published>
+    <updated>2017-07-20T13:18:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lkwh-2-sherpa-headband"/>
+    <title>LKWH-2 (sherpa headband)</title>
+    <s:type>Headbands</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKWH-2_b231163c-7615-4596-ac59-bef04b8d3e88.jpg?v=1583169320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Headbands<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><b></b> <meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<b>COMES IN 4 COLORS (PACK OF 4)</b><br>
+<div>The perfect winter headbands for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest headbands with an undeniably Nordic flair.  This headband is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage. <br></span><strong><span><br></span></strong>
+</div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Fleece Lining.<br>
+</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321203957853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>LKWH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321187082333</id>
+    <published>2017-07-20T13:18:58-04:00</published>
+    <updated>2017-07-20T13:18:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lki-3-ivy-headband"/>
+    <title>LKI-3 (ivy headband)</title>
+    <s:type>Headbands</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKI-3_d25d836f-4274-4d6a-8f1c-eae94a14bd35.jpg?v=1583169322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Headbands<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter headbands for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest headbands with an undeniably Nordic flair.  These headbands are the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage. </span><span><br></span>
+</div>
+<div>
+<div class="sk_new_pdp_details_hdr"><br></div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Fleece Lining.<br>
+</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321187082333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>LKI-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321186361437</id>
+    <published>2017-07-20T13:18:58-04:00</published>
+    <updated>2017-07-20T13:18:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lke-3-ember-headband"/>
+    <title>LKE-3 (ember headband)</title>
+    <s:type>Headbands</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKE-3_c34421ae-3328-4088-b2c3-7601960c05ab.jpg?v=1583169325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Headbands<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter headbands for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest headbands with an undeniably Nordic flair.  This headband is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage. <br></span><strong><span><br></span></strong>
+</div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Fleece Lining.<br>
+</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321186361437</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>LKE-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1321184886877</id>
+    <published>2017-07-20T13:18:58-04:00</published>
+    <updated>2017-07-20T13:18:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/lka-4-aspen-headbands"/>
+    <title>LKA-4 (aspen headband)</title>
+    <s:type>Headbands</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/LKA-4_41cda410-df83-417f-8609-d4c4c8efd4df.jpg?v=1583169328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Headbands<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter headbands for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest headbands with an undeniably Nordic flair.  These headbands are the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage. </span>
+</div>
+<div>
+<strong><span><br></span></strong><span><strong>SET OF 6 COLOURS:</strong> Light Grey/Red/Black/Olive/Blue/Green</span>
+</div>
+<div><span> </span></div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Fleece Lining.<br>
+</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1321184886877</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>LKA-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549034699</id>
+    <published>2017-07-20T13:18:58-04:00</published>
+    <updated>2017-07-20T13:18:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/flower-vine-headbands"/>
+    <title>KHB-1 (nordic headbands)</title>
+    <s:type>Headbands</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KHB-1_500fbc9e-41dc-4b67-95bc-7a7479b04756.jpg?v=1583170123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Headbands<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div><b>COMES IN 5 COLORS (PACK OF 5)<br></b></div>
+<div>
+<div>The perfect winter headbands for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest headbands with an undeniably Nordic flair.  These headbands are the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage. <br></span><strong><span><br></span></strong>
+</div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Fleece Lining<br>
+</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+</div>
+<br>
+</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549034699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>KHB-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549034315</id>
+    <published>2017-07-20T13:18:53-04:00</published>
+    <updated>2017-07-20T13:18:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/braided-headbands"/>
+    <title>KHB-2 (braided headbands)</title>
+    <s:type>Headbands</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KHB-2_31611e25-f601-493b-b395-ce5ed534b012.jpg?v=1583170121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Headbands<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div><b>PRE-ORDER FOR MARCH 2021 SHIPMENT</b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div><b>COMES IN 5 COLORS (PACK OF 5)<br></b></div>
+<div>
+<div>The perfect winter headbands for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest headbands with an undeniably Nordic flair.  These headbands are the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage. <br></span><strong><span><br></span></strong>
+</div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Fleece Lining.<br>
+</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+</div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-10</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549034315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>KHB-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

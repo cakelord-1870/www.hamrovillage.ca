@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/baskets.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2021-05-26T13:06:38-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6800980967577</id>
+    <published>2021-05-26T13:06:38-04:00</published>
+    <updated>2021-05-26T13:06:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ab-5-set-of-6"/>
+    <title>AB-6 (Set of 6)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AB-6.jpg?v=1622049301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Our colorful felted bowls are perfect for storing jewelry, stationary items such as paperclips, elastic bands, tapes and more. It is functional and the colours will add happiness wherever you place it.<span> </span>We have played with beautiful contrasting colours to complete the set.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Handmade with 100% wool </li>
+<li data-mce-fragment="1">Handcrafted by artisans in Nepal</li>
+<li data-mce-fragment="1">Great gift all year round</li>
+</ul>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>vacuum or brush. Spot-clean with damp sponge and soap,<span> </span><br>or with a textile stain remover. Do not machine wash. <br><b><br>dimension: </b><span data-mce-fragment="1">ø </span>8" x 3.25"</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6800980967577</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>AB-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6755732979865</id>
+    <published>2021-05-08T17:38:47-04:00</published>
+    <updated>2021-05-08T17:38:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/aph-1-multi-purpose-basket"/>
+    <title>APH-1 (multi purpose basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/APH-1_a40c4c8f-b2f4-49b3-9152-01f5191fb34e.jpg?v=1620511186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Offering functional and organic basket with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives. Great to storage pens, accessories or simply decor your <meta charset="utf-8">succulent plants,</span><span> possibilities for storage and organizing anything.</span><span> It will add a lovely and touch to your desk or table. </span></p>
+<div>
+<ul>
+<li>100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p>SIZE:<span>  4"ht. x 4.5 cir</span><br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash.</p>
+</div>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6755732979865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6755591159961</id>
+    <published>2021-05-08T17:04:30-04:00</published>
+    <updated>2021-05-08T17:04:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ab-5-multi-color-ball-basket"/>
+    <title>AB-5 (multi color ball basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AB-5.jpg?v=1620511064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Offering functional and organic baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives. Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on </span><span>as its infinite possibilities for storage and organizing anything.</span><span> It will add a lovely and organic feel to whichever room you place it.</span></p>
+<div>
+<ul>
+<li>100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p>SIZE:<span>  <meta charset="utf-8">15.75" cir</span><br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash.</p>
+</div>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6755591159961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6755532767385</id>
+    <published>2021-05-08T16:50:31-04:00</published>
+    <updated>2021-05-08T16:50:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ab-4-air-basket"/>
+    <title>AB-4 (air basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AB-4.jpg?v=1620507051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><strong></strong></span><span>Offering functional and organic storage baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives.<br></span></p>
+<p>Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on <span>as its infinite possibilities for storage and organizing anything.</span> It will add a lovely and organic feel to whichever room you place it.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>vacuum or brush. Spot-clean with damp sponge and soap,<span> </span><br>or with a textile stain remover. Do not machine wash. <br><b><br>dimension: </b>28 x 13.5 cm</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6755532767385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>AB-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/6755521888409</id>
+    <published>2021-05-08T16:47:40-04:00</published>
+    <updated>2021-05-08T16:47:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ab-3-air-basket"/>
+    <title>AB-3 (air basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/AB-3.jpg?v=1620506958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><strong></strong></span><span>Offering functional and organic storage baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives.<br></span></p>
+<p>Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on <span>as its infinite possibilities for storage and organizing anything.</span> It will add a lovely and organic feel to whichever room you place it.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>vacuum or brush. Spot-clean with damp sponge and soap,<span> </span><br>or with a textile stain remover. Do not machine wash. <br><b><br>dimension: </b>28 x 13.5 cm</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/6755521888409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>AB-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/2005119959133</id>
+    <published>2021-03-04T14:32:06-05:00</published>
+    <updated>2021-03-04T14:32:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/abb-nesting-baskets-black-grey"/>
+    <title>(ABB) Nesting Baskets</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/basket-set-black_01efe776-ca87-4907-97ca-ba5bac62f6ea.jpg?v=1583168613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Offering functional and organic storage nesting baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives.<br></span></p>
+<p>Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on <span>as its infinite possibilities for storage and organizing anything.</span> The two handles make the storage basket easy to move when needed. It will add a lovely and organic feel to whichever room you place it.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>vacuum or brush. Spot-clean with damp sponge and soap,<span> </span><br>or with a textile stain remover. Do not machine wash. <br><b><br>dimension:</b> <br>large: 16” height x 15” diameter<span> </span><br>medium: 12” height x 10” diameter<span> </span><br>small: 9” height x 7” diameter</p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/2005119959133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.00</s:price>
+      <s:sku>ABB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4530061967453</id>
+    <published>2020-02-02T19:32:58-05:00</published>
+    <updated>2020-02-02T19:32:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebm-1-sunrise-basket"/>
+    <title>Sunrise Basket</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBM-1_678fcb74-8633-40bd-adbb-c1a0de4e4a46.png?v=1583167453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Offering functional and organic storage nesting baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives. Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on </span><span>as its infinite possibilities for storage and organizing anything.</span><span> It will add a lovely and organic feel to whichever room you place it.</span></p>
+<div>
+<ul>
+<li>100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p>SIZE:<span>  33 cm x 28 cm ht. </span><br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash.</p>
+</div>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4530061967453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>EBB-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4530061049949</id>
+    <published>2020-02-02T19:30:03-05:00</published>
+    <updated>2020-02-02T19:30:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebb-1-sunset-basket"/>
+    <title>Sunset Basket</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBB-1a_e249e94a-255c-4673-a9f0-8650de3a75a0.png?v=1583167459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Offering functional and organic storage nesting baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives. Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on </span><span>as its infinite possibilities for storage and organizing anything.</span><span> It will add a lovely and organic feel to whichever room you place it.</span></p>
+<div>
+<ul>
+<li>100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p>SIZE:<span>  33 cm x 28 cm ht. </span><br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash.</p>
+</div>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4530061049949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>EBB-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4530060034141</id>
+    <published>2020-02-02T19:26:06-05:00</published>
+    <updated>2020-02-02T19:26:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ebg-1-dusk-basket"/>
+    <title>Moonlight Basket</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EBG-1_19ac91b6-ee6d-4b77-8abe-5b22622fd745.png?v=1583167464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Offering functional and organic storage nesting baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives. Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on </span><span>as its infinite possibilities for storage and organizing anything.</span><span> It will add a lovely and organic feel to whichever room you place it.</span></p>
+<div>
+<ul>
+<li>100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p>SIZE:<span>  33 cm x 28 cm ht. </span><br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash.</p>
+</div>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4530060034141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>EBG-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527928377437</id>
+    <published>2020-01-31T12:20:40-05:00</published>
+    <updated>2020-01-31T12:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ejb-4-purple-nesting-bowl"/>
+    <title>Purple Nesting Bowls</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EJB-4_73468344-52bf-4d29-a4f7-92e227b3aba4.png?v=1583167466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Our felted colourful nesting bowls are perfect for storing jewelry, stationary items such as paperclips, elastic bands, tapes and more. It is functional and the colours will add happiness wherever you place it.<span> </span>We have played with beautiful contrasting colours to complete the set.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Handmade with 100% wool </li>
+<li data-mce-fragment="1">Handcrafted by artisans in Nepal</li>
+<li data-mce-fragment="1">Great gift all year round</li>
+</ul>
+<p><strong>SIZE:</strong> Large: <span class="s1" data-mce-fragment="1">ø </span>9 cm x ht. 7 cm | Medium: <span class="s1" data-mce-fragment="1">ø </span>8 cm x ht. 6 cm | Small: <span class="s1" data-mce-fragment="1">ø </span>7 cm x ht. 4.5 cm<br><span><strong>CARE: </strong>S</span><span>pot clean with damp sponge and soap, or with a textile stain remover. Hand wash and air dry. Do not machine wash. </span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527928377437</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>EJB-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527913533533</id>
+    <published>2020-01-31T12:01:56-05:00</published>
+    <updated>2020-01-31T12:01:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ejb-3-blue-nesting-bowl"/>
+    <title>Blue Nesting Bowls</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EJB-3_31ce8f30-2a03-437c-bf57-dd0233b6d519.png?v=1583167468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Our felted colourful nesting bowls are perfect for storing jewelry, stationary items such as paperclips, elastic bands, tapes and more. It is functional and the colours will add happiness wherever you place it.<span> </span>We have played with beautiful contrasting colours to complete the set.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Handmade with 100% wool </li>
+<li data-mce-fragment="1">Handcrafted by artisans in Nepal</li>
+<li data-mce-fragment="1">Great gift all year round</li>
+</ul>
+<p><strong>SIZE:</strong> Large: <span class="s1" data-mce-fragment="1">ø </span>9 cm x ht. 7 cm | Medium: <span class="s1" data-mce-fragment="1">ø </span>8 cm x ht. 6 cm | Small: <span class="s1" data-mce-fragment="1">ø </span>7 cm x ht. 4.5 cm<br><span><strong>CARE: </strong>S</span><span>pot clean with damp sponge and soap, or with a textile stain remover. Hand wash and air dry. Do not machine wash. </span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527913533533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>EJB-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527911010397</id>
+    <published>2020-01-31T11:58:15-05:00</published>
+    <updated>2020-01-31T11:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ejb-2-green-nesting-bowl"/>
+    <title>Green Nesting Bowls</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EJB-2_46183305-4f4e-46f9-9c1e-98235a5a086a.png?v=1583167471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Our felted colourful nesting bowls are perfect for storing jewelry, stationary items such as paperclips, elastic bands, tapes and more. It is functional and the colours will add happiness wherever you place it.<span> </span>We have played with beautiful contrasting colours to complete the set.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Handmade with 100% wool </li>
+<li data-mce-fragment="1">Handcrafted by artisans in Nepal</li>
+<li data-mce-fragment="1">Great gift all year round</li>
+</ul>
+<p><strong>SIZE:</strong> Large: <span class="s1" data-mce-fragment="1">ø </span>9 cm x ht. 7 cm | Medium: <span class="s1" data-mce-fragment="1">ø </span>8 cm x ht. 6 cm | Small: <span class="s1" data-mce-fragment="1">ø </span>7 cm x ht. 4.5 cm<br><span><strong>CARE: </strong>S</span><span>pot clean with damp sponge and soap, or with a textile stain remover. Hand wash and air dry. Do not machine wash. </span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527911010397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>EJB-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527905570909</id>
+    <published>2020-01-31T11:49:29-05:00</published>
+    <updated>2020-01-31T11:49:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ejb-1-nesting-bowls"/>
+    <title>EJB-1 (PRE-ORDER)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EJB-1_7956d027-d3d5-4a59-9855-33889ce68d10.png?v=1583167475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>PRE-ORDER FOR MID SEPT/2021</span></p>
+<p>Our felted colourful nesting bowls are perfect for storing jewelry, stationary items such as paperclips, elastic bands, tapes and more. It is functional and the colours will add happiness wherever you place it.<span> </span>We have played with beautiful contrasting colours to complete the set.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Handmade with 100% wool </li>
+<li data-mce-fragment="1">Handcrafted by artisans in Nepal</li>
+<li data-mce-fragment="1">Great gift all year round</li>
+</ul>
+<p><strong>SIZE:</strong> Large: <span class="s1" data-mce-fragment="1">ø </span>9 cm x ht. 7 cm | Medium: <span class="s1" data-mce-fragment="1">ø </span>8 cm x ht. 6 cm | Small: <span class="s1" data-mce-fragment="1">ø </span>7 cm x ht. 4.5 cm<br><span><strong>CARE: </strong>S</span><span>pot clean with damp sponge and soap, or with a textile stain remover. Hand wash and air dry. Do not machine wash. </span></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<meta charset="utf-8">
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-4</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527905570909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>EJB-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527894888541</id>
+    <published>2020-01-31T11:38:08-05:00</published>
+    <updated>2020-01-31T11:38:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekb-4-panda-basket"/>
+    <title>EKB-4 (panda basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKB-4_7834da85-e2ba-4ce4-81f7-492a8b6061fd.png?v=1583167479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div>Offering functional and organic storage baskets crafted with 100% pure wool. Our adorable felted animal basket is made by skilled artisans, making them more special than cheaper alternatives. Great for storing toys, books, magazines, knit &amp; yarn or simply use as a planter and so on as its infinite possibilities for decorating, storing and organizing anything. <br>
+</div>
+<div>
+<ul>
+<li>
+<meta charset="utf-8">100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p><meta charset="utf-8">SIZE:<span> </span>Ø 31 cm x 27 cm ht.<br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. </p>
+</div>
+<p><br><strong></strong></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527894888541</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>EKB-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527894233181</id>
+    <published>2020-01-31T11:37:04-05:00</published>
+    <updated>2020-01-31T11:37:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekr-3-puppy-basket"/>
+    <title>EKB-3 (puppy basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKB-3_a2d6a7d9-6d2d-41e2-b3f2-ce58db65db2b.png?v=1583167483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div>Offering functional and organic storage baskets crafted with 100% pure wool. Our adorable felted animal basket is made by skilled artisans, making them more special than cheaper alternatives. Great for storing toys, books, magazines, knit &amp; yarn or simply use as a planter and so on as its infinite possibilities for decorating, storing and organizing anything. <br>
+</div>
+<div>
+<ul>
+<li>
+<meta charset="utf-8">100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p><meta charset="utf-8">SIZE:<span> </span>Ø 31 cm x 27 cm ht.<br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. </p>
+</div>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527894233181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>EKB-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527893479517</id>
+    <published>2020-01-31T11:36:02-05:00</published>
+    <updated>2020-01-31T11:36:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekr-2-bunny-basket"/>
+    <title>EKB-2 (bunny basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKB-2_224404c8-6b65-4aeb-a597-089078892e0d.png?v=1583167486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div>Offering functional and organic storage baskets crafted with 100% pure wool. Our adorable felted animal basket is made by skilled artisans, making them more special than cheaper alternatives. Great for storing toys, books, magazines, knit &amp; yarn or simply use as a planter and so on as its infinite possibilities for decorating, storing and organizing anything. <br>
+</div>
+<div>
+<ul>
+<li>
+<meta charset="utf-8">100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p><meta charset="utf-8">SIZE:<span> </span>Ø 31 cm x 27 cm ht.<br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. </p>
+</div>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527893479517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>EKB-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527889940573</id>
+    <published>2020-01-31T11:30:35-05:00</published>
+    <updated>2020-01-31T11:30:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ekb-1-bunny-basket"/>
+    <title>EKB-1 (bear basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EKB-1_08b1df14-d5a5-42a1-adbf-ae0cf89227a9.png?v=1583167488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div>Offering functional and organic storage baskets crafted with 100% pure wool. Our adorable felted animal basket is made by skilled artisans, making them more special than cheaper alternatives. Great for storing toys, books, magazines, knit &amp; yarn or simply use as a planter and so on as its infinite possibilities for decorating, storing and organizing anything. <br>
+</div>
+<div>
+<ul>
+<li>
+<meta charset="utf-8">100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p><meta charset="utf-8">SIZE:<span> </span>Ø 31 cm x 27 cm ht.<br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. </p>
+</div>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527889940573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>EKB-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527162097757</id>
+    <published>2020-01-30T19:49:41-05:00</published>
+    <updated>2020-01-30T19:49:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/enb-12-felt-basket"/>
+    <title>ENB-6 (felt basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ENB-2C_532eebb0-53eb-42d6-914b-7a350171bfd9.png?v=1583167489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><strong></strong></span><span>Offering functional and organic storage nesting baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives.<br></span></p>
+<p>Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on <span>as its infinite possibilities for storage and organizing anything.</span> It will add a lovely and organic feel to whichever room you place it.</p>
+<p><span><strong>composition: </strong></span>100% felted wool, a renewable material. <br><span><strong>care: </strong></span>vacuum or brush. Spot-clean with damp sponge and soap,<span> </span><br>or with a textile stain remover. Do not machine wash. <br><b><br>dimension: </b>9” height x 7” diameter</p>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527162097757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>ENB-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527159672925</id>
+    <published>2020-01-30T19:44:31-05:00</published>
+    <updated>2020-01-30T19:44:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/enb-8-felt-basket"/>
+    <title>ENB-5 (felt basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ENB-2Ba_36f27633-1a6b-4b2c-8008-830eb15878d9.png?v=1583167491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Offering functional and organic storage nesting baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives. Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on </span><span>as its infinite possibilities for storage and organizing anything.</span><span> It will add a lovely and organic feel to whichever room you place it.</span></p>
+<div>
+<ul>
+<li>100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+</div>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527159672925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>ENB-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527156822109</id>
+    <published>2020-01-30T19:41:26-05:00</published>
+    <updated>2020-01-30T19:41:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/enb-7-felt-basket"/>
+    <title>ENB-4 (felt basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ENB-2A_96d1a938-a67c-4530-977b-27af6534a61b.png?v=1583167494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Offering functional and organic storage nesting baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives. Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on </span><span>as its infinite possibilities for storage and organizing anything.</span><span> It will add a lovely and organic feel to whichever room you place it.</span></p>
+<div>
+<ul>
+<li>100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p>SIZE:<span>  31 cm x 27 cm ht.</span><br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. </p>
+</div>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527156822109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ENB-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527145615453</id>
+    <published>2020-01-30T19:30:52-05:00</published>
+    <updated>2020-01-30T19:30:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/enb-6-felt-basket"/>
+    <title>ENB-12 (felt basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ENB-4C_6fee543c-ab3d-4013-8644-0a9595d18e99.png?v=1583167502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Offering functional and organic storage nesting baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives. </span>Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on <span>as its infinite possibilities for storage and organizing anything.</span> It will add a lovely and organic feel to whichever room you place it.</p>
+<div>
+<ul>
+<li>100% pure wool, a renewable material</li>
+<li>Design in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p>SIZE:<span> 7”  x 9” ht.</span><br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. </p>
+</div>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527145615453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>ENB-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527143092317</id>
+    <published>2020-01-30T19:27:07-05:00</published>
+    <updated>2020-01-30T19:27:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/enb-5-felt-basket"/>
+    <title>ENB-11 (felt basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ENB-4B_04c461ad-da20-4e6c-a9ac-fadc6cfcc57d.png?v=1583167506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>Offering functional and organic storage nesting baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives. Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on as its infinite possibilities for storage and organizing anything. It will add a lovely and organic feel to whichever room you place it.</span><br></p>
+<div data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">100% pure wool, a renewable material</li>
+<li data-mce-fragment="1">Designed in Canada. Handmade in Nepal</li>
+<li data-mce-fragment="1">Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p data-mce-fragment="1">SIZE:<span data-mce-fragment="1"> 10” x 12” ht.</span><br data-mce-fragment="1">CARE: Spot-clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. </p>
+</div>
+<p> <br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527143092317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>ENB-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527139913821</id>
+    <published>2020-01-30T19:22:40-05:00</published>
+    <updated>2020-01-30T19:22:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/enb-4-felt-basket"/>
+    <title>ENB-10 (felt basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ENB-4A_d6817ac1-0a7b-4115-b485-c832d0d189cc.png?v=1583167512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>Offering functional and organic storage baskets crafted with 100% pure wool. Our three-toned felted baskets are made by skilled artisans, making them more special than cheaper alternatives. Great for storing toys, books, magazines, knit yarn or simply use as a planter and so on as its infinite possibilities for storage and organizing anything. The two handles make the storage basket easy to move when needed. It will add a lovely and organic feel to whichever room you place it.</span><br><br></p>
+<ul>
+<li>100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p><span>SIZE: 31 cm x ht. 27 cm</span><br><span>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. </span><br></p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527139913821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>ENB-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527135719517</id>
+    <published>2020-01-30T19:16:14-05:00</published>
+    <updated>2020-01-30T19:16:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/enb-3-felt-basket"/>
+    <title>ENB-3 (felt basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ENB-1C_68e2db16-9c9d-4204-bd8d-38923dc89e89.png?v=1583167513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Offering functional and organic storage nesting baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives. Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on </span><span>as its infinite possibilities for storage and organizing anything.</span><span> It will add a lovely and organic feel to whichever room you place it.</span></p>
+<div>
+<ul>
+<li>100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p>SIZE:<span>  7" x 9" ht.</span><br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. </p>
+</div>
+<p><br></p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527135719517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>ENB-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/4527134834781</id>
+    <published>2020-01-30T19:14:29-05:00</published>
+    <updated>2020-01-30T19:14:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/enb-2-felt-basket"/>
+    <title>ENB-2 (felt basket)</title>
+    <s:type>Baskets</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ENB-1Ba_9d4403ef-4bd6-47a7-acce-b835fe3d1ebb.png?v=1583167515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Baskets<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Offering functional and organic storage nesting baskets with contemporary flare. All of Hamro range are made by skilled artisans, making them more special than cheaper alternatives. Great to storage toys, books, magazines, pet toys, knit &amp; yarn storage vegetables or simply make a planter and so on as its infinite possibilities for storage and organizing anything.It will add a lovely and organic feel to whichever room you place it.<br><br>
+<ul>
+<li>100% pure wool, a renewable material</li>
+<li>Designed in Canada. Handmade in Nepal</li>
+<li>Due to the basket being handcrafted, size and shape may vary</li>
+</ul>
+<p>SIZE:<span> 10” x 12” ht.</span><br>CARE: Spot clean with damp sponge and soap, or with a textile stain remover. Do not machine wash. </p>
+<p><br></p>
+<p> </p>
+<p><span><em>Please be aware that actual colours may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span></p>
+<h3><strong></strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/4527134834781</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>ENB-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

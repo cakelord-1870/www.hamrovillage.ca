@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/sweaters.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2017-07-20T13:17:30-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549024011</id>
+    <published>2017-07-20T13:17:30-04:00</published>
+    <updated>2017-07-20T13:17:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/avery-sweater"/>
+    <title>KSW-4 (natural flower hood sweater)</title>
+    <s:type>Sweaters</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KSW-4_8b4239eb-1e96-44ea-afcc-62b1ae960443.jpg?v=1583170077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Sweaters<br>
+        <strong>Price: </strong>
+            80.00 - 100.00
+            <a href="https://www.hamrovillage.ca/products/avery-sweater">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>
+<span>Our knitwear features hand embroidery and are c</span>omfortable, warm and is perfect for cold winter days.</div>
+<ul class="pad-l2">
+<li class="line-height-15">100%<span> </span><span>New Zealand </span>Wool</li>
+<li class="line-height-15">Micro fleece lining</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p><span><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, </em></span><span><em>as it depends on your monitor settings.</em></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549024011</id>
+      <title>S-M</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>KSW-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549024011</id>
+      <title>M-L</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>KSW-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549024011</id>
+      <title>L-XL</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>KSW-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549022475</id>
+    <published>2017-07-20T13:17:17-04:00</published>
+    <updated>2017-07-20T13:17:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/surei-hooded-sweater"/>
+    <title>KSW-2 (grey flower hood sweater)</title>
+    <s:type>Sweaters</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/ksw-5_566fdd63-11a0-4121-813c-4203c7d2b6be.jpg?v=1583170071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Sweaters<br>
+        <strong>Price: </strong>
+            80.00 - 100.00
+            <a href="https://www.hamrovillage.ca/products/surei-hooded-sweater">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>
+<span>Our knitwear features hand embroidery and are c</span>omfortable, warm and is perfect for cold winter days.</div>
+<ul class="pad-l2">
+<li class="line-height-15">100%<span> </span><span>New Zealand </span>Wool</li>
+<li class="line-height-15">Micro fleece lining</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p><span><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, </em></span><span><em>as it depends on your monitor settings.</em></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549022475</id>
+      <title>S-M</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>KSW-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549022475</id>
+      <title>M-L</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>KSW-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549022475</id>
+      <title>L-XL</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>KSW-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/1562400161885</id>
+    <published>2017-07-20T13:17:03-04:00</published>
+    <updated>2017-07-20T13:17:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ksw-1-peru-sweater"/>
+    <title>KSW-1 (peru sweater)</title>
+    <s:type>Sweaters</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/peru_sweater_7a951249-0a00-4770-92a5-0867452f6294.jpg?v=1583168637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Sweaters<br>
+        <strong>Price: </strong>
+            80.00 - 100.00
+            <a href="https://www.hamrovillage.ca/products/ksw-1-peru-sweater">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>
+<span>Our knitwear features hand embroidery and are c</span>omfortable, warm and is perfect for cold winter days.</div>
+<ul class="pad-l2">
+<li class="line-height-15">100%<span> </span><span>New Zealand </span>Wool</li>
+<li class="line-height-15">Micro fleece lining</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p><span><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, </em></span><span><em>as it depends on your monitor settings.</em></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1562400161885</id>
+      <title>S-M</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>KSW-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1562400161885</id>
+      <title>M-L</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>KSW-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/1562400161885</id>
+      <title>L-XL</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>KSW-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549021067</id>
+    <published>2017-07-20T13:17:03-04:00</published>
+    <updated>2017-07-20T13:17:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/rose-sweater"/>
+    <title>KSW-3 (rose sweater)</title>
+    <s:type>Sweaters</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KSW-3_9c7d7f38-02e7-4964-8258-d914c89aea1b.jpg?v=1583170062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Sweaters<br>
+        <strong>Price: </strong>
+            80.00 - 110.00
+            <a href="https://www.hamrovillage.ca/products/rose-sweater">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div>
+<span>Our knitwear features hand embroidery and are c</span>omfortable, warm and is perfect for cold winter days.</div>
+<ul class="pad-l2">
+<li class="line-height-15">100%<span> </span><span>New Zealand </span>Wool</li>
+<li class="line-height-15">Micro fleece lining</li>
+<li class="line-height-15"><span>Swiss Azo free dyes</span></li>
+<li class="line-height-15">One size fits all</li>
+</ul>
+<p><strong>care:</strong><span> Hand wash separately in cold water. Lay flat to dry or tumble dry on low heat</span></p>
+<p><span><em><br>Please be aware that actual colors may differ slightly from their appearance on your display, </em></span><span><em>as it depends on your monitor settings.</em></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549021067</id>
+      <title>S-M</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>KSW-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549021067</id>
+      <title>M-L</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>KSW-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549021067</id>
+      <title>L-XL</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>KSW-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

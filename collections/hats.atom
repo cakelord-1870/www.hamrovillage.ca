@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hamrovillage.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hamrovillage.ca/collections/hats.atom"/>
+  <title>Hamro Village Inc.</title>
+  <updated>2020-09-04T14:05:52-04:00</updated>
+  <author>
+    <name>Hamro Village Inc.</name>
+  </author>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5601716568217</id>
+    <published>2020-09-04T14:05:52-04:00</published>
+    <updated>2020-09-04T14:05:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ek-15-pemba-hat"/>
+    <title>EK-15 (Pemba Hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EK-15_a5d2272d-3023-40a3-a8e9-1794e825a0f2.jpg?v=1614192546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>This pom-pom beanie is perfect companion for your outdoor activities and provides extra comfort for fall &amp; winter weather. All our knitwear are hand-knitted in Nepal by our women knitters <span>in their homes situated on the foothills of the beautiful Himalayan range. </span></p>
+<ul>
+<li>One size fits all</li>
+<li>Hand wash<br>
+</li>
+</ul>
+<h5><em></em></h5>
+<h5><em></em></h5>
+<p> </p>
+<p> </p>
+<p><em><br><span style="color: #b3b3b3;">Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</span></em></p>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5601716568217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EK-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5601716469913</id>
+    <published>2020-09-04T14:05:50-04:00</published>
+    <updated>2020-09-04T14:05:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ek-14-amaya-hat"/>
+    <title>EK-14 (Amaya Hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EK-14_a63e6b8b-00d2-442c-a4b1-ff47f35a3546.jpg?v=1614190161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>This pom-pom beanie is perfect companion for your outdoor activities and provides extra comfort for fall &amp; winter weather. All our knitwear are hand-knitted in Nepal by our women knitters <span>in their homes situated on the foothills of the beautiful Himalayan range. </span></p>
+<ul>
+<li>One size fits all</li>
+<li>Hand wash<br>
+</li>
+</ul>
+<h5><em><span style="color: #b3b3b3;"></span></em></h5>
+<h5><em></em></h5>
+<p><em><br><span style="color: #b3b3b3;">Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</span></em></p>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5601716469913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EK-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5601716338841</id>
+    <published>2020-09-04T14:05:49-04:00</published>
+    <updated>2020-09-04T14:05:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ek-12-vermont-braided-hat"/>
+    <title>EK-12 (Vermont Braided Hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EK-12_7ce9f117-0084-4950-9c48-a0864f53b82f.jpg?v=1614190083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>This pom-pom beanie is perfect companion for your outdoor activities and provides extra comfort for fall &amp; winter weather. All our knitwear are hand-knitted in Nepal by our women knitters <span>in their homes situated on the foothills of the beautiful Himalayan range. </span></p>
+<ul>
+<li>One size fits all</li>
+<li>Hand wash<br>
+</li>
+</ul>
+<h5><em></em></h5>
+<h5><em></em></h5>
+<p><em><br><meta charset="utf-8">
+<span style="color: #c4bebe;" data-mce-style="color: #c4bebe;" data-mce-fragment="1">Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</span><br></em></p>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5601716338841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EK-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5601716240537</id>
+    <published>2020-09-04T14:05:47-04:00</published>
+    <updated>2020-09-04T14:05:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ek-11-puma-braided-hat"/>
+    <title>EK-11 (Puma Braided Hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EK-11_95bf2b4e-6612-44bf-901a-6e16e23c4f75.jpg?v=1614189947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>This pom-pom beanie is perfect companion for your outdoor activities and provides extra comfort for fall &amp; winter weather. All our knitwear are hand-knitted in Nepal by our women knitters <span>in their homes situated on the foothills of the beautiful Himalayan range. </span></p>
+<ul>
+<li>One size fits all</li>
+<li>Hand wash</li>
+</ul>
+<p> </p>
+<p><em><br><meta charset="utf-8"> <br data-mce-fragment="1"><meta charset="utf-8"> <span style="color: #c4bebe;" data-mce-fragment="1" data-mce-style="color: #c4bebe;">Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</span><br></em></p>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5601716240537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EK-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5601716043929</id>
+    <published>2020-09-04T14:05:46-04:00</published>
+    <updated>2020-09-04T14:05:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ek-9-parbat-knot-hat"/>
+    <title>EK-9 (Indra Merino Hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EK-9_e743ac63-0a15-4eea-a7fa-b3465aced798.jpg?v=1614190893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">This pom-pom beanie is perfect companion for your outdoor activities and provides extra comfort for fall &amp; winter weather. All our knitwear are hand-knitted in Nepal by our women knitters </span><span data-mce-fragment="1">in their homes situated on the foothills of the beautiful Himalayan range. </span><br><strong><br></strong>
+<ul>
+<li>
+<meta charset="utf-8">100% Merino</li>
+<li>One size fits all</li>
+<li>Hand wash</li>
+</ul>
+<h5><em><span style="color: #b3b3b3;"></span></em></h5>
+<h5><em></em></h5>
+<p><em><br><span style="color: #b3b3b3;">Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</span></em></p>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5601716043929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku>EK-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5601715912857</id>
+    <published>2020-09-04T14:05:45-04:00</published>
+    <updated>2020-09-04T14:05:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ek-8-parbat-knot-hat"/>
+    <title>EK-8 (Parbat Knot Hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EK-8_4cd6df89-397c-43ad-8b16-1a3afaedbd49.jpg?v=1614193112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="color: #3fb304;"><strong><br></strong></span><br>This pom-pom beanie is perfect companion for your outdoor activities and provides extra comfort for fall &amp; winter weather. All our knitwear are hand-knitted in Nepal by our women knitters <span>in their homes situated on the foothills of the beautiful Himalayan range. </span></p>
+<ul>
+<li>One size fits all.</li>
+<li>Wash line dry or tumble dry.</li>
+</ul>
+<h5><em><br><span style="color: #b3b3b3;">Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</span></em></h5>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5601715912857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>EK-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5601715716249</id>
+    <published>2020-09-04T14:05:43-04:00</published>
+    <updated>2020-09-04T14:05:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ek-6-lhotse-twist-hat"/>
+    <title>EK-6 (Lhotse Twist Hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EK-6_f45560b1-8942-4aff-a3df-26ca07abaead.jpg?v=1614189865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>This pom-pom beanie is perfect companion for your outdoor activities and provides extra comfort for fall &amp; winter weather. All our knitwear are hand-knitted in Nepal by our women knitters <span>in their homes situated on the foothills of the beautiful Himalayan range. </span></p>
+<ul>
+<li>One size fits all</li>
+<li>Hand wash<br>
+</li>
+</ul>
+<h5><em></em></h5>
+<p> </p>
+<p><em><br><span style="color: #b3b3b3;">Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</span></em></p>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5601715716249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>EK-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5601715617945</id>
+    <published>2020-09-04T14:05:42-04:00</published>
+    <updated>2020-09-04T14:05:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ek-5-purna-merino-hat"/>
+    <title>EK-5 (Purna Merino Hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EK-5_e19e7593-0b6f-45c4-9c28-2b418a955ed9.jpg?v=1614190385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>This pom-pom beanie is perfect companion for your outdoor activities and provides extra comfort for fall &amp; winter weather. All our knitwear are hand-knitted in Nepal by our women knitters </span><span>in their homes situated on the foothills of the beautiful Himalayan range. </span></p>
+<ul>
+<li>
+<meta charset="utf-8">100% Merino</li>
+<li>One size fits all</li>
+<li>Hand wash<br>
+</li>
+</ul>
+<h5><em><span style="color: #b3b3b3;"></span></em></h5>
+<h5><em></em></h5>
+<p> </p>
+<p> </p>
+<p><em><br><span style="color: #b3b3b3;">Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</span></em></p>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5601715617945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku>EK-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5601715454105</id>
+    <published>2020-09-04T14:05:40-04:00</published>
+    <updated>2020-09-04T14:05:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ek-4-manaslu-hat"/>
+    <title>EK-4 (Manaslu Hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EK-4_2fceae51-4baa-4b45-9441-3229005c1422.jpg?v=1614189662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>This pom-pom beanie is perfect companion for your outdoor activities and provides extra comfort for fall &amp; winter weather. All our knitwear are hand-knitted in Nepal by our women knitters <span>in their homes situated on the foothills of the beautiful Himalayan range. </span></p>
+<ul>
+<li>One size fits all</li>
+<li>Hand wash<br>
+</li>
+</ul>
+<h5><em></em></h5>
+<h5><em></em></h5>
+<p><em><br><span style="color: #b3b3b3;">Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</span></em></p>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5601715454105</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>EK-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5601715126425</id>
+    <published>2020-09-04T14:05:36-04:00</published>
+    <updated>2020-09-04T14:05:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ek-2-laysa-beanie"/>
+    <title>EK-2 (Laysa Beanie)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EK-2_a81f6f03-e735-46f6-9f0b-3cb7506f9f36.jpg?v=1614190671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>This pom-pom beanie is perfect companion for your outdoor activities and provides extra comfort for fall &amp; winter weather. All our knitwear are hand-knitted in Nepal by our women knitters <span>in their homes situated on the foothills of the beautiful Himalayan range. </span></p>
+<ul>
+<li>One size fits all.</li>
+<li>Wash line dry or tumble dry.</li>
+</ul>
+<h5><em></em></h5>
+<h5><em></em></h5>
+<p> </p>
+<p> </p>
+<p><em><br><span style="color: #b3b3b3;">Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</span></em></p>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5601715126425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EK-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/5601052623001</id>
+    <published>2020-09-04T13:16:31-04:00</published>
+    <updated>2020-09-04T13:16:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/new-hat"/>
+    <title>EK-1 (Amrita Beanie)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/EK-1.jpg?v=1614188379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This pom-pom beanie is perfect companion for your outdoor activities and provides extra comfort for fall &amp; winter weather. All our knitwear are hand-knitted in Nepal by our women knitters <span>in their homes situated on the foothills of the beautiful Himalayan range. </span></p>
+<ul>
+<li>One size fits all</li>
+<li>Hand wash<br>
+</li>
+</ul>
+<p> </p>
+<p><em><br></em><meta charset="utf-8"><span style="color: #c4bebe;"><em data-mce-fragment="1">Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></span><br> <span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/5601052623001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>EK-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549048267</id>
+    <published>2018-12-04T12:11:24-05:00</published>
+    <updated>2018-12-04T12:11:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/shree-hat-green"/>
+    <title>KSH-Green (shree hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KSH-Green_9aec35fb-03b4-4483-926f-491102bbedd6.jpg?v=1583170187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair.  This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span>
+</div>
+<div>
+<span></span><br>
+</div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549048267</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KSH-Green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549053003</id>
+    <published>2017-07-20T13:21:11-04:00</published>
+    <updated>2017-07-20T13:21:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/fresh-flowers-leafs-adorn-hat"/>
+    <title>KBFC-1 (flowers &amp; leafs adorn hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBFC-hat_f5e5b3d0-3dc1-45ae-a644-ef1d93324d38.jpg?v=1583170226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair.  This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span>
+</div>
+<div>
+<span> </span><strong><span><br></span></strong>
+</div>
+<div><span></span></div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549053003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>KBFC-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549051339</id>
+    <published>2017-07-20T13:21:02-04:00</published>
+    <updated>2017-07-20T13:21:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/crochet-hat"/>
+    <title>KNCH-1 (crochet hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KNCH-1_1c7c666b-606c-4bd9-99a7-1dab92116c77.jpg?v=1583170222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair.  This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span>
+</div>
+<div>
+<span></span><br>
+</div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.<br></em></p>
+</div>
+<ul class="pad-l2"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549051339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>KNCH-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549050315</id>
+    <published>2017-07-20T13:20:51-04:00</published>
+    <updated>2017-07-20T13:20:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/ava-hat"/>
+    <title>KAH-1 (ava hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KAH-2_8b2ba41f-243e-412f-8f0b-ed7464c159c7.jpg?v=1611772004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>
+<div>
+<meta charset="utf-8">
+<div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair.  This hat is the ultimate in cozy comfort, warm and breathable for  perfect extra fall &amp; winter weather coverage.</span>
+</div>
+<div>
+<span> </span><strong><span><br></span></strong>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p>
+</div>
+</div>
+</div>
+<ul class="pad-l2"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549050315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KAH-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549048907</id>
+    <published>2017-07-20T13:20:49-04:00</published>
+    <updated>2017-07-20T13:20:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/shree-hat-blue"/>
+    <title>KSH-Blue (shree hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KSH-Blue_04e7bf68-7e8c-4b30-bf13-5ec1e0e781a9.jpg?v=1583170193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair. This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span>
+</div>
+<div><span> </span></div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549048907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KSH-Blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549048587</id>
+    <published>2017-07-20T13:20:46-04:00</published>
+    <updated>2017-07-20T13:20:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/copy-of-shree-hat-red"/>
+    <title>KSH-Red (shree hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KSH-RED_ae899707-12e0-4b87-bdb4-54c72e81bec2.jpg?v=1583170190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair. This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span>
+</div>
+<div><span> </span></div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549048587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KSH-Red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549047627</id>
+    <published>2017-07-20T13:20:29-04:00</published>
+    <updated>2017-07-20T13:20:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/maya-hat"/>
+    <title>KMH-1 (maya hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KMH-hat-1_fa07c1cd-1deb-4468-b7da-7c1584af682d.jpg?v=1609214667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair.  This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span><br>
+</div>
+<div><span> </span></div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.<br></em></p>
+<span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549047627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>KMH-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549045707</id>
+    <published>2017-07-20T13:20:22-04:00</published>
+    <updated>2017-07-20T13:20:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/blossom-hat-purple"/>
+    <title>KBH-Purple (bloosom hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBH-PURPLE_5c84b70f-363a-41a3-a3c1-2f82585e2e90.jpg?v=1583170177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair.  This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span>
+</div>
+<div>
+<span></span><br>
+</div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549045707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KBH-Purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549045323</id>
+    <published>2017-07-20T13:20:17-04:00</published>
+    <updated>2017-07-20T13:20:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/blossom-hat-green"/>
+    <title>KBH-Green (bloosom hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBH-GREEN_879465e9-4f15-4047-9916-253fc3294617.jpg?v=1583170175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair.  This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span>
+</div>
+<div>
+<span></span><br>
+</div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549045323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KBH-Green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549044811</id>
+    <published>2017-07-20T13:20:05-04:00</published>
+    <updated>2017-07-20T13:20:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/karma-hat"/>
+    <title>KKH-1 (karma hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KKH-hat_3f1c6419-7322-4bdf-8a67-29e4febcbb2c.jpg?v=1609214635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair.  This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span><br>
+</div>
+<div><span> </span></div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.<br></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549044811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>KKH-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549043339</id>
+    <published>2017-07-20T13:19:56-04:00</published>
+    <updated>2017-07-20T13:19:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/nomad-hat"/>
+    <title>KNH-1 (nomad hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KNH-hat-1_6bde78a8-e4cb-40e0-82ef-2983828d083d.jpg?v=1609214818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair. This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span>
+</div>
+<div>
+<span></span><br>
+</div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549043339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>KNH-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549042379</id>
+    <published>2017-07-20T13:19:51-04:00</published>
+    <updated>2017-07-20T13:19:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/eden-hat"/>
+    <title>KEH-1 (eden hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KEH-hat_fdac7068-ae08-44cd-9f43-50c44e9e9706.jpg?v=1583170162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair.  This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span><br>
+</div>
+<div><span><br></span></div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.<br></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549042379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>KEH-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549041419</id>
+    <published>2017-07-20T13:19:43-04:00</published>
+    <updated>2017-07-20T13:19:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/brown-hat"/>
+    <title>KBH-1 (brown hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KBH-hat_f2d363c1-2c24-4868-8d2b-fd1c08faafb8.jpg?v=1583170157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair.  This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span>
+</div>
+<div>
+<span></span><br>
+</div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549041419</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>KBH-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hamrovillage.ca/products/9549040395</id>
+    <published>2017-07-20T13:19:37-04:00</published>
+    <updated>2017-07-20T13:19:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hamrovillage.ca/products/rose-hat-w-ear-flap"/>
+    <title>KRH2 (rose hat)</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Hamro Village</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2203/3985/products/KRH2-hat_0eed6ac1-e594-4443-8d6d-0485e548d58f.jpg?v=1583170150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hamro Village<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>The perfect winter hats for running, hiking, cross-country skiing and snowshoeing. Wear our <span>coziest hat with an undeniably Nordic flair. This hat is the ultimate in cozy comfort, warm and breathable for perfect extra fall &amp; winter weather coverage.</span>
+</div>
+<div><span> </span></div>
+<div>
+<div class="sk_new_pdp_details_hdr"><strong>Fabric &amp; Care</strong></div>
+<div class="sk_new_pdp_details_desc">
+<li>Shell is made of 100% Wool.</li>
+<li>Lining is made of 100% polyester fleece along lower 2.5" of interior.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Machine wash, line dry.</li>
+</div>
+<div class="sk_new_pdp_details_desc">
+<li>Stays warm when wet and naturally resists odors.</li>
+<li>Azo free dyes.</li>
+<li>One size fits all.<br><br>
+</li>
+</div>
+</div>
+<p> </p>
+<p><em>Please be aware that actual colors may differ slightly from their appearance on your display, as it depends on your monitor settings.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>limit-2</s:tag>
+    <s:variant>
+      <id>https://www.hamrovillage.ca/products/9549040395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>KRH2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
